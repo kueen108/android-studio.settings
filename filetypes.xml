@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="dex" type="JAVA" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="databases" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

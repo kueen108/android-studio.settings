@@ -1,0 +1,21 @@
+<templateSet group="AndroidLog">
+  <template name="loggereex" value="com.naver.neoidsdk.log.Logger.e(TAG, ex);" description="Logger.e(TAG, ex);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="loggerd" value="com.naver.neoidsdk.log.Logger.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Logger.d(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggere" value="com.naver.neoidsdk.log.Logger.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Logger.e(TAG, String)" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
