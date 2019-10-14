@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="tag" value="private val TAG = &quot;$className$&quot;" description="private val TAG = &quot;$className$&quot;;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
