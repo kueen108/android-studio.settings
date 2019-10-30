@@ -1,86 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
-        <mark key="[" line="64" column="47" />
-        <mark key="]" line="64" column="41" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="64" column="205" />
-      </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
-        <mark key="[" line="35" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginSample/src/main/java/com/naver/login/sample/NaverLoginApplication.java" timestamp="1564710633187" />
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/build.gradle" timestamp="1542960902270">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="60" />
-        <mark key="^" line="22" column="60" />
-      </file>
-      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" timestamp="1542960498968">
-        <mark key="'" line="34" column="12" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1564710558451">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="39" column="12" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="313" column="87" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="15" column="21" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="21" column="14" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="22" column="40" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="35" column="12" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiYm9vbGVhbiIsICJkZXZfdmVyc2lvbiIsICJ0cnVlIgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGl2Qnl0ZXMgPSB7fQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>0</text>
-      </register>
-      <register name="/" type="4">
-        <text>Secure</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>Secure</last-search>
-      <last-offset />
-      <last-pattern>Secure</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>Secure</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
@@ -89,5 +9,10 @@
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
