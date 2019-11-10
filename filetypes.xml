@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="chapters" type="PLAIN_TEXT" />
       <mapping pattern=".CMakeLists.txt.swp" type="PLAIN_TEXT" />
       <mapping pattern="databases" type="PLAIN_TEXT" />
-      <mapping pattern="chapters" type="PLAIN_TEXT" />
       <mapping pattern="items" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="so" type="Smali" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
