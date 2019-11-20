@@ -6,8 +6,6 @@
       <mapping pattern=".CMakeLists.txt.swp" type="PLAIN_TEXT" />
       <mapping pattern="databases" type="PLAIN_TEXT" />
       <mapping pattern="items" type="PLAIN_TEXT" />
-      <mapping ext="so" type="Smali" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
