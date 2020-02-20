@@ -1,6 +1,8 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="ADB WiFi Connect" shouldReadAloud="true" />
+    <notification groupId="Android WiFi ADB" shouldReadAloud="true" />
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
   </component>
 </application>
