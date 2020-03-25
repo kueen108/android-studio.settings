@@ -5,6 +5,9 @@
   <action id="AddNewFavoritesList">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="Android.BuildBundle">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Android.CleanRun" />
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl f4" />
