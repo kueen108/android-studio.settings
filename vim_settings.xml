@@ -1,14 +1,120 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>Secure</entry>
+        <entry>login</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
+        <mark key="[" line="64" column="47" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="64" column="205" />
+      </file>
+      <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
+        <mark key="[" line="35" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/build.gradle" timestamp="1542960902270">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="60" />
+        <mark key="^" line="22" column="60" />
+      </file>
+      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" timestamp="1542960498968">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="36" column="68" />
+      </file>
+      <file name="/fragment.java" timestamp="1564710558451">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="39" column="12" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="313" column="87" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="15" column="21" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="21" column="14" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="22" column="40" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
+      <jump line="11" column="24" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
+      <jump line="18" column="33" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoICI1ZmUxY2YxMC02MzE0LTExZTgtOWQ4MC0wMDAwMDAwMDU0NzQiLCByZXNwb25zZS5nZXRSdG5fZGF0YSgpLmdldElkKCkpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoICI1ZmUxY2YxMC02MzE0LTExZTgtOWQ4MC0wMDAwMDAwMDU0NzQiLCByZXNwb25zZS5nZXRSdG5fZGF0YSgpLmdldElkKCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGl2Qnl0ZXMgPSB7fQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text>login</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>login</last-search>
+      <last-offset />
+      <last-pattern>login</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
