@@ -8,7 +8,6 @@
     <history>
       <history-search>
         <entry>Secure</entry>
-        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -33,6 +32,12 @@
         <mark key="." line="64" column="41" />
         <mark key="^" line="64" column="205" />
       </file>
+      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" timestamp="1542960498968">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
       <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
         <mark key="[" line="35" column="53" />
       </file>
@@ -48,20 +53,13 @@
         <mark key="." line="22" column="60" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" timestamp="1542960498968">
-        <mark key="'" line="34" column="12" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="36" column="68" />
-      </file>
       <file name="/fragment.java" timestamp="1564710558451">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -72,23 +70,18 @@
       <jump line="21" column="14" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
       <jump line="22" column="40" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
       <jump line="35" column="12" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
-      <jump line="11" column="24" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
-      <jump line="35" column="23" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
-      <jump line="18" column="33" filename="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiYm9vbGVhbiIsICJkZXZfdmVyc2lvbiIsICJ0cnVlIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoICI1ZmUxY2YxMC02MzE0LTExZTgtOWQ4MC0wMDAwMDAwMDU0NzQiLCByZXNwb25zZS5nZXRSdG5fZGF0YSgpLmdldElkKCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoICI1ZmUxY2YxMC02MzE0LTExZTgtOWQ4MC0wMDAwMDAwMDU0NzQiLCByZXNwb25zZS5nZXRSdG5fZGF0YSgpLmdldElkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGl2Qnl0ZXMgPSB7fQo=</text>
@@ -100,15 +93,15 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>Secure</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>login</last-search>
+      <last-search>Secure</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>Secure</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
