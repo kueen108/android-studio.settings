@@ -43,6 +43,12 @@
       <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
         <mark key="[" line="35" column="53" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1587979734159">
+        <mark key="[" line="170" column="31" />
+        <mark key="]" line="170" column="43" />
+        <mark key="." line="170" column="42" />
+        <mark key="^" line="170" column="43" />
+      </file>
       <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
         <mark key="[" line="41" column="13" />
         <mark key="]" line="41" column="13" />
@@ -95,13 +101,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiYm9vbGVhbiIsICJkZXZfdmVyc2lvbiIsICJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdG9ja1B3SW5wdXRUZXh0VmlldyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vbnBraV9pbnB1dF9oZWlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bWF4TGluZXM9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6c2luZ2xlTGluZT0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMyYjJiMmIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGV0dGVyU3BhY2luZz0iLTAuMDMiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsfGxlZnQiCiAgICAgICAgICAgIHRvb2xzOnRleHQ9ImFzZGZkZmFzZGZhc3pkZmFzZGZhc2RmYXNkZnNkZnNkZmFzZGZkZmFzZGZhc3pkZmFzZGZhc2RmYXNkZnNkZnNkZmFzZGZkZmFzZGZhc3pkZmFzZGZhc2RmYXNkZnNkZnNkZiIgLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGFja2FnZSBjb20ubmF2ZXIuYW5kcm9pZC50ZWNoZmlubGliLnJlZ2lzdGVyCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubmF2ZXIuYW5kcm9pZC50ZWNoZmlubGliLnJlZ2lzdGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>npki_input_height</text>
       </register>
       <register name="2" type="2">
         <text>set langmap=ㅁa,ㅠb,ㅊc,ㅇd,ㄷe,ㄹf,ㅎg,ㅗh,ㅑi,ㅓj,ㅏk,ㅣl,ㅡm,ㅜn,ㅐo,ㅔp,ㅂq,ㄱr,ㄴs,ㅅt,ㅕu,ㅍv,ㅈw,ㅌx,ㅛy,ㅋz</text>
@@ -116,7 +122,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>npki_input_height</text>
       </register>
       <register name="/" type="4">
         <text>Secure</text>
