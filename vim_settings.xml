@@ -97,6 +97,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="36" column="68" />
       </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/android/inputmethod/voice/RecognitionView.kt" timestamp="1588589961323">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="49" />
+        <mark key="." line="62" column="48" />
+        <mark key="^" line="62" column="49" />
+      </file>
       <file name="$USER_HOME$/git-exam/SenseKeyboardPlus/app/build.gradle" timestamp="1588587781682">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
@@ -139,11 +145,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="/" type="4">
         <text>doConfirm</text>
