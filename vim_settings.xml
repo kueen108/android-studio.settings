@@ -30,6 +30,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/KeyAssistController.kt" timestamp="1588593592801">
+        <mark key="[" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/KeyCode.kt" timestamp="1588593758198">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="91" />
+        <mark key="." line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusControllerWide.kt" timestamp="1588593426290">
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="99" column="36" />
+        <mark key="^" line="99" column="36" />
+        <mark key="." line="99" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusControllerRight.kt" timestamp="1588593399481">
+        <mark key="[" line="103" column="33" />
+        <mark key="]" line="103" column="36" />
+        <mark key="^" line="103" column="36" />
+        <mark key="." line="103" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusControllerLeft.kt" timestamp="1588593373651">
+        <mark key="[" line="101" column="33" />
+        <mark key="]" line="101" column="36" />
+        <mark key="^" line="101" column="36" />
+        <mark key="." line="101" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusWindow.kt" timestamp="1588593564337">
+        <mark key="[" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusController.kt" timestamp="1588593342297">
+        <mark key="[" line="187" column="34" />
+        <mark key="]" line="145" column="35" />
+        <mark key="." line="145" column="34" />
+        <mark key="^" line="145" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/FocusView.kt" timestamp="1588593546856">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/EditTopSymbolActivity.kt" timestamp="1588592951612">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="9" />
@@ -59,16 +101,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>doConfirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibnBraV9yZWdpc3Rlcl9za2lwX3JlZ2lzdGVyX2J0bl9tc2ciPjwhW0NEQVRBW+yVhOuLiOyYpCwg7J247Kad7IScIOuTseuhneyXhuydtCDsp4Ttlontlanri4jri6QuXV0+PC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBTdHJpbmcoKGNvZGUudG9JbnQoKSArIGlmIChzaGlmdGVkKSBDQVBfU0hJRlRfT0ZGU0VUIGVsc2UgMCkgYXMgQ2hhci50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
