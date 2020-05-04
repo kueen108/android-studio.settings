@@ -30,46 +30,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
-        <mark key="'" line="34" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1588121990540">
         <mark key="'" line="167" column="5" />
         <mark key="[" line="175" column="8" />
         <mark key="]" line="175" column="8" />
         <mark key="." line="175" column="40" />
+        <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/build.gradle" timestamp="1542960902270">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="60" />
-        <mark key="^" line="22" column="60" />
+      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
+        <mark key="[" line="64" column="47" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="64" column="205" />
       </file>
       <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" timestamp="1542960498968">
         <mark key="'" line="34" column="12" />
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="36" column="68" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588124424371">
         <mark key="'" line="198" column="16" />
@@ -78,29 +56,51 @@
         <mark key="^" line="124" column="29" />
         <mark key="." line="123" column="20" />
       </file>
-      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
-        <mark key="[" line="64" column="47" />
-        <mark key="]" line="64" column="41" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="64" column="205" />
-      </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
-        <mark key="[" line="35" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_register_input_fragment.xml" timestamp="1588121587868" />
-      <file name="/fragment.java" timestamp="1564710558451">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587976926390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1588121759680">
         <mark key="[" line="237" column="65" />
         <mark key="]" line="237" column="77" />
         <mark key="." line="237" column="76" />
         <mark key="^" line="237" column="77" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
+        <mark key="'" line="34" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
+        <mark key="[" line="35" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="36" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/build.gradle" timestamp="1542960902270">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="60" />
+        <mark key="^" line="22" column="60" />
+      </file>
+      <file name="/fragment.java" timestamp="1564710558451">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
       </file>
     </filemarks>
     <jumps>
