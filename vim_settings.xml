@@ -11,6 +11,7 @@
         <entry>login</entry>
         <entry>LinearLayout</entry>
         <entry>doConfirm</entry>
+        <entry>getKeyCode</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -30,6 +31,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/KeyController.kt" timestamp="1588594415782">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="14" />
+        <mark key="." line="56" column="14" />
+        <mark key="^" line="56" column="20" />
+      </file>
       <file name="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/KeyAssistController.kt" timestamp="1588593592801">
         <mark key="[" line="32" column="24" />
       </file>
@@ -96,48 +104,49 @@
       <jump line="167" column="5" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" />
       <jump line="194" column="17" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="195" column="16" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="11" column="26" filename="$USER_HOME$/git/SenseKeyboardPlus/app/src/main/java/com/kokomasoft/sensekeyboardplus/KeyController.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>doConfirm</text>
+        <text>getKeyCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBTdHJpbmcoKGNvZGUudG9JbnQoKSArIGlmIChzaGlmdGVkKSBDQVBfU0hJRlRfT0ZGU0VUIGVsc2UgMCkgYXMgQ2hhci50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRLZXlDb2RlKCk6IEtleUNvZGUgewogICAgICAgIHJldHVybiBnZXRLZXlDb2RlKGtleVZpZXcuZ2V0S2V5cGFkU3RhdGVNYW5hZ2VyKCkuaXNTaGlmdGVkKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiDsnoTsi5zsvZTrk5wuLiBub3RpZnkgdG8gRkUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiDsnoTsi5zsvZTrk5wuLiBub3RpZnkgdG8gRkUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubmF2ZXIuYW5kcm9pZC50ZWNoZmlubGliLnJlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubmF2ZXIuYW5kcm9pZC50ZWNoZmlubGliLnJlZ2lzdGVyCg==</text>
+      </register>
+      <register name="8" type="2">
         <text>set langmap=ㅁa,ㅠb,ㅊc,ㅇd,ㄷe,ㄹf,ㅎg,ㅗh,ㅑi,ㅓj,ㅏk,ㅣl,ㅡm,ㅜn,ㅐo,ㅔp,ㅂq,ㄱr,ㄴs,ㅅt,ㅕu,ㅍv,ㅈw,ㅌx,ㅛy,ㅋz</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGl2Qnl0ZXMgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -146,9 +155,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>doConfirm</last-search>
+      <last-search>getKeyCode</last-search>
       <last-offset />
-      <last-pattern>doConfirm</last-pattern>
+      <last-pattern>getKeyCode</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
