@@ -11,7 +11,6 @@
         <entry>login</entry>
         <entry>LinearLayout</entry>
         <entry>doConfirm</entry>
-        <entry>compa</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -25,9 +24,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -75,25 +71,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588726984772">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1588731981538">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="111" column="91" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588731395302">
-        <mark key="'" line="165" column="15" />
-        <mark key="[" line="179" column="16" />
-        <mark key="]" line="166" column="39" />
-        <mark key="." line="166" column="38" />
-        <mark key="^" line="166" column="39" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588124424371">
+        <mark key="'" line="198" column="16" />
+        <mark key="[" line="124" column="29" />
+        <mark key="]" line="123" column="20" />
+        <mark key="^" line="124" column="29" />
+        <mark key="." line="123" column="20" />
       </file>
       <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
         <mark key="[" line="64" column="47" />
@@ -104,12 +87,7 @@
       <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
         <mark key="[" line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1588731623743">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="185" column="64" />
-      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_register_input_fragment.xml" timestamp="1588121587868" />
       <file name="/fragment.java" timestamp="1564710558451">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,56 +120,45 @@
       <jump line="167" column="5" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" />
       <jump line="194" column="17" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="195" column="16" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="278" column="39" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="37" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="143" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="36" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="142" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="33" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
-      <jump line="165" column="15" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>compa</text>
+        <text>doConfirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgUEFSQU1fQUNDT1VOVF9MSVNUID0gInBhcmFtX2FjY291bnRfbGlzdCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibnBraV9yZWdpc3Rlcl9za2lwX3JlZ2lzdGVyX2J0bl9tc2ciPjwhW0NEQVRBW+yVhOuLiOyYpCwg7J247Kad7IScIOuTseuhneyXhuydtCDsp4Ttlontlanri4jri6QuXV0+PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiDsnoTsi5zsvZTrk5wuLiBub3RpZnkgdG8gRkUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dTdG9ja1B3SW5wdXQoaW50ZW50LmdldFN0cmluZ0V4dHJhKFBBUkFNX0FDQ09VTlRfTElTVCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fRklOX0NPUlBfVFlQRSwgRmluQ29ycFR5cGUuZmluZChmaW5Db3JwVHlwZSkpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIFRBRyA9IHRoaXMuamF2YUNsYXNzLnNpbXBsZU5hbWUK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGNvbnN0IHZhbCBQQVJBTV9BQ0NPVU5UX0xJU1QgPSAicGFyYW1fYWNjb3VudF9saXN0IgogICAgfQogICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubmF2ZXIuYW5kcm9pZC50ZWNoZmlubGliLnJlZ2lzdGVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text>set langmap=ㅁa,ㅠb,ㅊc,ㅇd,ㄷe,ㄹf,ㅎg,ㅗh,ㅑi,ㅓj,ㅏk,ㅣl,ㅡm,ㅜn,ㅐo,ㅔp,ㅂq,ㄱr,ㄴs,ㅅt,ㅕu,ㅍv,ㅈw,ㅌx,ㅛy,ㅋz</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fRklOX0NPUlBfVFlQRSwgRmluQ29ycFR5cGUuZmluZChmaW5Db3JwVHlwZSkpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGl2Qnl0ZXMgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -200,9 +167,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>compa</last-search>
+      <last-search>doConfirm</last-search>
       <last-offset />
-      <last-pattern>compa</last-pattern>
+      <last-pattern>doConfirm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
