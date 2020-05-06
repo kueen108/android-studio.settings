@@ -82,17 +82,18 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1588726649370">
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1588731981538">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="91" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588727477266">
-        <mark key="[" line="174" column="5" />
-        <mark key="]" line="171" column="56" />
-        <mark key="." line="171" column="55" />
-        <mark key="^" line="171" column="56" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588731395302">
+        <mark key="'" line="165" column="15" />
+        <mark key="[" line="179" column="16" />
+        <mark key="]" line="166" column="39" />
+        <mark key="." line="166" column="38" />
+        <mark key="^" line="166" column="39" />
       </file>
       <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/preference/NaverSignPreferenceManager.java" timestamp="1558492467869">
         <mark key="[" line="64" column="47" />
@@ -103,7 +104,7 @@
       <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
         <mark key="[" line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1588727268368">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1588731623743">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
@@ -148,15 +149,16 @@
       <jump line="35" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="142" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="165" column="15" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CORP_NAME</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>CORP_NAME</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>compa</text>
@@ -165,31 +167,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgUEFSQU1fQUNDT1VOVF9MSVNUID0gInBhcmFtX2FjY291bnRfbGlzdCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fRklOX0NPUlBfVFlQRSwgRmluQ29ycFR5cGUuZmluZChmaW5Db3JwVHlwZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dTdG9ja1B3SW5wdXQoaW50ZW50LmdldFN0cmluZ0V4dHJhKFBBUkFNX0FDQ09VTlRfTElTVCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5nZXRTdHJpbmdFeHRyYShFWFRSQSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIFRBRyA9IHRoaXMuamF2YUNsYXNzLnNpbXBsZU5hbWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGNvbnN0IHZhbCBQQVJBTV9BQ0NPVU5UX0xJU1QgPSAicGFyYW1fYWNjb3VudF9saXN0IgogICAgfQogICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fRklOX0NPUlBfVFlQRSwgRmluQ29ycFR5cGUuZmluZChmaW5Db3JwVHlwZSkpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIFRBRyA9IHRoaXMuamF2YUNsYXNzLnNpbXBsZU5hbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGNvbnN0IHZhbCBQQVJBTV9BQ0NPVU5UX0xJU1QgPSAicGFyYW1fYWNjb3VudF9saXN0IgogICAgfQogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihmaW5Db3JwICE9IEZpbkNvcnBUeXBlLkFDQyl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fRklOX0NPUlBfVFlQRSwgRmluQ29ycFR5cGUuZmluZChmaW5Db3JwVHlwZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnaW5nLmQoVEFHLCAicmVxdWVzdCBhY2NvdW50TGlzdCA9ICR7YWNjb3VudExpc3R9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
