@@ -71,7 +71,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588124424371">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588725676249">
         <mark key="'" line="198" column="16" />
         <mark key="[" line="124" column="29" />
         <mark key="]" line="123" column="20" />
@@ -87,7 +87,6 @@
       <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
         <mark key="[" line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_register_input_fragment.xml" timestamp="1588121587868" />
       <file name="/fragment.java" timestamp="1564710558451">
         <mark key="[" line="0" column="0" />
       </file>
