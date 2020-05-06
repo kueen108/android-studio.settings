@@ -73,12 +73,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588738267874">
-        <mark key="'" line="202" column="16" />
-        <mark key="[" line="259" column="26" />
-        <mark key="]" line="260" column="16" />
-        <mark key="^" line="260" column="16" />
-        <mark key="." line="260" column="15" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588739221440">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="33" />
+        <mark key="^" line="53" column="33" />
+        <mark key="." line="53" column="32" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1588737853139">
         <mark key="[" line="120" column="45" />
@@ -157,48 +157,52 @@
       <jump line="128" column="32" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="130" column="12" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="202" column="16" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="264" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93S2V5cGFkKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja1B3UmVxdWVzdD8uYXBwbHkgewogICAgICAgICAgICBpZiAoY3VySW5kZXggPCBpdGVtcy5zaXplKSB7CiAgICAgICAgICAgICAgICBhcHBseVVpKGl0ZW1zW2N1ckluZGV4XSkKICAgICAgICAgICAgICAgIHJlc2V0SW5wdXRVaSgpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXF1ZXN0U3RvY2tBY2NvdW50UGFzc3dvcmQoKQogICAgICAgICAgICAgICAgY2FsbE9uQmFja0J1dHRvbigpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjdXJJbmRleCA9IGluZGV4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhcklucHV0VGV4dCgpCiAgICAgICAgc2hvd0tleXBhZCh0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICArK2N1ckluZGV4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGx5VWkoaXRlbXNbY3VySW5kZXhdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja1B3UmVxdWVzdD8uYXBwbHkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IHRlc3QgY29kZQogICAgICAgIHN0b2NrUHdWaWV3TW9kZWwuc2V0Q29ycExvZ28oImh0dHBzOi8vc3NsLnBzdGF0aWMubmV0L3N0YXRpYy9tL2FjY291bnQvYmFua3RpdGxlLzAwNC5wbmciKQogICAgICAgIHN0b2NrUHdWaWV3TW9kZWwuc2V0QWNjb3VudExhYmVsKCJLQiDsnpTrj4gg7KO87IudIO2IrOyekCDthrXsnqUiKQogICAgICAgIHN0b2NrUHdWaWV3TW9kZWwuc2V0QWNjb3VudE5vKCIxMjMqKioqMTIzNCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0SW5wdXRVaSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>else {
+                requestStockAccountPassword()
+                callOnBackButton()
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VySW5kZXggPCBzdG9ja1B3UmVxdWVzdD8uaXRlbXM/LnNpemUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IE1vdmUgdG8gdGhlIG5leHQgYWNjb3VudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHRvdGFsOiBJbnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vMi4gY2xvc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
