@@ -13,8 +13,10 @@
         <entry>doConfirm</entry>
         <entry>compa</entry>
         <entry>doNext</entry>
-        <entry>Log.</entry>
         <entry>Log\.</entry>
+        <entry>Log</entry>
+        <entry>Log.</entry>
+        <entry>Log.d</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -76,8 +78,8 @@
         <mark key="." line="36" column="68" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/KeyPadInputProcess.kt" timestamp="1588741697459" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588755792366">
-        <mark key="'" line="82" column="40" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588755858802">
+        <mark key="'" line="81" column="29" />
         <mark key="[" line="70" column="16" />
         <mark key="]" line="70" column="23" />
         <mark key="." line="70" column="22" />
@@ -173,6 +175,16 @@
       <jump line="15" column="49" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResponse.kt" />
       <jump line="71" column="22" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="82" column="40" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="110" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="274" column="32" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="98" column="41" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="99" column="38" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="272" column="32" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="13" column="47" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="69" column="16" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="80" column="40" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="81" column="29" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -184,7 +196,7 @@
         <text>Log</text>
       </register>
       <register name="/" type="4">
-        <text>Log\.</text>
+        <text>Log.d</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
@@ -223,9 +235,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Log\.</last-search>
+      <last-search>Log.d</last-search>
       <last-offset />
-      <last-pattern>Log\.</last-pattern>
+      <last-pattern>Log.d</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
