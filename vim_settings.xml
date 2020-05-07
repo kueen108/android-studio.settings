@@ -42,13 +42,8 @@
       <file name="vim_settings.xml" timestamp="1588732993611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1588121990540">
-        <mark key="'" line="167" column="5" />
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="8" />
-        <mark key="." line="175" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/TechFinRealmManager.kt" timestamp="1588818453874" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/FinLoginRepository.kt" timestamp="1588829969251" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/TechFinRealmManager.kt" timestamp="1588830434247" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588814929310">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="52" />
