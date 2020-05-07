@@ -40,7 +40,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
-        <mark key="'" line="34" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -55,21 +54,10 @@
         <mark key="." line="175" column="40" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588733451398">
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="52" />
-        <mark key="." line="42" column="51" />
-        <mark key="^" line="42" column="52" />
-      </file>
-      <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
         <mark key="'" line="18" column="33" />
@@ -90,13 +78,6 @@
         <mark key="]" line="120" column="46" />
         <mark key="." line="120" column="45" />
         <mark key="^" line="120" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588737938887">
-        <mark key="'" line="165" column="15" />
-        <mark key="[" line="195" column="35" />
-        <mark key="]" line="195" column="35" />
-        <mark key="." line="195" column="35" />
-        <mark key="^" line="190" column="38" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1588744351790">
         <mark key="[" line="75" column="0" />
@@ -131,9 +112,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1564710558451">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587976926390">
         <mark key="[" line="0" column="0" />
