@@ -39,35 +39,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="vim_settings.xml" timestamp="1588732993611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1588813800399" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1588121990540">
         <mark key="'" line="167" column="5" />
         <mark key="[" line="175" column="8" />
         <mark key="]" line="175" column="8" />
         <mark key="." line="175" column="40" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588733451398">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588814929310">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="52" />
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/FinLoginViewModel.kt" timestamp="1588813149670" />
-      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="36" column="68" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/KeyPadInputProcess.kt" timestamp="1588741697459" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1588744351790">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="107" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1588812673150">
+        <mark key="[" line="237" column="65" />
+        <mark key="]" line="237" column="77" />
+        <mark key="." line="237" column="76" />
+        <mark key="^" line="237" column="77" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1588813800399" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/ScrapConst.kt" timestamp="1588814884232" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588755858802">
         <mark key="'" line="81" column="29" />
         <mark key="[" line="70" column="16" />
@@ -82,12 +89,6 @@
         <mark key="^" line="120" column="46" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588812896033" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1588744351790">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="107" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResponse.kt" timestamp="1588749014208">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="12" column="39" />
@@ -120,12 +121,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1588812673150">
-        <mark key="[" line="237" column="65" />
-        <mark key="]" line="237" column="77" />
-        <mark key="." line="237" column="76" />
-        <mark key="^" line="237" column="77" />
       </file>
     </filemarks>
     <jumps>
