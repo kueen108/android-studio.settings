@@ -35,90 +35,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1588732993611">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/scan/ScanFragment.kt" timestamp="1588976788568">
+        <mark key="[" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1588121990540">
-        <mark key="'" line="167" column="5" />
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="8" />
-        <mark key="." line="175" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwRequest.kt" timestamp="1588737136665">
-        <mark key="[" line="9" column="110" />
-        <mark key="]" line="9" column="110" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="9" column="110" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/PayBalanceManager.kt" timestamp="1588732970241">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="66" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1588737835437">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="185" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588741352717">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="^" line="270" column="4" />
-        <mark key="." line="277" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1587976926390">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" timestamp="1588977208204">
+        <mark key="'" line="4" column="44" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1588741390149">
         <mark key="[" line="37" column="24" />
       </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/src/main/java/com/naver/nidschemelogin/MyApplication.java" timestamp="1564710597139">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/store/StoreFragment.kt" timestamp="1588977034900">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1588121759680">
-        <mark key="[" line="237" column="65" />
-        <mark key="]" line="237" column="77" />
-        <mark key="." line="237" column="76" />
-        <mark key="^" line="237" column="77" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1587977546863">
-        <mark key="'" line="34" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/lotto/LottoFragment.kt" timestamp="1588976778737">
+        <mark key="[" line="21" column="55" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1588737853139">
         <mark key="[" line="120" column="45" />
         <mark key="]" line="120" column="46" />
         <mark key="." line="120" column="45" />
         <mark key="^" line="120" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/neoid-sdk-android2/NeoIdSdkSample/src/test/java/com/naver/neoidsdksample/VoUnitTest.java" timestamp="1572476195798">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="36" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/NidSchemeLogin/app/build.gradle" timestamp="1564710462474">
-        <mark key="[" line="35" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResultCallback.kt" timestamp="1588732721218">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="58" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588733451398">
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="52" />
-        <mark key="." line="42" column="51" />
-        <mark key="^" line="42" column="52" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1588737938887">
         <mark key="'" line="165" column="15" />
@@ -127,13 +69,30 @@
         <mark key="." line="195" column="35" />
         <mark key="^" line="190" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1588976033061">
+      <file name="/Dummy.txt" timestamp="1588977008460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-exam/PermissionDemo/app/src/main/java/com/ebookfrenzy/permissiondemo/MainActivity.kt" timestamp="1572461794735">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_store.xml" timestamp="1588977329409">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/navigation/nav_graph.xml" timestamp="1588977286819">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1588741352717">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="^" line="270" column="4" />
+        <mark key="." line="277" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1588976756485">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -160,21 +119,22 @@
       <jump line="130" column="12" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="202" column="16" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="264" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="4" column="44" filename="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scan</text>
       </register>
       <register name="-" type="4">
-        <text>setStockIndex</text>
+        <text>scan</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja1B3UmVxdWVzdD8uYXBwbHkgewogICAgICAgICAgICBpZiAoY3VySW5kZXggPCBpdGVtcy5zaXplKSB7CiAgICAgICAgICAgICAgICBhcHBseVVpKGl0ZW1zW2N1ckluZGV4XSkKICAgICAgICAgICAgICAgIHJlc2V0SW5wdXRVaSgpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXF1ZXN0U3RvY2tBY2NvdW50UGFzc3dvcmQoKQogICAgICAgICAgICAgICAgY2FsbE9uQmFja0J1dHRvbigpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2Nhbl9mcmFnbWVudF9sYWJlbCI+U2NhbiBGcmFnbWVudDwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
