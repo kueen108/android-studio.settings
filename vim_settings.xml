@@ -47,21 +47,22 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg.xml" timestamp="1588995558371">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg.xml" timestamp="1588996090087">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_fg_non.xml" timestamp="1588995094396">
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/styles.xml" timestamp="1588995193740">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="30" column="62" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="30" column="62" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/styles.xml" timestamp="1588996230373">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_fg.xml" timestamp="1588995027770">
         <mark key="[" line="5" column="0" />
@@ -79,11 +80,10 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/number_add_fragment.xml" timestamp="1588995203494">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="40" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/number_add_fragment.xml" timestamp="1588996202879">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoViewModel.kt" timestamp="1588987895113">
         <mark key="[" line="14" column="36" />
@@ -172,40 +172,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmJhY2tncm91bmQiPkBkcmF3YWJsZS9sb3R0b19zZWxlY3RfaXRlbV9iZzwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF93aWR0aCI+MjZkcDwvaXRlbT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI0MGRwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuc2hvdyhhY3Rpdml0eS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjI2ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOdW1iZXJBZGRGcmFnbWVudC5uZXdJbnN0YW5jZSgpPy5sZXQgeyAK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iI2ZmZmZmZiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzaXplCiAgICAgICAgYW5kcm9pZDp3aWR0aD0iQGRpbWVuL2xvdHRvX2l0ZW1fdyIKICAgICAgICBhbmRyb2lkOmhlaWdodD0iQGRpbWVuL2xvdHRvX2l0ZW1faCIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgICA8aXRlbSBhbmRyb2lkOmRyYXdhYmxlPSJAZHJhd2FibGUvbG90dG9fc2VsZWN0X2l0ZW1fYmdfc2VsIiBhbmRyb2lkOnN0YXRlX3NlbGVjdGVkPSJ0cnVlIiAvPgogICAgPGl0ZW0gYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2xvdHRvX3NlbGVjdF9pdGVtX2JnX25vbiIgLz4KPC9zZWxlY3Rvcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgICA8aXRlbSBhbmRyb2lkOmRyYXdhYmxlPSJAZHJhd2FibGUvbG90dG9fc2VsZWN0X2l0ZW1fYmdfc2VsIiBhbmRyb2lkOnN0YXRlX3NlbGVjdGVkPSJ0cnVlIiAvPgogICAgPGl0ZW0gYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2xvdHRvX3NlbGVjdF9pdGVtX2JnX25vbiIgLz4KPC9zZWxlY3Rvcj4KPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKYW5kcm9pZDpzaGFwZT0icmVjdGFuZ2xlIj4KCjxzdHJva2UgYW5kcm9pZDp3aWR0aD0iM2RwIiBhbmRyb2lkOmNvbG9yPSJAY29sb3IvbG90dG9fc2VsZWN0X2l0ZW0iLz4KCiAgICA8L3NoYXBlPg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuc2hvdyhhY3Rpdml0eS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZG5kcm9pZDpjb2xvcj0iQGNvbG9yL2xvdHRvX2JhbGxfMV8xMCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBOdW1iZXJBZGRGcmFnbWVudC5uZXdJbnN0YW5jZSgpPy5sZXQgeyAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxzaXplCiAgICAgICAgYW5kcm9pZDp3aWR0aD0iQGRpbWVuL2xvdHRvX2l0ZW1fdyIKICAgICAgICBhbmRyb2lkOmhlaWdodD0iQGRpbWVuL2xvdHRvX2l0ZW1faCIvPgo=</text>
