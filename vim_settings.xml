@@ -42,13 +42,12 @@
         <mark key="^" line="53" column="45" />
         <mark key="." line="53" column="42" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_add.xml" timestamp="1589004740448">
-        <mark key="[" line="380" column="16" />
-        <mark key="]" line="380" column="16" />
-        <mark key="^" line="367" column="37" />
-        <mark key="." line="380" column="16" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_add.xml" timestamp="1589005487131">
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1589004550433">
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1589004863257">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="46" />
         <mark key="^" line="25" column="8" />
@@ -116,6 +115,12 @@
         <mark key="." line="4" column="73" />
         <mark key="^" line="4" column="74" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddFragment.kt" timestamp="1589005507930">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" timestamp="1589004592779">
         <mark key="'" line="3" column="34" />
         <mark key="[" line="6" column="25" />
@@ -177,20 +182,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>style=&quot;?android:attr/buttonBarButtonStyle&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJvbkNsaWNrIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;?android:attr/buttonBarButtonStyle&quot;</text>
+        <text encoding="base64">IHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvbkJhckJ1dHRvblN0eWxlIg==</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWRkX251bWJlciI+7LaU6rCAPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuQ2xlYXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9jbGVhcl9udW1iZXIiIC8+CgogICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5BZGQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9hZGRfbnVtYmVyIiAvPgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuQ2xvc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9jbG9zZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJvbkNsaWNrIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
@@ -199,7 +204,7 @@
         <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvYnV0dG9uQmFyQnV0dG9uU3R5bGUiCg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvYnV0dG9uQmFyQnV0dG9uU3R5bGUiCg==</text>
@@ -208,13 +213,13 @@
         <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvYnV0dG9uQmFyQnV0dG9uU3R5bGUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuQ2xlYXIiCiAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvbkJhckJ1dHRvblN0eWxlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvY2xlYXJfbnVtYmVyIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvYnV0dG9uQmFyQnV0dG9uU3R5bGUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9ImRwIgo=</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuQ2xlYXIiCiAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvbkJhckJ1dHRvblN0eWxlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvY2xlYXJfbnVtYmVyIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuQ2xvc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i64ur6riwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9ImRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
