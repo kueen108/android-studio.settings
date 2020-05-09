@@ -122,11 +122,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/NumberAddFragment.kt" timestamp="1589000817721">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/NumberAddFragment.kt" timestamp="1589001046252">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="19" column="54" />
+        <mark key="." line="19" column="53" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/MainActivity.kt" timestamp="1588989683946">
         <mark key="[" line="16" column="0" />
@@ -171,11 +171,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iMTBkcCIK</text>
+      <register name="&quot;" type="4">
+        <text>.apply { = false }</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>.apply { = false }</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
