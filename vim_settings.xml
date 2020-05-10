@@ -38,11 +38,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589014735962">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589080236045">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg_non.xml" timestamp="1589013928157">
         <mark key="[" line="16" column="21" />
@@ -50,11 +50,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddFragment.kt" timestamp="1589015059050">
-        <mark key="'" line="116" column="24" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="8" />
-        <mark key="." line="99" column="8" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddFragment.kt" timestamp="1589080625969">
+        <mark key="'" line="134" column="24" />
+        <mark key="[" line="108" column="24" />
+        <mark key="]" line="108" column="24" />
+        <mark key="^" line="107" column="51" />
+        <mark key="." line="108" column="24" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_11_20.xml" timestamp="1589012868583" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg_sel.xml" timestamp="1589013937104">
@@ -70,11 +71,11 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1589015291820">
-        <mark key="[" line="63" column="55" />
-        <mark key="]" line="63" column="55" />
-        <mark key="." line="63" column="55" />
-        <mark key="^" line="63" column="28" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1589080363944">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="32" />
+        <mark key="." line="87" column="32" />
+        <mark key="^" line="86" column="43" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_add.xml" timestamp="1589010523463">
         <mark key="[" line="378" column="37" />
@@ -88,19 +89,18 @@
         <mark key="^" line="38" column="54" />
         <mark key="." line="38" column="53" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddViewModel.kt" timestamp="1589014662981">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="14" column="44" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddViewModel.kt" timestamp="1589080664924">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_21_30.xml" timestamp="1589012880446" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg.xml" timestamp="1589009284368" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/ILottoAdd.kt" timestamp="1589011046628">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/ILottoAdd.kt" timestamp="1589080344010">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/styles.xml" timestamp="1589013862111">
         <mark key="[" line="25" column="43" />
@@ -163,44 +163,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb3R0b1ZpZXdNb2RlbC5hZGRMb3R0byhMb3R0b0l0ZW0obnVtcy5zb3J0ZWQoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9sb3R0b0l0ZW1Gb3JVaSA9IE11dGFibGVMaXZlRGF0YTxMb3R0b0l0ZW0+KCkKICAgIHZhbCBsb3R0b0l0ZW1Gb3JVaTogTGl2ZURhdGE8TG90dG9JdGVtPiA9IF9sb3R0b0l0ZW1Gb3JVaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpTG90dG9BZGQgewo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFkZFNldDogTGl2ZURhdGE8U2V0PEludD4+ID0gX2FkZFNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YWwgX2FkZFNldCA9IE11dGFibGVMaXZlRGF0YTxTZXQ8SW50Pj4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIG51bVNldDogTGl2ZURhdGE8U2V0PEludD4+ID0gX251bVNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YWwgX251bVNldCA9IE11dGFibGVMaXZlRGF0YTxTZXQ8SW50Pj4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VjdXJlUmFuZG9tLgo=</text>
+        <text encoding="base64">ICAgICAgICBfbnVtU2V0LnZhbHVlID0gbnVtcy50b1NldCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUlucHV0Q29tcGxldGVkVWkoaXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTG90dG9JdGVtIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmlucHV0Q29tcGxldGVkLnZhbHVlPy5sZXQgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
