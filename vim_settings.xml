@@ -18,6 +18,7 @@
         <entry>Log.</entry>
         <entry>Log.d</entry>
         <entry>items</entry>
+        <entry>CorpInfoRe</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -74,11 +75,12 @@
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/ScrapConst.kt" timestamp="1588814884232" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/InappActivity.kt" timestamp="1589163535786" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1589184005993">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="65" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="285" column="20" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1589186588715">
+        <mark key="'" line="277" column="25" />
+        <mark key="[" line="269" column="31" />
+        <mark key="]" line="277" column="26" />
+        <mark key="." line="277" column="25" />
+        <mark key="^" line="277" column="26" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1589163527701">
         <mark key="[" line="120" column="45" />
@@ -156,18 +158,20 @@
       <jump line="80" column="40" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="81" column="29" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
       <jump line="282" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="59" column="62" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
+      <jump line="277" column="25" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHN0b2NrUHdSZXBvc2l0b3J5IGJ5IGxhenkgeyBTdG9ja1B3UmVwb3NpdG9yeSgpIH0K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://ssl.pstatic.net/static/m/account/banktitle/${stockPwRequestItem.corpId}.png&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>CorpInfoRe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHN0b2NrUHdSZXBvc2l0b3J5IGJ5IGxhenkgeyBTdG9ja1B3UmVwb3NpdG9yeSgpIH0K</text>
@@ -206,9 +210,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>items</last-search>
+      <last-search>CorpInfoRe</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>CorpInfoRe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
