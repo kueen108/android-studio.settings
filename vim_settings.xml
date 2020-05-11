@@ -40,11 +40,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/FinLoginRepository.kt" timestamp="1589173691298">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="100" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/FinLoginRepository.kt" timestamp="1589176696846">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="36" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/TechFinRealmManager.kt" timestamp="1588830434247" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/TechFinRealmManager.kt" timestamp="1589176464037" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1588814929310">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="52" />
@@ -62,13 +62,12 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/KeyPadInputProcess.kt" timestamp="1589174018360" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1589174660345">
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="15" />
-        <mark key="^" line="47" column="16" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1589177579880">
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="52" column="71" />
+        <mark key="^" line="52" column="71" />
+        <mark key="." line="52" column="70" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1588813800399" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/CorpInfoRepository.kt" timestamp="1589171466121">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="65" />
@@ -99,11 +98,17 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="9" column="110" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589173873983">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="43" column="50" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589177281561">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="35" column="66" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="35" column="66" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/TechFinRealmModule.kt" timestamp="1589176518181">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/exception/ResultEmptyException.kt" timestamp="1589171422161">
         <mark key="[" line="16" column="6" />
@@ -155,44 +160,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>items</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91c2VySW5wdXREYXRhUHJvY2Vzc1N1Y2Nlc3MudmFsdWUgPSBmYWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF91c2VySW5wdXREYXRhUHJvY2Vzc1N1Y2Nlc3MudmFsdWUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b2NrUHdSZXBvc2l0b3J5Lmluc2VydFN0b2NrUHcobmF2ZXJJZCwgc3RvY2tQd1JlcXVlc3RJdGVtLmFjY051bSwgcHdBcnJheSkKICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQogICAgICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKICAgICAgICAgICAgICAgICAgICAgICAgb25Db21wbGV0ZSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91c2VySW5wdXREYXRhUHJvY2Vzc1N1Y2Nlc3MudmFsdWUgPSB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0sIG9uRXJyb3IgPSB7IHQgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHQucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91c2VySW5wdXREYXRhUHJvY2Vzc1N1Y2Nlc3MudmFsdWUgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja1B3UmVxdWVzdD8ubGV0IHsKICAgICAgICAgICAgc3RvY2tQd1ZpZXdNb2RlbC5kb25lKGl0Lml0ZW1zW2N1ckluZGV4XSwgZGF0YSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdG9ja1B3RGF0YSA9IFN0b2NrUHdEYXRhKCkuYXBwbHl7CiAgICAgICAgICAgICAgICAgICAgYWNjTnVtID0gc3RvY2tQd1JlcXVlc3RJdGVtLmFjY051bQogICAgICAgICAgICAgICAgICAgIGNvcnBJZCA9IHN0b2NrUHdSZXF1ZXN0SXRlbS5jb3JwSWQKICAgICAgICAgICAgICAgICAgICBhY2NOYW1lID0gc3RvY2tQd1JlcXVlc3RJdGVtLmFjY05hbWUKICAgICAgICAgICAgICAgICAgICBhY2NQdyA9ICIiCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gVE9ETzogdGVzdCBjb2RlCiAgICAgICAgc3RvY2tQd1JlcG9zaXRvcnkuZ2V0U3RvY2tQdyhuYXZlcklkLCBzdG9ja1B3UmVxdWVzdEl0ZW0uYWNjTnVtKQogICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQogICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgLnN1YnNjcmliZUJ5KAogICAgICAgICAgICAgICAgb25TdWNjZXNzID0geyBwdyAtPgogICAgICAgICAgICAgICAgICAgIExvZ2dpbmcuZChUQUcsICJuYXZlcklkOiAke25hdmVySWR9IC8gYWNjTnVtOiAke3N0b2NrUHdSZXF1ZXN0SXRlbS5hY2NOdW19IC8gcHc6ICR7cHd9IikKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkVycm9yID0geyB0IC0+CiAgICAgICAgICAgICAgICAgICAgdC5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVhbG0gPSBUZWNoRmluUmVhbG1NYW5hZ2VyLmdldEluc3RhbmNlKCkKICAgICAgICByZWFsbS51c2UgewogICAgICAgICAgICBpdC5leGVjdXRlVHJhbnNhY3Rpb24gewogICAgICAgICAgICAgICAgaXQuaW5zZXJ0T3JVcGRhdGUoZGF0YSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbnNlcnRTdG9ja1B3KGRhdGE6IFN0b2NrUHdEYXRhKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiB0ZXN0IGNvZGUKLy8gICAgICAgIHN0b2NrUHdSZXBvc2l0b3J5LmdldFN0b2NrUHcobmF2ZXJJZCwgc3RvY2tQd1JlcXVlc3RJdGVtLmFjY051bSkKLy8gICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQovLyAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQovLyAgICAgICAgICAgIC5zdWJzY3JpYmVCeSgKLy8gICAgICAgICAgICAgICAgb25TdWNjZXNzID0geyBwdyAtPgovLyAgICAgICAgICAgICAgICAgICAgTG9nZ2luZy5kKFRBRywgIm5hdmVySWQ6ICR7bmF2ZXJJZH0gLyBhY2NOdW06ICR7c3RvY2tQd1JlcXVlc3RJdGVtLmFjY051bX0gLyBwdzogJHtwd30iKQovLyAgICAgICAgICAgICAgICB9LAovLyAgICAgICAgICAgICAgICBvbkVycm9yID0geyB0IC0+Ci8vICAgICAgICAgICAgICAgICAgICB0LnByaW50U3RhY2tUcmFjZSgpCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZGVtaXR0ZXIub25TdWNjZXNzKHJlYWxtLmNvcHlGcm9tUmVhbG0oaXQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBlbmNyeXB0ZWRTdHJpbmcgPSBUZWNoRmluS2V5U3RvcmVNYW5hZ2VyLmVuY3J5cHREYXRhQnlVc2VySWQobmF2ZXJJZCEhLCBwd0FycmF5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF91c2VySW5wdXREYXRhUHJvY2Vzc1N1Y2Nlc3MudmFsdWUgPSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
