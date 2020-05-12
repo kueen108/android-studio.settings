@@ -57,7 +57,12 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/KeyPadInputProcess.kt" timestamp="1588741697459" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589189510603" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589246684072">
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="113" column="22" />
+        <mark key="." line="113" column="22" />
+        <mark key="^" line="113" column="96" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1588741390149">
         <mark key="[" line="37" column="24" />
         <mark key="]" line="40" column="65" />
@@ -138,17 +143,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4gKHJlZ2lzdHJhdGlvbkNvcnApIHsKLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IHsKLy8gICAgICAgICAgICAgICAgLy8g7Kad6raM7LaU6rCAOiBTVE9DSyDsnbzqsr3smrAg7KO866+867KI7Zi4IOyeheugpSDrtojtlYTsmpQuCi8vICAgICAgICAgICAgICAgIGdvUmVnaXN0ZXJJbmFwcCgpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIGVsc2UgLT4gewovLyAgICAgICAgICAgICAgICAvLyDquLDsobTsvZTrk5wKLy8gICAgICAgICAgICAgICAgKGFjdGl2aXR5IGFzPyBUZWNoRmluTWFpbkFjdGl2aXR5KT8uc2hvd05QS0lSZWdpc3RlcigKLy8gICAgICAgICAgICAgICAgICAgIGFsbE9yT25lID0gTnBraVJlZ2lzdGVyLkFMTCwKLy8gICAgICAgICAgICAgICAgICAgIHJlZ2lzdHJhdGlvbkNvcnAgPSByZWdpc3RyYXRpb25Db3JwCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>K</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja1B3UmVxdWVzdD8uYXBwbHkgewogICAgICAgICAgICBpZiAoY3VySW5kZXggPCBpdGVtcy5zaXplKSB7CiAgICAgICAgICAgICAgICBhcHBseVVpKGl0ZW1zW2N1ckluZGV4XSkKICAgICAgICAgICAgICAgIHJlc2V0SW5wdXRVaSgpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXF1ZXN0U3RvY2tBY2NvdW50UGFzc3dvcmQoKQogICAgICAgICAgICAgICAgY2FsbE9uQmFja0J1dHRvbigpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBURUNIRklOX1NUT0NLX1JFR0lTVFJBVE9JTl9VUkwgPQogICAgICAgIGdldFNlcnZlclVybCgiY2FyZF9tYWluX2xpc3RfdXJsIikgPzogcnVuIHsgIiRORVdfUEFZX0RPTUFJTi8jL215bW9uZXkvcmVnaXN0cmF0aW9uP2ZpbmFuY2U9c3RvY2siIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIHdoZW4gKHJlZ2lzdHJhdGlvbkNvcnApIHsKLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IHsKLy8gICAgICAgICAgICAgICAgLy8g7Kad6raM7LaU6rCAOiBTVE9DSyDsnbzqsr3smrAg7KO866+867KI7Zi4IOyeheugpSDrtojtlYTsmpQuCi8vICAgICAgICAgICAgICAgIGdvUmVnaXN0ZXJJbmFwcCgpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIGVsc2UgLT4gewovLyAgICAgICAgICAgICAgICAvLyDquLDsobTsvZTrk5wKLy8gICAgICAgICAgICAgICAgKGFjdGl2aXR5IGFzPyBUZWNoRmluTWFpbkFjdGl2aXR5KT8uc2hvd05QS0lSZWdpc3RlcigKLy8gICAgICAgICAgICAgICAgICAgIGFsbE9yT25lID0gTnBraVJlZ2lzdGVyLkFMTCwKLy8gICAgICAgICAgICAgICAgICAgIHJlZ2lzdHJhdGlvbkNvcnAgPSByZWdpc3RyYXRpb25Db3JwCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
