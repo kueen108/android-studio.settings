@@ -54,19 +54,26 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="72" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/card/NPKIRegisterInputFragment.kt" timestamp="1589266857994" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/entity/StockPwData.kt" timestamp="1589173512009">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="13" />
         <mark key="^" line="7" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589246684072">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589267204140">
         <mark key="[" line="113" column="22" />
         <mark key="]" line="113" column="22" />
         <mark key="." line="113" column="22" />
         <mark key="^" line="113" column="96" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/ConfigDelegatorImpl.kt" timestamp="1589189519371" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1589266961186">
+        <mark key="'" line="34" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1589258145139">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="0" />
@@ -76,8 +83,6 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="65" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/ScrapConst.kt" timestamp="1588814884232" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/InappActivity.kt" timestamp="1589163535786" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/keystore/TechFinKeyStoreManager.kt" timestamp="1589173830179" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/PlainScrapObject.kt" timestamp="1589173721184" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589177281561">
