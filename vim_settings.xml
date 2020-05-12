@@ -41,7 +41,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/assets/default_common_code.json" timestamp="1589263059659">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/assets/default_common_code.json" timestamp="1589269836400">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="5465" column="3" />
       </file>
@@ -68,6 +68,12 @@
         <mark key="^" line="113" column="96" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/ConfigDelegatorImpl.kt" timestamp="1589189519371" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1589269553818">
+        <mark key="[" line="237" column="65" />
+        <mark key="]" line="237" column="77" />
+        <mark key="." line="237" column="76" />
+        <mark key="^" line="237" column="77" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/RegisterUrlHelper.kt" timestamp="1589266961186">
         <mark key="'" line="34" column="29" />
         <mark key="[" line="0" column="0" />
@@ -83,6 +89,7 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="65" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1589269740935" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/keystore/TechFinKeyStoreManager.kt" timestamp="1589173830179" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/PlainScrapObject.kt" timestamp="1589173721184" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589177281561">
@@ -96,12 +103,6 @@
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/db/exception/ResultEmptyException.kt" timestamp="1589171422161">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
