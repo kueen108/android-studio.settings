@@ -41,10 +41,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/assets/default_common_code.json" timestamp="1589269836400">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="5465" column="3" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/InappWebViewDelegatorImpl.kt" timestamp="1589329371780" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1589326702727" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1589325689551">
@@ -83,11 +79,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589348855370">
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="12" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589350578194">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+        <mark key="^" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/FinLoginRepository.kt" timestamp="1589346742976">
         <mark key="[" line="93" column="0" />
@@ -101,6 +97,12 @@
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/job/FinJob.kt" timestamp="1589346779711" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1589329365869" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1589350434176">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="40" column="65" />
+        <mark key="^" line="52" column="71" />
+        <mark key="." line="52" column="70" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockLoginFragment.kt" timestamp="1589329064265">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="102" column="5" />
@@ -149,43 +151,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Single</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Single</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcmVhbG0gPSBUZWNoRmluUmVhbG1NYW5hZ2VyLmdldEluc3RhbmNlKCkKLy8gICAgICAgICAgICB0cnkgewovLyAgICAgICAgICAgICAgICB2YWwgc3RvY2tQd0RhdGEgPSBTdG9ja1B3RGF0YSgpLmFwcGx5IHsKLy8gICAgICAgICAgICAgICAgICAgIHRoaXMubmF2ZXJJZCA9IG5hdmVySWQKLy8gICAgICAgICAgICAgICAgICAgIHRoaXMuYWNjTnVtID0gYWNjTnVtCi8vICAgICAgICAgICAgICAgICAgICB0aGlzLmFjY1B3ID0gVGVjaEZpbktleVN0b3JlTWFuYWdlci5lbmNyeXB0RGF0YUJ5VXNlcklkKG5hdmVySWQsIHB3QXJyYXkpCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgcmVhbG0uZXhlY3V0ZVRyYW5zYWN0aW9uIHsKLy8gICAgICAgICAgICAgICAgICAgIGl0Lmluc2VydE9yVXBkYXRlKHN0b2NrUHdEYXRhKQovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCi8vICAgICAgICAgICAgfSBjYXRjaCAodDogVGhyb3dhYmxlKSB7Ci8vICAgICAgICAgICAgICAgIGVtaXR0ZXIub25FcnJvcih0KQovLyAgICAgICAgICAgIH0gZmluYWxseSB7Ci8vICAgICAgICAgICAgICAgIHJlYWxtLmNsb3NlKCkKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KFRlY2hGaW5LZXlTdG9yZU1hbmFnZXIuZW5jcnlwdERhdGFCeVVzZXJJZChuYXZlcklkLCBwd0FycmF5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGxldGFibGUuanVzdChwd0FycmF5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KHB3QXJyYXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmNyZWF0ZSB7IGVtaXR0ZXI6IFNpbmdsZUVtaXR0ZXI8U3RvY2tQd0RhdGE+IC0+CiAgICAgICAgfS5zdWJzY3JpYmVPbihUZWNoRmluS2V5U3RvcmVNYW5hZ2VyLmNpcGhlclNjaGVkdWxlcikKICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgdmFsIHJlYWxtID0gdGVjaGZpbnJlYWxtbWFuYWdlci5nZXRpbnN0YW5jZSgpCiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHZhbCBzdG9ja3B3ZGF0YSA9IHN0b2NrcHdkYXRhKCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLm5hdmVyaWQgPSBuYXZlcmlkCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWNjbnVtID0gYWNjbnVtCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWNjcHcgPSB0ZWNoZmlua2V5c3RvcmVtYW5hZ2VyLmVuY3J5cHRkYXRhYnl1c2VyaWQobmF2ZXJpZCwgcHdhcnJheSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVhbG0uZXhlY3V0ZXRyYW5zYWN0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgaXQuaW5zZXJ0b3J1cGRhdGUoc3RvY2twd2RhdGEpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHNpbmdsZS5qdXN0KHN0b2NrcHdkYXRhKQogICAgICAgICAgICAgICAgfSBjYXRjaCAodDogdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgc2luZ2xlLmp1c3QobnVsbCkKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0uY2xvc2UoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IodCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByZWFsbSA9IHRlY2hmaW5yZWFsbW1hbmFnZXIuZ2V0aW5zdGFuY2UoKQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICB2YWwgc3RvY2twd2RhdGEgPSBzdG9ja3B3ZGF0YSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5uYXZlcmlkID0gbmF2ZXJpZAogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmFjY251bSA9IGFjY251bQogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmFjY3B3ID0gdGVjaGZpbmtleXN0b3JlbWFuYWdlci5lbmNyeXB0ZGF0YWJ5dXNlcmlkKG5hdmVyaWQsIHB3YXJyYXkpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJlYWxtLmV4ZWN1dGV0cmFuc2FjdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0Lmluc2VydG9ydXBkYXRlKHN0b2NrcHdkYXRhKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBzaW5nbGUuanVzdChzdG9ja3B3ZGF0YSkKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKHQ6IHRocm93YWJsZSkgewogICAgICAgICAgICAgICAgICAgIHNpbmdsZS5qdXN0KG51bGwpCiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIHJlYWxtLmNsb3NlKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uQ29tcGxldGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5rawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmtrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByZWFsbSA9IFRlY2hGaW5SZWFsbU1hbmFnZXIuZ2V0SW5zdGFuY2UoKQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICB2YWwgc3RvY2tQd0RhdGEgPSBTdG9ja1B3RGF0YSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5uYXZlcklkID0gbmF2ZXJJZAogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmFjY051bSA9IGFjY051bQogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmFjY1B3ID0gaXQKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVhbG0uZXhlY3V0ZVRyYW5zYWN0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgaXQuaW5zZXJ0T3JVcGRhdGUoc3RvY2tQd0RhdGEpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25Db21wbGV0ZSgpCiAgICAgICAgICAgICAgICB9IGNhdGNoICh0OiBUaHJvd2FibGUpIHsKICAgICAgICAgICAgICAgICAgICBlbWl0dGVyLm9uRXJyb3IodCkKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0uY2xvc2UoKQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvQ29tcGxldGFibGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
