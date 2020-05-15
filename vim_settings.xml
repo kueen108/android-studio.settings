@@ -97,7 +97,6 @@
         <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_21_30.xml" timestamp="1589012880446" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg.xml" timestamp="1589009284368" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/ILottoAdd.kt" timestamp="1589080344010">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -116,6 +115,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1589547638280" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoViewModel.kt" timestamp="1589014867595">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="17" column="23" />
