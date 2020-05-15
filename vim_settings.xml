@@ -44,6 +44,11 @@
       <file name="vim_settings.xml" timestamp="1589554256039">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/build.gradle" timestamp="1589585307449">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589080906268">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="17" column="31" />
@@ -51,12 +56,6 @@
         <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_11_20.xml" timestamp="1589012868583" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1589011527834">
-        <mark key="[" line="79" column="42" />
-        <mark key="]" line="79" column="42" />
-        <mark key="." line="79" column="42" />
-        <mark key="^" line="36" column="30" />
-      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/net/LottoRetrofit.kt" timestamp="1589554764942">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="59" />
@@ -69,11 +68,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1589555528094">
-        <mark key="[" line="53" column="65" />
-        <mark key="]" line="53" column="66" />
-        <mark key="^" line="54" column="4" />
-        <mark key="." line="53" column="66" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1589585315965">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="65" column="4" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/network_security_config.xml" timestamp="1589556001065">
         <mark key="[" line="3" column="40" />
@@ -159,8 +158,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -175,28 +174,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8xLiBwcmVmZXJlbmNlCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXh0IHsKICAgIHJvb21WZXJzaW9uID0gJzIuMi41JwogICAgYXJjaExpZmVjeWNsZVZlcnNpb24gPSAnMi4yLjAnCiAgICBjb3JlVGVzdGluZ1ZlcnNpb24gPSAnMi4xLjAnCiAgICBtYXRlcmlhbFZlcnNpb24gPSAnMS4xLjAnCiAgICBjb3JvdXRpbmVzID0gJzEuMy40Jwp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8yLiB3ZWIK</text>
+        <text encoding="base64">ICAgIGthcHQgImFuZHJvaWR4LmxpZmVjeWNsZTpsaWZlY3ljbGUtY29tcGlsZXI6JHJvb3RQcm9qZWN0LmFyY2hMaWZlY3ljbGVWZXJzaW9uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWw6bWF0ZXJpYWw6MS4xLjAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG90dG9IaXN0b3J5ID0gaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8xLiBwcmVmZXJlbmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
