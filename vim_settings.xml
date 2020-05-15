@@ -49,11 +49,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589080906268">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589585436270">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_11_20.xml" timestamp="1589012868583" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/net/LottoRetrofit.kt" timestamp="1589554764942">
