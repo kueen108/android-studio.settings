@@ -33,6 +33,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -57,7 +60,6 @@
         <mark key="^" line="107" column="51" />
         <mark key="." line="108" column="24" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_11_20.xml" timestamp="1589012868583" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_select_item_bg_sel.xml" timestamp="1589013937104">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="3" column="8" />
@@ -77,12 +79,24 @@
         <mark key="." line="87" column="32" />
         <mark key="^" line="86" column="43" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_add.xml" timestamp="1589010523463">
-        <mark key="[" line="378" column="37" />
-        <mark key="]" line="372" column="34" />
-        <mark key="." line="372" column="34" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/net/RetrofitService.kt" timestamp="1589553772289">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_1_10.xml" timestamp="1589012874590" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1589553643505">
+        <mark key="[" line="53" column="69" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="54" column="4" />
+        <mark key="." line="54" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoHistory.kt" timestamp="1589554050715">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1589014821046">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="38" column="54" />
@@ -96,7 +110,6 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_21_30.xml" timestamp="1589012880446" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/ILottoAdd.kt" timestamp="1589080344010">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -115,7 +128,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1589547638280" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1589553670387">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoViewModel.kt" timestamp="1589014867595">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="17" column="23" />
@@ -130,7 +148,9 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/drawable/lotto_bg_31_40.xml" timestamp="1589012884352" />
+      <file name="/fragment.java" timestamp="1589553864764">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -167,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXMgPSBpdAo=</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
@@ -179,31 +199,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX2Noa0F1dG8udmFsdWUgPSBhdXRvID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXMgPSBpdAo=</text>
+        <text>}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtcyA9IF9sb3R0b0l0ZW1Gb3JVaS52YWx1ZS5udW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXMgPSBpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfY2hrQXV0by52YWx1ZSA9IGF1dG8gPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtcyA9IF9sb3R0b0l0ZW1Gb3JVaS52YWx1ZS5udW1zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIF9jaGtBdXRvMSA9IF9jaGtBdXRvCg==</text>
+        <text encoding="base64">ICAgICAgICBfY2hrQXV0by52YWx1ZSA9IGF1dG8gPSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIF9jaGtBdXRvMSA9IF9jaGtBdXRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvdHRvSXRlbUZvckFkZC52YWx1ZSA9IExvdHRvSXRlbShudW1zLnRvU2V0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVtcy5zaXplID09IE1BWF9OVU1TKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvdHRvSXRlbUZvckFkZC52YWx1ZSA9IExvdHRvSXRlbShudW1zLnRvU2V0KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVtcy5zaXplID09IE1BWF9OVU1TKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
