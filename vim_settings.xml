@@ -59,11 +59,12 @@
         <mark key="^" line="4" column="99" />
         <mark key="." line="4" column="98" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589524161607">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/StockPwRepository.kt" timestamp="1589524860970">
         <mark key="'" line="42" column="11" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="42" />
+        <mark key="^" line="90" column="43" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/FinLoginRepository.kt" timestamp="1589346742976">
         <mark key="[" line="93" column="0" />
@@ -77,9 +78,9 @@
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/job/FinJob.kt" timestamp="1589346779711" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1589329365869" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1589523234008">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="108" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1589524902470">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="78" column="13" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinJsInterface.kt" timestamp="1589359835672" />
@@ -110,11 +111,11 @@
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="64" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1589523834530">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="225" column="16" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1589524973197">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="129" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="227" column="61" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinCommonCodeManager.kt" timestamp="1589354072382" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/FinCorpType.kt" timestamp="1589327816491" />
@@ -153,43 +154,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaW5TY3JhcE1hbmFnZXIuc3RvY2tQd1Jlc3VsdENhbGxiYWNrPy5vbkRlbGV0ZVN0b2NrQWNjb3VudFBhc3N3b3JkKGNvcnBJZCwgYWNjSWQsIGFjY051bSwgZmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>doNext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnaW5nLmUoVEFHLCAiTm90IEFsbG93IHVybCwgY3VycmVudFVybD0ke2luYXBwV2ViVmlld0RlbGVnYXRvci5nZXRDdXJyZW50VXJsKCl9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaW5TY3JhcE1hbmFnZXIuc3RvY2tQd1Jlc3VsdENhbGxiYWNrPy5vbkRlbGV0ZVN0b2NrQWNjb3VudFBhc3N3b3JkKGNvcnBJZCwgYWNjSWQsIGFjY051bSwgZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXNlcklucHV0RGF0YVByb2Nlc3NTdWNjZXNzLnZhbHVlID0gZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXNlcklucHV0RGF0YVByb2Nlc3NTdWNjZXNzLnZhbHVlID0gdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQuZGVsZXRlKFN0b2NrUHdEYXRhKCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5uYXZlcklkID0gbmF2ZXJJZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5hY2NOdW0gPSBhY2NOdW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWNjUHcgPSBhY2NQdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9ic2VydmVPbihUZWNoRmluS2V5U3RvcmVNYW5hZ2VyLmNpcGhlclNjaGVkdWxlcikKICAgICAgICAgICAgLm1hcCB7CiAgICAgICAgICAgICAgICBUZWNoRmluS2V5U3RvcmVNYW5hZ2VyLmVuY3J5cHREYXRhQnlVc2VySWQobmF2ZXJJZCwgcHdBcnJheSkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXR0ZXIub25TdWNjZXNzKHRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wbGV0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5jb21wbGV0ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
