@@ -137,22 +137,22 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/Winning.kt" timestamp="1589633531126">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="4" column="10" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/Winning.kt" timestamp="1589634110758">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemDao.kt" timestamp="1589604126568">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1589633376338">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="62" column="27" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1589634705586">
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="14" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="49" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -188,43 +188,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>else {
+                 
+            }</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>evaluateWinning(lottoItem, it)</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gV2lubmluZy5SYW5rNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgd2lubmluZyA9IGV2YWx1YXRlV2lubmluZyhsb3R0b0l0ZW0sIGl0KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else {
+                 
+            }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>?: run {
+            false
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQmVzdFdpbm5pbmdMb3R0bygiJCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGlzdG9yeVNldCA9IHNldE9mKGxvaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZhbHVhdGVXaW5uaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5SXRlbS4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV2lubmluZy5Ob25lICE9IGV2YWx1YXRlV2lubmluZyhsb3R0b0l0ZW0sIGl0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text>}</text>
+        <text encoding="base64">ICAgIH0/LnJ1bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcHJlZnMgPSBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKCJwcmVmcyIsIDApCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
