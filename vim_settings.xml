@@ -41,7 +41,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1589766733675" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1589774164406" />
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1589774293647">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589526763443">
         <mark key="[" line="111" column="79" />
         <mark key="]" line="111" column="79" />
@@ -68,10 +73,6 @@
         <mark key="^" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinJsInterface.kt" timestamp="1589359835672" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/CorpInfoRepository.kt" timestamp="1589351063234">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="65" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinScrapRepository.kt" timestamp="1589528345482" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1589354437716">
         <mark key="'" line="265" column="0" />
@@ -85,13 +86,15 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1589764214712">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1589774175740">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1589771278133">
         <mark key="[" line="218" column="103" />
         <mark key="]" line="218" column="103" />
         <mark key="." line="218" column="103" />
         <mark key="^" line="218" column="103" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinCommonCodeManager.kt" timestamp="1589354072382" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/encrypt/ScrapKeyStore.kt" timestamp="1589528810633" />
     </filemarks>
     <jumps>
