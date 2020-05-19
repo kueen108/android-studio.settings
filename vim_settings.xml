@@ -42,6 +42,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1589786973153" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1589862822532">
+        <mark key="[" line="111" column="79" />
+        <mark key="]" line="111" column="79" />
+        <mark key="." line="111" column="79" />
+        <mark key="^" line="113" column="96" />
+      </file>
       <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1589776007595">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -83,12 +89,6 @@
         <mark key="[" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/techfin/impl/InappDelegatorImpl.kt" timestamp="1589793118889" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1589764155466">
-        <mark key="[" line="170" column="20" />
-        <mark key="]" line="170" column="20" />
-        <mark key="." line="170" column="20" />
-        <mark key="^" line="170" column="16" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1589791177322">
         <mark key="[" line="2" column="22" />
       </file>
