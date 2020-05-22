@@ -120,18 +120,13 @@
         <mark key="." line="24" column="49" />
       </file>
       <file name="$USER_HOME$/git/android/app/build/generated/source/buildConfig/alpha/debug/com/ascan/stiica/BuildConfig.java" timestamp="1590166524870" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoWinningHistory.kt" timestamp="1590156958563">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1590167124918">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/colors.xml" timestamp="1590171870639" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" timestamp="1590157716144">
         <mark key="'" line="44" column="16" />
         <mark key="[" line="44" column="35" />
