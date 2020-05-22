@@ -41,11 +41,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590161858216">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590163559957">
+        <mark key="[" line="92" column="39" />
+        <mark key="]" line="92" column="40" />
+        <mark key="." line="92" column="40" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/BestWinningLotto.kt" timestamp="1590153656461">
         <mark key="[" line="4" column="28" />
@@ -111,10 +110,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590162996552">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590163421879">
+        <mark key="[" line="172" column="32" />
+        <mark key="]" line="172" column="35" />
+        <mark key="." line="172" column="34" />
+        <mark key="^" line="172" column="35" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/QrCodeAnalyzer.kt" timestamp="1590161195101">
         <mark key="[" line="22" column="0" />
