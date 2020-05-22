@@ -41,11 +41,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590157164083">
-        <mark key="[" line="71" column="40" />
-        <mark key="]" line="71" column="41" />
-        <mark key="." line="71" column="41" />
-        <mark key="^" line="89" column="42" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590158639689">
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="12" />
+        <mark key="." line="89" column="43" />
+        <mark key="^" line="89" column="35" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1589599782602">
         <mark key="[" line="10" column="39" />
@@ -63,11 +63,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590157894015">
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="85" column="61" />
-        <mark key="." line="85" column="60" />
-        <mark key="^" line="85" column="61" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590158718789">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="23" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRepository.kt" timestamp="1589603690241">
         <mark key="[" line="17" column="0" />
@@ -118,12 +118,7 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRoomDatabase.kt" timestamp="1589596477579">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="13" column="41" />
-      </file>
+      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/qr/detect/QRDetectFragment.java" timestamp="1590159090429" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoViewModel.kt" timestamp="1589603918903">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="32" column="34" />
@@ -188,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
@@ -200,28 +195,28 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBwbHlMb3R0b051bVRvQnV0dG9uKGl0Lm51bTEsIGJ0bkJhbGwwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGJ0bkJhbGwwLnRleHQgPSBpdC5udW0xLnRvU3RyaW5nKCkKICAgICAgICAgICAgTG90dG9VdGlscy5sb3R0b0JnKCkKICAgICAgICAgICAgYnRuQmFsbDAudGV4dCA9IGl0Lm51bTEudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Bpbm5lclNlcS50ZXh0Vmlldy50ZXh0ID0gIiR7aXQuc2VxfSDtmowiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGJ0bkJhbGwwLnRleHQgPSBpdC5udW0xLnRvU3RyaW5nKCkKICAgICAgICAgICAgTG90dG9VdGlscy5sb3R0b0JnKCkKICAgICAgICAgICAgYnRuQmFsbDAudGV4dCA9IGl0Lm51bTEudG9TdHJpbmcoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKExvdHRvSGlzCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aGlzdG9yeUl0ZW0KICAgICAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBidG5CYWxsMC50ZXh0ID0gaGlzdG9yeUl0ZW0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGZ1biBsb3R0b0JnKG51bTogSW50KTogRHJhd2FibGU/IHsKLy8gICAgICAgICAgICB3aGVuIChudW0pIHsKLy8gICAgICAgICAgICAgICAgaW4gMS4uMTAgLT4KLy8gICAgICAgICAgICAgICAgICAgIHJldHVybiBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKGl0ZW1WaWV3LmNvbnRleHQsIFIuZHJhd2FibGUubG90dG9fYmdfMV8xMCkKLy8gICAgICAgICAgICAgICAgaW4gMTEuLjIwIC0+Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ29udGV4dENvbXBhdC5nZXREcmF3YWJsZShpdGVtVmlldy5jb250ZXh0LCBSLmRyYXdhYmxlLmxvdHRvX2JnXzExXzIwKQovLyAgICAgICAgICAgICAgICBpbiAyMS4uMzAgLT4KLy8gICAgICAgICAgICAgICAgICAgIHJldHVybiBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKGl0ZW1WaWV3LmNvbnRleHQsIFIuZHJhd2FibGUubG90dG9fYmdfMjFfMzApCi8vICAgICAgICAgICAgICAgIGluIDMxLi40MCAtPgovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUoaXRlbVZpZXcuY29udGV4dCwgUi5kcmF3YWJsZS5sb3R0b19iZ18zMV80MCkKLy8gICAgICAgICAgICAgICAgZWxzZSAtPgovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUoaXRlbVZpZXcuY29udGV4dCwgUi5kcmF3YWJsZS5sb3R0b19iZ180MV80NSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
