@@ -66,12 +66,7 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/dimens.xml" timestamp="1590155679353">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="5" column="36" />
-      </file>
+      <file name="$USER_HOME$/git/android/app/build/generated/source/buildConfig/alpha/debug/com/ascan/stiica/BuildConfig.java" timestamp="1590166524870" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoWinningHistory.kt" timestamp="1590156958563">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="12" />
@@ -89,7 +84,7 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1590166081454">
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1590167124918">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -106,14 +101,14 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590166322702">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="94" column="46" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590167073697">
+        <mark key="[" line="90" column="64" />
+        <mark key="]" line="90" column="65" />
+        <mark key="^" line="90" column="62" />
+        <mark key="." line="90" column="65" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/MainActivity.kt" timestamp="1590165932631">
-        <mark key="[" line="18" column="35" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/MainActivity.kt" timestamp="1590167098188">
+        <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="35" />
@@ -137,11 +132,11 @@
         <mark key="." line="172" column="34" />
         <mark key="^" line="172" column="35" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1590166009817">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="55" column="61" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1590166859082">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="58" column="54" />
+        <mark key="^" line="54" column="61" />
+        <mark key="." line="58" column="54" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/QrCodeAnalyzer.kt" timestamp="1590161195101">
         <mark key="[" line="22" column="0" />
@@ -189,10 +184,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">PC9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmFkcy5BZFZpZXc+</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">PC9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmFkcy5BZFZpZXc+</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
