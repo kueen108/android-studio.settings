@@ -58,15 +58,15 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590160188823">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590161277923">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="92" column="46" />
+        <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590160560323">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="40" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590161097722">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="53" column="9" />
         <mark key="^" line="52" column="40" />
         <mark key="." line="52" column="39" />
       </file>
@@ -77,8 +77,10 @@
         <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/AdapterView.java" timestamp="1590156835879" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/QrCodeAnalyzer.kt" timestamp="1590159944578">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/QrCodeAnalyzer.kt" timestamp="1590161195101">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/android/app/build.gradle" timestamp="1590159232605" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/BestWinningLotto.kt" timestamp="1590153656461">
@@ -170,44 +172,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>activity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>activity</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VsZlBlcm1pc3Npb24gPSBDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24oYmFzZUNvbnRleHQsIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eT8ubGV0IHsKICAgICAgICAgICAgRmlyZWJhc2VBcHAuaW5pdGlhbGl6ZUFwcChpdCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGFjdGl2aXR5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGNvbnRleHQsIG9wdGlvbnMsICdzZWNvbmRhcnkiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsICJDYW1lcmEgcGVybWlzc2lvbiBpcyByZXF1aXJlZC4iLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAubGV0IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text>apply plugin: 'com.google.gms.google-services'</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZlBlcm1pc3Npb24gPT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VsZlBlcm1pc3Npb24gPSBDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24oYmFzZUNvbnRleHQsIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQo=</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGFjdGl2aXR5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
