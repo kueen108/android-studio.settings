@@ -41,11 +41,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590160588062">
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="102" column="60" />
-        <mark key="." line="102" column="59" />
-        <mark key="^" line="102" column="60" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590161858216">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto.xml" timestamp="1590155484517">
         <mark key="[" line="84" column="0" />
@@ -58,23 +58,22 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/NavigateUtils.kt" timestamp="1590162351494">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="40" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590161277923">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="92" column="46" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590161097722">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="9" />
-        <mark key="^" line="52" column="40" />
-        <mark key="." line="52" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1589635905603">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590162867333">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/AdapterView.java" timestamp="1590156835879" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/QrCodeAnalyzer.kt" timestamp="1590161195101">
@@ -132,7 +131,7 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1590157683723">
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1590162247027">
         <mark key="[" line="106" column="49" />
         <mark key="]" line="106" column="49" />
         <mark key="^" line="95" column="34" />
@@ -173,7 +172,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -185,31 +184,31 @@
         <text encoding="base64">ICAgICAgICBhY3Rpdml0eT8ubGV0IHsKICAgICAgICAgICAgRmlyZWJhc2VBcHAuaW5pdGlhbGl6ZUFwcChpdCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGNvbnRleHQsIG9wdGlvbnMsICdzZWNvbmRhcnkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnJhd1ZhbHVlPy5sZXQgewogICAgICAgICAgICAgICAgICAgIGlmIChVUkxVdGlsLmlzVmFsaWRVcmwoaXQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE5hdmlnYXRlVXRpbHMub3BlbldlYkJyb3dzZXIoYWN0aXZpdHksIGl0KQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAubGV0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>apply plugin: 'com.google.gms.google-services'</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGNvbnRleHQsIG9wdGlvbnMsICdzZWNvbmRhcnkiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFwcC5pbml0aWFsaXplQXBwKGFjdGl2aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICAubGV0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaCgpCg==</text>
+        <text>apply plugin: 'com.google.gms.google-services'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
