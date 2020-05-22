@@ -41,8 +41,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1589554256039">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/BestWinningLotto.kt" timestamp="1589631914464">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/build.gradle" timestamp="1589585307449">
         <mark key="[" line="33" column="0" />
@@ -55,6 +58,30 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto.xml" timestamp="1589636322948">
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/LottoWinning.kt" timestamp="1589632294742">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoWinningHistory.kt" timestamp="1589619147589">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/repo/LottoRepository.kt" timestamp="1589557820164">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="33" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItemEntity.kt" timestamp="1589595478845">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -66,54 +93,17 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="66" column="38" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/net/LottoRetrofit.kt" timestamp="1589554764942">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="8" column="59" />
-        <mark key="." line="8" column="59" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRoomDatabase.kt" timestamp="1589596477579">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1589595398387">
         <mark key="[" line="59" column="19" />
         <mark key="]" line="59" column="20" />
         <mark key="^" line="60" column="39" />
         <mark key="." line="59" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/network_security_config.xml" timestamp="1589556001065">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="60" />
-        <mark key="^" line="3" column="61" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoHistory.kt" timestamp="1589554050715">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRepository.kt" timestamp="1589603690241">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="113" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddViewModel.kt" timestamp="1589557436621">
-        <mark key="'" line="35" column="16" />
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/repo/LottoRepository.kt" timestamp="1589557820164">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRoomDatabase.kt" timestamp="1589596477579">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoViewModel.kt" timestamp="1589603918903">
         <mark key="[" line="32" column="34" />
@@ -123,6 +113,10 @@
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" timestamp="1589602977790">
         <mark key="'" line="14" column="15" />
+        <mark key="[" line="73" column="87" />
+        <mark key="]" line="73" column="88" />
+        <mark key="^" line="73" column="89" />
+        <mark key="." line="73" column="88" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemEntityDao.kt" timestamp="1589595724846">
         <mark key="[" line="8" column="19" />
@@ -130,16 +124,41 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemRepository.kt" timestamp="1589603690241">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="113" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1589635905603">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/add/LottoAddViewModel.kt" timestamp="1589557436621">
+        <mark key="'" line="35" column="16" />
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/Winning.kt" timestamp="1589634110758">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/db/LottoItemDao.kt" timestamp="1589604126568">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1589599792257">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1590107462779">
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="45" />
         <mark key="^" line="4" column="13" />
+        <mark key="." line="70" column="45" />
       </file>
     </filemarks>
     <jumps>
