@@ -106,11 +106,11 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590165892131">
-        <mark key="[" line="90" column="62" />
-        <mark key="]" line="90" column="63" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590166322702">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="26" />
         <mark key="^" line="94" column="46" />
-        <mark key="." line="90" column="63" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/MainActivity.kt" timestamp="1590165932631">
         <mark key="[" line="18" column="35" />
@@ -189,10 +189,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
