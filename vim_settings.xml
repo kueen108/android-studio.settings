@@ -44,6 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1590383253733" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590312411636">
         <mark key="[" line="183" column="65" />
         <mark key="]" line="74" column="0" />
@@ -99,12 +100,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/NavigateUtils.kt" timestamp="1590162351494">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1590164651399">
         <mark key="[" line="0" column="0" />
