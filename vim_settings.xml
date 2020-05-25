@@ -44,7 +44,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1590383253733" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1590385670487">
+        <mark key="[" line="189" column="55" />
+        <mark key="]" line="189" column="55" />
+        <mark key="." line="189" column="55" />
+        <mark key="^" line="177" column="60" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/nhn.keystore.properties" timestamp="1590385521615" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590312411636">
         <mark key="[" line="183" column="65" />
         <mark key="]" line="74" column="0" />
@@ -101,9 +107,7 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590164651399">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/build.gradle" timestamp="1590385590704" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1590309333499">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -116,11 +120,6 @@
         <mark key="m" line="43" column="35" />
         <mark key="." line="47" column="4" />
         <mark key="^" line="47" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/build.gradle" timestamp="1590165820660">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590168591215">
         <mark key="[" line="21" column="25" />
@@ -163,10 +162,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Lotto</text>
+        <text>keystore</text>
       </register>
       <register name="-" type="4">
-        <text>Lotto</text>
+        <text>keystore</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
