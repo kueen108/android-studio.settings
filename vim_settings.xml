@@ -44,51 +44,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/nhn.keystore.properties" timestamp="1590385521615" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590312411636">
-        <mark key="[" line="183" column="65" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="171" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/SplashActivity.kt" timestamp="1590309379103">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590168305627">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1590169765449">
-        <mark key="[" line="50" column="53" />
-        <mark key="]" line="66" column="50" />
-        <mark key="^" line="56" column="61" />
-        <mark key="." line="66" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1590169694461">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" timestamp="1590309345457">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/MainActivity.kt" timestamp="1590168863136">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1590386915857">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="195" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/scan/ScanFragment.kt" timestamp="1590312411636">
+        <mark key="[" line="183" column="65" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="171" column="4" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/AndroidManifest.xml" timestamp="1590309333499">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/SplashActivity.kt" timestamp="1590309379103">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/store/StoreFragment.kt" timestamp="1590169696156">
         <mark key="[" line="47" column="5" />
@@ -97,11 +80,25 @@
         <mark key="." line="47" column="4" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1590386915857">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="195" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1590385851814">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_scan.xml" timestamp="1590168305627">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/activity_splash.xml" timestamp="1590309389011">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1590389726953" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" timestamp="1590309345457">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/repo/LottoRepository.kt" timestamp="1590311490580">
         <mark key="[" line="30" column="30" />
@@ -109,20 +106,22 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/activity_splash.xml" timestamp="1590309389011">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/build.gradle" timestamp="1590385590704" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1590385851814">
-        <mark key="[" line="2" column="22" />
-      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590168591215">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="90" column="62" />
         <mark key="." line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1590169694461">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto.xml" timestamp="1590169765449">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="66" column="50" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="66" column="50" />
       </file>
     </filemarks>
     <jumps>
