@@ -114,6 +114,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1590385851814">
+        <mark key="[" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/store/StoreFragment.kt" timestamp="1590169696156">
         <mark key="[" line="47" column="5" />
         <mark key="]" line="47" column="5" />
