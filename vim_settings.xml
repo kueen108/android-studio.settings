@@ -55,6 +55,11 @@
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1590469120272" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1590472033521" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/AndroidManifest.xml" timestamp="1590476631036" />
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1590541194335">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="32" />
+        <mark key="." line="65" column="32" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1590473175427" />
       <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/broadcast/NidBroadcastReceiver.java" timestamp="1590460653021" />
       <file name="/Dummy.txt" timestamp="1590468661104">
