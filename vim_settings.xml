@@ -20,6 +20,7 @@
         <entry>items</entry>
         <entry>CorpInfoRe</entry>
         <entry>%sButton</entry>
+        <entry>selfItem</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -59,11 +60,11 @@
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1590631864200">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoWinHistoryListAdapter.kt" timestamp="1590640534164">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="48" column="95" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoWinHistoryListAdapter.kt" timestamp="1590644726468">
+        <mark key="[" line="51" column="62" />
+        <mark key="]" line="51" column="63" />
+        <mark key="^" line="50" column="75" />
+        <mark key="." line="51" column="63" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/dimens.xml" timestamp="1590639732767">
         <mark key="[" line="11" column="53" />
@@ -75,13 +76,17 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="53" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto.xml" timestamp="1590642094678">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="36" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1590474072387">
         <mark key="[" line="264" column="18" />
         <mark key="]" line="264" column="18" />
         <mark key="." line="264" column="18" />
         <mark key="^" line="261" column="38" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1590634979329">
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1590643273553">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="54" column="9" />
         <mark key="^" line="119" column="33" />
@@ -91,17 +96,22 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto_win_history.xml" timestamp="1590640764954">
-        <mark key="[" line="90" column="30" />
-        <mark key="]" line="90" column="30" />
-        <mark key="^" line="90" column="36" />
-        <mark key="." line="90" column="30" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto_win_history.xml" timestamp="1590643892342">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoWinHistoryFragment.kt" timestamp="1590639552990">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590644815120">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoWinHistoryFragment.kt" timestamp="1590643578501">
+        <mark key="[" line="71" column="46" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" timestamp="1590635263975">
         <mark key="[" line="30" column="0" />
@@ -121,10 +131,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_win_history.xml" timestamp="1590632824450">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_win_history.xml" timestamp="1590644803779">
+        <mark key="'" line="104" column="14" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/utils/LottoUtils.kt" timestamp="1590635872250">
         <mark key="[" line="50" column="46" />
@@ -162,48 +173,49 @@
       <jump line="3" column="34" filename="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" />
       <jump line="6" column="15" filename="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" />
       <jump line="59" column="16" filename="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" />
+      <jump line="116" column="14" filename="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/fragment_lotto_win_history.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text>selItem</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>selItem</text>
       </register>
       <register name="/" type="4">
-        <text>%sButton</text>
+        <text>selfItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjNkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0W2luZGV4XS5hbHBoYSA9IGlmIChzZWxJdGVtLm51bXMuY29udGFpbnModmFsdWUpKSAxLjBmIGVsc2UgMC4xZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtVmlldy5idG5CYWxsQm9udXMuYWxwaGEgPSBpZiAoTG90dG9VdGlscy5ldmFsdWF0ZVdpbm5pbmcoc2VsSXRlbSwgaXRlbSkgPT0gV2lubmluZy5SYW5rMiAmJiAKICAgICAgICAgICAgc2VsSXRlbS5udW1zLmNvbnRhaW5zKGl0ZW0ubnVtX2JvbnVzKSkgMS4wZiBlbHNlIDAuMWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBvbkxvdHRvSXRlbUNsaWNrTGlzdGVuZXI6IE9uTG90dG9JdGVtQ2xpY2tMaXN0ZW5lcj8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0W2luZGV4XS5hbHBoYSA9IGlmIChzZWxJdGVtLm51bXMuY29udGFpbnModmFsdWUpKSAxLjBmIGVsc2UgMC4xZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtVmlldy50eHRTZXEudGV4dCA9ICIke2l0ZW0uc2VxfSDtmowiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNjb3BlQmFjayA9IENvcm91dGluZVNjb3BlKERpc3BhdGNoZXJzLkRlZmF1bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNjb3BlTWFpbiA9IENvcm91dGluZVNjb3BlKERpc3BhdGNoZXJzLk1haW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90eHRTZXEiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiNFMDgwNDAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEyZHAiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iIzAwZmYwMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90eHREZXNjIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiNFMDgwNDAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE0ZHAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -212,9 +224,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>%sButton</last-search>
-      <last-offset>ImageButton/gc</last-offset>
-      <last-pattern>%sButton</last-pattern>
+      <last-search>selfItem</last-search>
+      <last-offset />
+      <last-pattern>selfItem</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>%sButton</last-substitute>
       <last-dir>1</last-dir>
