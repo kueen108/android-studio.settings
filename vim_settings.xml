@@ -49,11 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1590477511481">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values-ko/strings.xml" timestamp="1590675894600" />
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1590631864200">
         <mark key="[" line="9" column="20" />
       </file>
@@ -76,12 +72,6 @@
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/itemview_lotto.xml" timestamp="1590642094678">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1590474072387">
-        <mark key="[" line="264" column="18" />
-        <mark key="]" line="264" column="18" />
-        <mark key="." line="264" column="18" />
-        <mark key="^" line="261" column="38" />
       </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values/strings.xml" timestamp="1590652395590">
         <mark key="[" line="9" column="32" />
@@ -111,7 +101,7 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590647636231">
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590700015564">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
@@ -158,6 +148,11 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="51" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/layout/activity_splash.xml" timestamp="1590675898223">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -194,10 +189,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>oval</text>
+        <text>645</text>
       </register>
       <register name="-" type="4">
-        <text>oval</text>
+        <text>645</text>
       </register>
       <register name="/" type="4">
         <text>selfItem</text>
