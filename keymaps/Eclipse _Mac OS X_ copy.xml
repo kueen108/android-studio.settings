@@ -31,6 +31,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="meta r" />
