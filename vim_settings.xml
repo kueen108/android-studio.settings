@@ -76,10 +76,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1590651723883">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="51" />
-        <mark key="." line="230" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1590654795990">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResultCallback.kt" timestamp="1590469105496" />
     </filemarks>
@@ -116,11 +117,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVjaEZpbk5lbG9NYW5hZ2VyLnNlbmRXYXJuTG9nKG1zZykK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TECHFIN_MAIN_ACTIVITY_REQUEST_CODE</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>%sButton</text>
