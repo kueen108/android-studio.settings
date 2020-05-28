@@ -56,12 +56,14 @@
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1590473175427" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinJsInterface.kt" timestamp="1590641689749" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1590645246117" />
-      <file name="/Dummy.txt" timestamp="1590468661104">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1590647180554" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/NavigationManager.kt" timestamp="1590475762790" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/nelo/TechFinNeloManager.kt" timestamp="1590651716848" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/InappActivity.kt" timestamp="1590480598965" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/RootingChecker.kt" timestamp="1590651715465">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="47" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1590556966258">
         <mark key="[" line="264" column="18" />
         <mark key="]" line="264" column="18" />
@@ -69,11 +71,15 @@
         <mark key="^" line="261" column="38" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1590476724645" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResponse.kt" timestamp="1590468656889" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1590477511481">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1590651723883">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="51" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwResultCallback.kt" timestamp="1590469105496" />
     </filemarks>
@@ -111,7 +117,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgVEVDSEZJTl9NQUlOX0FDVElWSVRZX1JFUVVFU1RfQ09ERSA9IDk5OTkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVjaEZpbk5lbG9NYW5hZ2VyLnNlbmRXYXJuTG9nKG1zZykK</text>
       </register>
       <register name="-" type="4">
         <text>TECHFIN_MAIN_ACTIVITY_REQUEST_CODE</text>
@@ -120,7 +126,7 @@
         <text>%sButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgVEVDSEZJTl9NQUlOX0FDVElWSVRZX1JFUVVFU1RfQ09ERSA9IDk5OTkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVjaEZpbk5lbG9NYW5hZ2VyLnNlbmRXYXJuTG9nKG1zZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHkuc3RhcnRBY3Rpdml0eShpbnRlbnQpCg==</text>
