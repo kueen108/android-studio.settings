@@ -57,11 +57,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1590541194335">
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="65" column="32" />
-        <mark key="." line="65" column="32" />
-      </file>
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1590740068088">
         <mark key="[" line="366" column="0" />
         <mark key="]" line="366" column="84" />
@@ -69,12 +64,14 @@
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/scriptengine/V8ScriptEngine.java" timestamp="1590740081859" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/engine/task/HttpTaskSingle.java" timestamp="1590740032346" />
       <file name="$USER_HOME$/git/sasapi_reverse/sasapi_v2.4.2.jar_source_from_JADX/sources/p000kr/p001co/coocon/sasapi/SASManager.java" timestamp="1590731060871" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechfinDeviceIdManager.kt" timestamp="1590744615386" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1590746067259" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechfinDeviceIdManager.kt" timestamp="1590745478724" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/engine/listener/HttpListener.java" timestamp="1590729549798" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/RootingChecker.kt" timestamp="1590651715465">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="47" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/RecoverAppChecker.kt" timestamp="1590745473552" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1590654795990">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="34" />
@@ -82,11 +79,12 @@
         <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1590730468331" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/npki/NPKIManager.kt" timestamp="1590742898823" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/npki/NPKIManager.kt" timestamp="1590745922285" />
       <file name="$USER_HOME$/git/naverapp-android/Search/AndroidManifest.xml" timestamp="1590728106490">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="20" column="79" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/generated/_Collections.kt" timestamp="1590745495643" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/System.java" timestamp="1590728888821" />
     </filemarks>
     <jumps>
