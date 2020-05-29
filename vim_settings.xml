@@ -52,7 +52,7 @@
         <mark key="]" line="65" column="32" />
         <mark key="." line="65" column="32" />
       </file>
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1590717367466" />
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1590719352236" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/RootingChecker.kt" timestamp="1590651715465">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="47" />
@@ -76,6 +76,7 @@
         <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1590716916439" />
+      <file name="$USER_HOME$/git/sasapi_reverse/sasapi_v2.4.2.jar_source_from_JADX/sources/p000kr/p001co/coocon/sasapi/SASManager.java" timestamp="1590719361588" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
