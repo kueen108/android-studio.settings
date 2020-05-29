@@ -47,33 +47,23 @@
       <file name="vim_settings.xml" timestamp="1590706431135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/InappWebViewDelegatorImpl.kt" timestamp="1590472834238" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/NaverappBaseWebView.kt" timestamp="1590475111252" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1590469120272" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1590472033521" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/AndroidManifest.xml" timestamp="1590476631036" />
       <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1590541194335">
         <mark key="[" line="65" column="31" />
         <mark key="]" line="65" column="32" />
         <mark key="." line="65" column="32" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1590473175427" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinJsInterface.kt" timestamp="1590641689749" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1590647180554" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/NavigationManager.kt" timestamp="1590475762790" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/nelo/TechFinNeloManager.kt" timestamp="1590651716848" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/InappActivity.kt" timestamp="1590480598965" />
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1590717367466" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/RootingChecker.kt" timestamp="1590651715465">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="47" />
       </file>
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/engine/task/HttpTaskSingle.java" timestamp="1590716314588" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1590474072387">
         <mark key="[" line="264" column="18" />
         <mark key="]" line="264" column="18" />
         <mark key="." line="264" column="18" />
         <mark key="^" line="261" column="38" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1590476724645" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1590477511481">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -85,6 +75,7 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="34" />
       </file>
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1590716916439" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
