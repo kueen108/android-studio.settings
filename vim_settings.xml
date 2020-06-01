@@ -50,9 +50,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/res/values-ko/strings.xml" timestamp="1590675894600" />
-      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/data/LottoItem.kt" timestamp="1590631864200">
-        <mark key="[" line="9" column="20" />
-      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoWinHistoryListAdapter.kt" timestamp="1590644726468">
         <mark key="[" line="51" column="62" />
         <mark key="]" line="51" column="63" />
@@ -85,6 +82,12 @@
         <mark key="^" line="23" column="69" />
         <mark key="." line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/repo/LottoRepository.kt" timestamp="1591011698063">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="51" />
+        <mark key="^" line="75" column="52" />
+      </file>
       <file name="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoFragment.kt" timestamp="1590643273553">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="54" column="9" />
@@ -101,7 +104,7 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1590700015564">
+      <file name="$USER_HOME$/git/LifeLotto/app/build.gradle" timestamp="1591011845199">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
@@ -189,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>645</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>645</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>selfItem</text>
