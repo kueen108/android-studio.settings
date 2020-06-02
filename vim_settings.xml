@@ -44,12 +44,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1590738640676">
-        <mark key="[" line="200" column="16" />
-        <mark key="]" line="200" column="16" />
-        <mark key="." line="200" column="16" />
-        <mark key="^" line="200" column="16" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIView.kt" timestamp="1590973523263">
         <mark key="'" line="53" column="4" />
       </file>
@@ -57,6 +51,7 @@
         <mark key="[" line="366" column="0" />
         <mark key="]" line="366" column="84" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/model/ScrapResultEmptyOutput.kt" timestamp="1591087069280" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1591085494488">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="90" column="21" />
