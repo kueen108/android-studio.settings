@@ -44,10 +44,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1591087974760">
+        <mark key="[" line="172" column="54" />
+        <mark key="]" line="172" column="54" />
+        <mark key="." line="172" column="53" />
+        <mark key="^" line="172" column="54" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIView.kt" timestamp="1590973523263">
         <mark key="'" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1590740068088">
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1591087815346">
         <mark key="[" line="366" column="0" />
         <mark key="]" line="366" column="84" />
       </file>
