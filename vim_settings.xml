@@ -44,12 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1591087974760">
-        <mark key="[" line="172" column="54" />
-        <mark key="]" line="172" column="54" />
-        <mark key="." line="172" column="53" />
-        <mark key="^" line="172" column="54" />
-      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1591087974760" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIView.kt" timestamp="1590973523263">
         <mark key="'" line="53" column="4" />
       </file>
@@ -64,12 +59,12 @@
         <mark key="." line="90" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLogInstance.class" timestamp="1591091226367" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/nelo/TechFinNeloManager.kt" timestamp="1591085100188" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1591078675357">
         <mark key="[" line="127" column="40" />
         <mark key="]" line="127" column="40" />
         <mark key="." line="127" column="40" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1591093057051" />
       <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/nelo/NidNeloManager.java" timestamp="1591086189377" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1591076963525" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1591077233134" />
