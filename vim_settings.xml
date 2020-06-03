@@ -50,9 +50,10 @@
         <mark key="]" line="366" column="84" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/model/ScrapResultEmptyOutput.kt" timestamp="1591087069280" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/job/FinJob.kt" timestamp="1591222681193" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1591096158511">
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1591085494488">
         <mark key="[" line="90" column="21" />
@@ -60,12 +61,8 @@
         <mark key="." line="90" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLogInstance.class" timestamp="1591091226367" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/build.gradle" timestamp="1591147063995" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1591078675357">
-        <mark key="[" line="127" column="40" />
-        <mark key="]" line="127" column="40" />
-        <mark key="." line="127" column="40" />
-      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/build.gradle" timestamp="1591222363299" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinJobExceptions.kt" timestamp="1591222653501" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/SendScrapDataRepository.kt" timestamp="1591097468463" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1591093057051" />
       <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/nelo/NidNeloManager.java" timestamp="1591086189377" />
