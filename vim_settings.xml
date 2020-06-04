@@ -44,30 +44,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/assets/default_common_code.json" timestamp="1591235688407" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1591096205934" />
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1591087815346">
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="84" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/model/ScrapResultEmptyOutput.kt" timestamp="1591087069280" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/job/FinJob.kt" timestamp="1591222681193" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1591096158511">
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1591085494488">
-        <mark key="[" line="90" column="21" />
-        <mark key="]" line="90" column="21" />
-        <mark key="." line="90" column="21" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLogInstance.class" timestamp="1591091226367" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/gradle/wrapper/gradle-wrapper.properties" timestamp="1591236489304" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLogInstance.class" timestamp="1591235916834" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/build.gradle" timestamp="1591222363299" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/Transport.class" timestamp="1591236060711" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinJobExceptions.kt" timestamp="1591222653501" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/repository/SendScrapDataRepository.kt" timestamp="1591097468463" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1591093057051" />
-      <file name="$USER_HOME$/git/naverid-sdk-android/NidLoginLibrary/src/main/java/com/naver/login/core/nelo/NidNeloManager.java" timestamp="1591086189377" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build/generated/source/buildConfig/debug/com/naver/android/techfinlib/BuildConfig.java" timestamp="1591235802614" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1591101582929" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLog.class" timestamp="1591091127532" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLog.class" timestamp="1591235870552" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
