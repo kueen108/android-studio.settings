@@ -47,20 +47,17 @@
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/assets/default_common_code.json" timestamp="1591235688407" />
       <file name="$USER_HOME$/git/techfin_sdk_android/gradle/wrapper/gradle-wrapper.properties" timestamp="1591236489304" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLogInstance.class" timestamp="1591235916834" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1591256914459" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1591250051123" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build/generated/source/buildConfig/debug/com/naver/android/techfinlib/BuildConfig.java" timestamp="1591235802614" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1591256169725" />
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1591256668247" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591257091291" />
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1591257709780" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/job/FinJob.kt" timestamp="1591222681193" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/build.gradle" timestamp="1591222363299" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/scriptengine/ScriptEngine.java" timestamp="1591250067408" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/Transport.class" timestamp="1591236060711" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinJobExceptions.kt" timestamp="1591222653501" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/PlainScrapObject.kt" timestamp="1591257999452" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/nelo/NeloConst.kt" timestamp="1591248063420" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1591256858571" />
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.4.2/sources/kr/co/coocon/sasapi/script/ScriptManager.java" timestamp="1591101582929" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.nelo2.android/nelo2-android-sdk-common/0.11.2/5112f0f8b0fcc77e8b56ae01e7aadb7e86bca2fc/nelo2-android-sdk-common-0.11.2.jar!/com/navercorp/nelo2/android/NeloLog.class" timestamp="1591235870552" />
     </filemarks>
     <jumps>
