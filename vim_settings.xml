@@ -48,7 +48,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/git/naverapp-android/Search/lib/AppCoreApi/src/com/nhn/android/baseapi/CommonBaseFragmentActivity.java" timestamp="1591681318175" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/res/layout/card_scanner_layout.xml" timestamp="1591681164261" />
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1591681082324" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/CardScanActivity.kt" timestamp="1591681701585" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/browser/jsinterface/InAppBrowserJavaScriptInterface.java" timestamp="1591681370113" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
