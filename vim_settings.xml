@@ -19,6 +19,8 @@
         <entry>Log.d</entry>
         <entry>items</entry>
         <entry>CorpInfoRe</entry>
+        <entry>연결</entry>
+        <entry>등록</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -44,30 +46,87 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/EmptyNPKIView.kt" timestamp="1591689202973">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="14" />
-        <mark key="^" line="38" column="15" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIListFragment.kt" timestamp="1591692644080" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/EmptyNPKIView.kt" timestamp="1591691420342">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/res/layout/card_scanner_layout.xml" timestamp="1591681164261" />
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/CardScanActivity.kt" timestamp="1591682160441" />
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/browser/jsinterface/InAppBrowserJavaScriptInterface.java" timestamp="1591682148046" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1591689015699">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1591692003939">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/lib/AppCoreApi/src/com/nhn/android/baseapi/CommonBaseFragmentActivity.java" timestamp="1591681318175" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591689077126">
-        <mark key="[" line="78" column="7" />
-        <mark key="]" line="79" column="9" />
-        <mark key="." line="79" column="8" />
-        <mark key="^" line="79" column="9" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/empty_npki_list_add_btn_border.xml" timestamp="1591691610314">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1591681082324" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/empty_npki_layout.xml" timestamp="1591688857216" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1591688878368" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/colors.xml" timestamp="1591690398174" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="31" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_import_number_border.xml" timestamp="1591690356643">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_input_text_border.xml" timestamp="1591691634670">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIViewHolder.kt" timestamp="1591690677719">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/bankidpw_register_btn_enable_border.xml" timestamp="1591691532804">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIFooterViewHolder.kt" timestamp="1591690333963">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1591692125181">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1591691092024">
+        <mark key="[" line="290" column="44" />
+        <mark key="]" line="290" column="44" />
+        <mark key="." line="290" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/bankidpw_register_btn_default_border.xml" timestamp="1591691590540" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1591691044313" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/empty_npki_list_add_btn_border_card.xml" timestamp="1591690030025">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1591690588830">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1591691869615" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="38" />
+        <mark key="." line="78" column="37" />
+        <mark key="^" line="78" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_list_item.xml" timestamp="1591690651617" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -99,48 +158,56 @@
       <jump line="6" column="15" filename="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" />
       <jump line="59" column="16" filename="$USER_HOME$/git/LifeLotto/app/src/main/java/com/kokomasoft/lifelotto/ui/lotto/LottoListAdapter.kt" />
       <jump line="53" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIView.kt" />
+      <jump line="149" column="48" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="150" column="47" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="181" column="43" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="209" column="48" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="211" column="68" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="212" column="59" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
+      <jump line="2" column="42" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT4g</text>
+        <text>_horizontal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4g</text>
+        <text>_horizontal</text>
       </register>
       <register name="/" type="4">
-        <text>%sButton</text>
+        <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQK</text>
+        <text encoding="base64">ICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSJAY29sb3IvYmx1ZV9zdHlsZV9jb2xvciIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2I1NTIiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBpc0FsbG93VXJsKHVybDogU3RyaW5nPyk6IEJvb2xlYW4gewo=</text>
+        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDp3aWR0aD0iMWRwIiBhbmRyb2lkOmNvbG9yPSIjZDNkNmRhIi8+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI2RhZGRlMyIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB3aGVuIChyZWdpc3RyYXRpb25Db3JwKSB7Ci8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5CQU5LIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyCi8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQKLy8gICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEJBTksoIiMwM2M3NWEiLCAiIzAzYzc1YSIsICIjOTk5OTk5IiwgUi5zdHJpbmcuYmFua19sb2dpbl9pZHB3X3RhYl9sYWJlbCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4gKHJlZ2lzdHJhdGlvbkNvcnApIHsKLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLkJBTksgLT4gewovLyAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmdldENvbG9yKGNvbnRleHQhISwgUi5jb2xvci5ncmVlbl9zdHlsZV9jb2xvcikubGV0IHsKLy8gICAgICAgICAgICAgICAgICAgIG5wa2lJbXBvcnRDb21wbGV0ZUJ1dHRvbi5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgICAgICBjZXJ0Tm1EYXNoMS5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgICAgICBjZXJ0Tm1EYXNoMi5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICAgICAgbnBraUltcG9ydEdlbk51bWJlckxpbmVhckxheW91dC5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5kcmF3YWJsZS5ucGtpX2ltcG9ydF9udW1iZXJfYm9yZGVyKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLkNBUkQsIFJlZ2lzdHJhdGlvbkNvcnAuU1RPQ0sgLT4gewovLyAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmdldENvbG9yKGNvbnRleHQhISwgUi5jb2xvci5ibHVlX3N0eWxlX2NvbG9yKS5sZXQgewovLyAgICAgICAgICAgICAgICAgICAgbnBraUltcG9ydENvbXBsZXRlQnV0dG9uLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgICAgIGNlcnRObURhc2gxLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgICAgIGNlcnRObURhc2gyLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBucGtpSW1wb3J0R2VuTnVtYmVyTGluZWFyTGF5b3V0LnNldEJhY2tncm91bmRSZXNvdXJjZShSLmRyYXdhYmxlLm5wa2lfaW1wb3J0X251bWJlcl9ib3JkZXJfY2FyZCkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -149,9 +216,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>%sButton</last-search>
-      <last-offset>ImageButton/gc</last-offset>
-      <last-pattern>%sButton</last-pattern>
+      <last-search>등록</last-search>
+      <last-offset />
+      <last-pattern>등록</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
