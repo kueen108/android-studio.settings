@@ -64,6 +64,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/AndroidManifest.xml" timestamp="1591777028595" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/colors.xml" timestamp="1591690398174" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
         <mark key="[" line="31" column="42" />
@@ -110,10 +111,6 @@
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/bankidpw_register_btn_default_border.xml" timestamp="1591691590540" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1591691044313" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/empty_npki_list_add_btn_border_card.xml" timestamp="1591690030025">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1591690588830">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
