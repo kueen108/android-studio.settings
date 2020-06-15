@@ -46,17 +46,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1591842197533">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/EmptyNPKIView.kt" timestamp="1591691420342">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="15" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1591692003939">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -68,17 +57,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592201457743" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/colors.xml" timestamp="1591842013869">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1591842156176" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1591841124387">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591843270485">
         <mark key="[" line="84" column="33" />
@@ -87,26 +71,10 @@
         <mark key="^" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/UserAgentDelegator.kt" timestamp="1592185976134" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_import_number_border.xml" timestamp="1591690356643">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_input_text_border.xml" timestamp="1591691634670">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIViewHolder.kt" timestamp="1591690677719">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591849995922">
-        <mark key="[" line="471" column="0" />
-        <mark key="]" line="471" column="0" />
-        <mark key="." line="471" column="0" />
-        <mark key="^" line="478" column="5" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/bankidpw_register_btn_enable_border.xml" timestamp="1591691532804">
         <mark key="[" line="2" column="0" />
@@ -119,6 +87,23 @@
         <mark key="]" line="32" column="54" />
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1591842197533">
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1591842156176" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1591841124387">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591849995922">
+        <mark key="[" line="471" column="0" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
+        <mark key="^" line="478" column="5" />
       </file>
     </filemarks>
     <jumps>
