@@ -86,6 +86,7 @@
         <mark key="." line="84" column="33" />
         <mark key="^" line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/UserAgentDelegator.kt" timestamp="1592185976134" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_import_number_border.xml" timestamp="1591690356643">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -111,11 +112,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/npki/NPKIFooterViewHolder.kt" timestamp="1591690333963">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1591692125181">
         <mark key="'" line="2" column="42" />
