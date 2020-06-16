@@ -46,9 +46,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1591842197533">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1592296803792">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="335" column="96" />
         <mark key="." line="290" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/NaverappBaseWebView.kt" timestamp="1592287024660">
@@ -57,7 +57,7 @@
         <mark key="." line="85" column="66" />
         <mark key="^" line="85" column="64" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1592284679259">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1592296889488">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="32" />
@@ -73,16 +73,16 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1592296792871" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1592215016440">
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592285242368">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="100" column="28" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592296893024">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1592284637166">
         <mark key="[" line="293" column="0" />
@@ -158,44 +158,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>loginProgress</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2luU2NyYXBpbmdQcm9ncmVzcy52aXNpYmlsaXR5ID0gaWYgKGl0KSBWaWV3LlZJU0lCTEUgZWxzZSBWaWV3LkdPTkUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWNrQnV0dG9uLmlzQ2xpY2thYmxlID0gaXQubm90KCkKICAgICAgICAgICAgICAgICAgICBucGtpSW5wdXRUZXh0Vmlldy5pc0NsaWNrYWJsZSA9IGl0Lm5vdCgpCiAgICAgICAgICAgICAgICAgICAgbnBraUlucHV0SGludFRleHRWaWV3LmlzQ2xpY2thYmxlID0gaXQubm90KCkKICAgICAgICAgICAgICAgICAgICBsb2dpblNjcmFwaW5nUHJvZ3Jlc3MudmlzaWJpbGl0eSA9IGlmIChpdCkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCiAgICAgICAgICAgICAgICAgICAgbnBraUxvZ2luUHJvZ3Jlc3NEaW1tZWRWaWV3LnZpc2liaWxpdHkgPSBpZiAoaXQpIFZpZXcuVklTSUJMRSBlbHNlIFZpZXcuR09ORQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dpblByb2dyZXNzLnZhbHVlID0gdHJ1ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86CiAgICAgICAgICAgICAgICAvLyAxLiDqs4TsoozruYTrsIDrsojtmLgg6rKA7KadIOuhnOyngSDtlYTsmpQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJhbmtJbmZvUmVnaXN0ZXJCdXR0b24uc2V0VGV4dChjb3JwU3R5bGUucmVnaXN0ZXJCdG4udGV4dFJlc0lkKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dpblNjcmFwaW5nUHJvZ3Jlc3MudmlzaWJpbGl0eSA9IGlmIChpdCkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2luU2NyYXBpbmdQcm9ncmVzcy52aXNpYmlsaXR5ID0gaWYgKGl0KSBWaWV3LlZJU0lCTEUgZWxzZSBWaWV3LkdPTkUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgZW51bSBjbGFzcyBSZWdpc3RlckJ0blN0eWxlKHZhbCB0ZXh0UmVzSWQ6IEludCwgdmFsIGVuYWJsZUJnUmVzSWQ6IEludCkgewovLyAgICAgICAgQkFOSyhSLnN0cmluZy5iYW5rSW5mb19yZWdpc3Rlcl9idG5fbGFiZWwsIFIuZHJhd2FibGUuYmFua2lkcHdfcmVnaXN0ZXJfYnRuX2VuYWJsZV9ib3JkZXIpLAovLyAgICAgICAgQ0FSRChSLnN0cmluZy5jYXJkSW5mb19yZWdpc3Rlcl9idG5fbGFiZWwsIFIuZHJhd2FibGUuY2FyZGlkcHdfcmVnaXN0ZXJfYnRuX2VuYWJsZV9ib3JkZXIpLAovLyAgICAgICAgU1RPQ0soUi5zdHJpbmcuc3RvY2tJbmZvX3JlZ2lzdGVyX2J0bl9sYWJlbCwgUi5kcmF3YWJsZS5jYXJkaWRwd19yZWdpc3Rlcl9idG5fZW5hYmxlX2JvcmRlcik7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dpblByb2dyZXNzLnZhbHVlID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBiYW5rSW5mb1JlZ2lzdGVyQnV0dG9uLnNldEJhY2tncm91bmRSZXNvdXJjZShjb3JwU3R5bGUucmVnaXN0ZXJCdG4uZW5hYmxlQmdSZXNJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86CiAgICAgICAgICAgICAgICAvLyAxLiDqs4TsoozruYTrsIDrsojtmLgg6rKA7KadIOuhnOyngSDtlYTsmpQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
