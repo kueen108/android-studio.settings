@@ -51,6 +51,12 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/NaverappBaseWebView.kt" timestamp="1592287024660">
+        <mark key="[" line="85" column="65" />
+        <mark key="]" line="85" column="66" />
+        <mark key="." line="85" column="66" />
+        <mark key="^" line="85" column="64" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1592284679259">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="33" />
@@ -84,6 +90,7 @@
         <mark key="." line="84" column="33" />
         <mark key="^" line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592287009888" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592284944876">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="17" />
@@ -151,11 +158,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
