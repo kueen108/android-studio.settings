@@ -46,11 +46,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1592296803792">
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="336" column="96" />
-        <mark key="." line="290" column="0" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/NaverappBaseWebView.kt" timestamp="1592287024660">
         <mark key="[" line="85" column="65" />
         <mark key="]" line="85" column="66" />
@@ -67,14 +62,7 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1592296792871" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/scraper/Scraper.kt" timestamp="1592357645971" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1592215016440">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/libs/sasapi_v2.5.5.jar!/kr/co/coocon/sasapi/SASManager.class" timestamp="1592357824053" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionItem.kt" timestamp="1592359378509" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1592284637166">
         <mark key="[" line="293" column="0" />
         <mark key="]" line="301" column="52" />
@@ -89,7 +77,18 @@
         <mark key="^" line="84" column="52" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/Executors.java" timestamp="1592357852326" />
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1592357293891" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build/generated/source/kapt/debug/com/naver/android/techfinlib/scrap/session/FinSessionScheduler_Factory.java" timestamp="1592360000043" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionScheduler.kt" timestamp="1592359419126" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/NPKIKeyPadFragment.kt" timestamp="1592296803792">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="336" column="96" />
+        <mark key="." line="290" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1592296792871" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/scraper/Scraper.kt" timestamp="1592357645971" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/libs/sasapi_v2.5.5.jar!/kr/co/coocon/sasapi/SASManager.class" timestamp="1592358140183" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSession.kt" timestamp="1592359398110" />
+      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1592360500301" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
