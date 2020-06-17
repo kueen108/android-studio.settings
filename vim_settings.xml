@@ -58,19 +58,9 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/keypad/FinLoginViewModel.kt" timestamp="1592284875867">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="57" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionItem.kt" timestamp="1592359378509" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1592284637166">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="301" column="52" />
-        <mark key="." line="84" column="33" />
-        <mark key="^" line="31" column="42" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592287009888" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592284944876">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592366917093">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="17" />
         <mark key="." line="104" column="0" />
@@ -84,11 +74,16 @@
         <mark key="]" line="336" column="96" />
         <mark key="." line="290" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinScrapDataSource.kt" timestamp="1592367512885" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/npki_keypad_fragment.xml" timestamp="1592296792871" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinScrapRepository.kt" timestamp="1592367215473" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/tracker/JobTracker.kt" timestamp="1592367293747" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/scraper/Scraper.kt" timestamp="1592357645971" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/ScrapRequestProxy.kt" timestamp="1592367819723" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/libs/sasapi_v2.5.5.jar!/kr/co/coocon/sasapi/SASManager.class" timestamp="1592358140183" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSession.kt" timestamp="1592359398110" />
       <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1592360500301" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/commonMain/Builders.common.kt" timestamp="1592367001558" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
