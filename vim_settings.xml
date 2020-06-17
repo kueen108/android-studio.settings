@@ -49,7 +49,7 @@
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592368965554" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionItem.kt" timestamp="1592359378509" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1592369003697" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592370219933" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592372628551" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592366917093">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="17" />
@@ -62,7 +62,6 @@
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinScrapRepository.kt" timestamp="1592367215473" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/tracker/JobTracker.kt" timestamp="1592367293747" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/scraper/Scraper.kt" timestamp="1592357645971" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/ui/ScrapViewModel.kt" timestamp="1592369072756" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/ScrapRequestProxy.kt" timestamp="1592368685094" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/libs/sasapi_v2.5.5.jar!/kr/co/coocon/sasapi/SASManager.class" timestamp="1592358140183" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSession.kt" timestamp="1592359398110" />
