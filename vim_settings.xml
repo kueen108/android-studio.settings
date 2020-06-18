@@ -47,28 +47,65 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CardScanner.kt" timestamp="1592378999476" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592368965554" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionItem.kt" timestamp="1592359378509" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592470648987">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="37" />
+        <mark key="." line="46" column="37" />
+        <mark key="^" line="46" column="21" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1592369003697" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592372628551" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592366917093">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="17" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="84" column="52" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592470556139">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/concurrent/Executors.java" timestamp="1592357852326" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build/generated/source/kapt/debug/com/naver/android/techfinlib/scrap/session/FinSessionScheduler_Factory.java" timestamp="1592360000043" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSessionScheduler.kt" timestamp="1592359419126" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592471117651">
+        <mark key="]" line="40" column="43" />
+        <mark key="^" line="40" column="56" />
+        <mark key="." line="40" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureResultCallback.kt" timestamp="1592470736592">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="91" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/FinScrapRepository.kt" timestamp="1592367215473" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechfinNClicks.kt" timestamp="1592470370080">
+        <mark key="[" line="99" column="18" />
+        <mark key="]" line="99" column="32" />
+        <mark key="." line="99" column="31" />
+        <mark key="^" line="99" column="32" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/tracker/JobTracker.kt" timestamp="1592367293747" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592470489911">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="160" column="5" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/ScrapRequestProxy.kt" timestamp="1592368685094" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/libs/sasapi_v2.5.5.jar!/kr/co/coocon/sasapi/SASManager.class" timestamp="1592358140183" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1592379541776" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/session/FinSession.kt" timestamp="1592359398110" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592369036207" />
-      <file name="$USER_HOME$/DecompiledApk/sasapi_v2.5.4/sources/kr/co/coocon/sasapi/SASManager.java" timestamp="1592360500301" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592471081177">
+        <mark key="[" line="61" column="49" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="61" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592470906879">
+        <mark key="[" line="190" column="81" />
+        <mark key="]" line="190" column="81" />
+        <mark key="." line="190" column="80" />
+        <mark key="^" line="190" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1592471105725">
+        <mark key="[" line="286" column="55" />
+        <mark key="]" line="286" column="55" />
+        <mark key="^" line="286" column="53" />
+        <mark key="." line="286" column="55" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/commonMain/Builders.common.kt" timestamp="1592367001558" />
+      <file name="/fragment.java" timestamp="1592470662820">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -112,44 +149,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>accountList</text>
       </register>
       <register name="-" type="4">
-        <text>loginProgress</text>
+        <text>accountList</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWNrQnV0dG9uLmlzQ2xpY2thYmxlID0gaXQubm90KCkKICAgICAgICAgICAgICAgICAgICBucGtpSW5wdXRUZXh0Vmlldy5pc0NsaWNrYWJsZSA9IGl0Lm5vdCgpCiAgICAgICAgICAgICAgICAgICAgbnBraUlucHV0SGludFRleHRWaWV3LmlzQ2xpY2thYmxlID0gaXQubm90KCkKICAgICAgICAgICAgICAgICAgICBsb2dpblNjcmFwaW5nUHJvZ3Jlc3MudmlzaWJpbGl0eSA9IGlmIChpdCkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCiAgICAgICAgICAgICAgICAgICAgbnBraUxvZ2luUHJvZ3Jlc3NEaW1tZWRWaWV3LnZpc2liaWxpdHkgPSBpZiAoaXQpIFZpZXcuVklTSUJMRSBlbHNlIFZpZXcuR09ORQo=</text>
+        <text encoding="base64">ICAgIGZ1biBvblJlcXVlc3RJZENhcmRDYXB0dXJlKHRyYW5zYWN0aW9uSWQ6IFN0cmluZywgYmFzZTY0SW1hZ2U6IFN0cmluZywgcmVzdWx0OiBCb29sZWFuKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBvbkRlbGV0ZVN0b2NrQWNjb3VudFBhc3N3b3JkKGNvcnBJZDogU3RyaW5nLCBhY2NJZDogU3RyaW5nLCBhY2NOdW06IFN0cmluZywgcmVzdWx0OiBCb29sZWFuKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpblNjcmFwaW5nUHJvZ3Jlc3MudmlzaWJpbGl0eSA9IGlmIChpdCkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25EZWxldGVTdG9ja0FjY291bnRQYXNzd29yZChjb3JwSWQ6IFN0cmluZywgYWNjSWQ6IFN0cmluZywgYWNjTnVtOiBTdHJpbmcsIHJlc3VsdDogQm9vbGVhbikgewogICAgICAgICAgICBMb2dnaW5nLmQoVEFHLCAib25EZWxldGVTdG9ja0FjY291bnRQYXNzd29yZCA9IHJlc3VsdCA6ICR7cmVzdWx0fSIpCiAgICAgICAgICAgIGluYXBwV2ViVmlld0RlbGVnYXRvci5ldmFsdWF0ZUphdmFzY3JpcHQoIndpbmRvdy5uYXBwVGVjaGZpbkluYXBwLm9uRGVsZXRlU3RvY2tBY2NvdW50UGFzc3dvcmQoJyRjb3JwSWQnLCAnJGFjY0lkJywgJyRhY2NOdW0nLCAnJHJlc3VsdCcpIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb3JwTG9nb0ltYWdlVmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMjRkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjIwZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90aXRsZVRleHRWaWV3IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWNjb3VudExhYmVsVGV4dFZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9jb3JwTG9nb0ltYWdlVmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMyMjIyMjIiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IiIKICAgICAgICBhbmRyb2lkOmxldHRlclNwYWNpbmc9Ii0wLjAzIgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIgogICAgICAgIHRvb2xzOnRleHQ9IktCIOyelOuPiCDso7zsi50g7Yis7J6QIO2GteyepSIvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWNjb3VudE5vVGV4dFZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9hY2NvdW50TGFiZWxUZXh0VmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiM5OTk5OTkiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IiIKICAgICAgICBhbmRyb2lkOmxldHRlclNwYWNpbmc9IjAuMCIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICB0b29sczp0ZXh0PSIxMjMqKioqMTIzNCIvPgoKICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdEFyZWEiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9ucGtpX2lucHV0X2hlaWdodCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL25wa2lJbnB1dFRleHRWaWV3IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIzNWRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIzNWRwIgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIj4KCiAgICAgICAgPEVkaXRUZXh0CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmRyYXdhYmxlL2VkaXRib3hfYmFja2dyb3VuZCIKICAgICAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6Y3Vyc29yVmlzaWJsZT0iZmFsc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6ZWRpdGFibGU9ImZhbHNlIgogICAgICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0iZmFsc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9InRleHRQYXNzd29yZCIKICAgICAgICAgICAgYW5kcm9pZDptYXhMaW5lcz0iMSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMwMDAwMDAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE1ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvckhpbnQ9IiNmZjAwMDAiIC8+CgogICAgICAgIDxIb3Jpem9udGFsU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2tleVNjcm9sbFZpZXciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJWZXJ0aWNhbD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6aW1wb3J0YW50Rm9yQWNjZXNzaWJpbGl0eT0ibm8iCiAgICAgICAgICAgIGFuZHJvaWQ6ZmlsbFZpZXdwb3J0PSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOnNjcm9sbGJhcnM9Im5vbmUiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0idmlzaWJsZSI+CgogICAgICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2tleUxpbmVhckxheW91dCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjEwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmltcG9ydGFudEZvckFjY2Vzc2liaWxpdHk9Im5vIgogICAgICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0IgogICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiLz4KICAgICAgICA8L0hvcml6b250YWxTY3JvbGxWaWV3PgogICAgPC9GcmFtZUxheW91dD4KCiAgICA8YW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbnBraUlucHV0QXJlYSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL3N0b2NrX3B3X2lucHV0X2hlaWdodCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIyMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIyMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMzBkcCIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSI4ZHAiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjdkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2FjY291bnROb1RleHRWaWV3IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9zdG9ja19wd19pbnB1dF90ZXh0X2JvcmRlciI+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3N0b2NrUHdJbnB1dFRleHRWaWV3IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9ucGtpX2lucHV0X2hlaWdodCIKICAgICAgICAgICAgYW5kcm9pZDptYXhMaW5lcz0iMSIKICAgICAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzJiMmIyYiIKICAgICAgICAgICAgYW5kcm9pZDpsZXR0ZXJTcGFjaW5nPSItMC4wMyIKICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWx8bGVmdCIKICAgICAgICAgICAgdG9vbHM6dGV4dD0iYXNkZmRmYXNkZmFzemRmYXNkZmFzZGZhc2Rmc2Rmc2RmYXNkZmRmYXNkZmFzemRmYXNkZmFzZGZhc2Rmc2Rmc2RmYXNkZmRmYXNkZmFzemRmYXNkZmFzZGZhc2Rmc2Rmc2RmIiAvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdG9ja1B3SW5wdXRIaW50VGV4dFZpZXciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL25wa2lfaW5wdXRfaGVpZ2h0IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc3RvY2tfcHdfaW50cHV0X2hpbnRfbXNnIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzk5OTk5OSIKICAgICAgICAgICAgYW5kcm9pZDpsZXR0ZXJTcGFjaW5nPSItMC4wMyIKICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWx8bGVmdCIgLz4KCiAgICAgICAgPEltYWdlQnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2xlYXJJbWFnZUJ1dHRvbiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjM0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzRkcCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI3ZHAiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2J0bl9wd2lucHV0X2RlbGV0ZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSIjZmZmZmZmIgogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iIiAvPgogICAgPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0PgoKICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NvbmZpcm1CdXR0b24iCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQ2ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjMwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjIwZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSIjMDA3Y2Q5IgogICAgICAgIGFuZHJvaWQ6bGV0dGVyU3BhY2luZz0iLTAuMDMiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2NvbmZpcm1fdGV4dCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iI2ZmZmZmZiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNmRwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL25wa2lJbnB1dEFyZWEiIC8+CgogICAgPExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmVnaXN0ZXJTa2lwQnRuTGluZWFyTGF5b3V0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9jb25maXJtQnV0dG9uIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjlkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIgPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zdG9ja19yZWdpc3Rlcl9za2lwX3JlZ2lzdGVyX2J0bl9tc2ciCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvYmx1ZV9zdHlsZV9jb2xvciIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIgLz4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNmRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjFkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYnRuX2Fycm93X2JsdWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIgLz4KICAgIDwvTGluZWFyTGF5b3V0PgoKICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQva2V5cGFkRnJhbWVMYXlvdXQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii8+CgogICAgPFJlbGF0aXZlTGF5b3V0CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9rZXlCYWxsb25SZWxhdGl2ZUxheW91dCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgoKICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdG9ja1B3TG9naW5Qcm9ncmVzc0RpbW1lZFZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RpdGxlVGV4dFZpZXciCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiNCRkZGRkZGRiIKICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiIC8+CgogICAgPGNvbS5uYXZlci5hbmRyb2lkLnRlY2hmaW5saWIuY29tbW9uLk5hdmVyU3F1cmVMb2FkaW5nUHJvZ3Jlc3MKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2xvZ2luU2NyYXBpbmdQcm9ncmVzcyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzJkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjhkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2luU2NyYXBpbmdQcm9ncmVzcy52aXNpYmlsaXR5ID0gaWYgKGl0KSBWaWV3LlZJU0lCTEUgZWxzZSBWaWV3LkdPTkUK</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC90aXRsZV9hcmVhIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBseVVpQnlJbmRleCgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjZXJ0TWFuYWdlciA9IFJTS1NXQ2VydE1hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCEhKS5hcHBseSB7CiAgICAgICAgICAgIHNldENlcnRQd2RNb2RlTVRyYW5za2V5KHJhbmRvbSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dpblByb2dyZXNzLnZhbHVlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86CiAgICAgICAgICAgICAgICAvLyAxLiDqs4TsoozruYTrsIDrsojtmLgg6rKA7KadIOuhnOyngSDtlYTsmpQK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhciBiYWNrQ2xpY2tDb2RlOiBTdHJpbmcKICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgICAgIHNldCh2YWx1ZSkge30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
