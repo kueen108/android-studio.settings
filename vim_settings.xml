@@ -46,7 +46,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CardScanner.kt" timestamp="1592378999476" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CardScanner.kt" timestamp="1592473840281" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592470648987">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="37" />
@@ -54,8 +54,7 @@
         <mark key="^" line="46" column="21" />
       </file>
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ui/recognition/camerasearch/TakeAreaEventListenConstraintLayout.kt" timestamp="1592471890432" />
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/CardScanActivity.kt" timestamp="1592472146692" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1592369003697" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/CardScanActivity.kt" timestamp="1592473850339" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/ServerUrlConst.kt" timestamp="1592372628551" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592470556139">
         <mark key="[" line="8" column="0" />
@@ -67,6 +66,20 @@
         <mark key="^" line="40" column="56" />
         <mark key="." line="40" column="43" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592471459477">
+        <mark key="[" line="350" column="48" />
+        <mark key="]" line="350" column="48" />
+        <mark key="." line="350" column="48" />
+        <mark key="^" line="350" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraSession.kt" timestamp="1592473430204" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592470906879">
+        <mark key="[" line="190" column="81" />
+        <mark key="]" line="190" column="81" />
+        <mark key="." line="190" column="80" />
+        <mark key="^" line="190" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/interfaces/InappWebViewDelegator.kt" timestamp="1592369003697" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureResultCallback.kt" timestamp="1592470736592">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="91" />
@@ -79,31 +92,19 @@
         <mark key="." line="99" column="31" />
         <mark key="^" line="99" column="32" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/tracker/JobTracker.kt" timestamp="1592367293747" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592470489911">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="160" column="5" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scrap/ScrapRequestProxy.kt" timestamp="1592368685094" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/implement/FinInAppInterfaceImpl.kt" timestamp="1592379541776" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592471459477">
-        <mark key="[" line="350" column="48" />
-        <mark key="]" line="350" column="48" />
-        <mark key="." line="350" column="48" />
-        <mark key="^" line="350" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592470906879">
-        <mark key="[" line="190" column="81" />
-        <mark key="]" line="190" column="81" />
-        <mark key="." line="190" column="80" />
-        <mark key="^" line="190" column="81" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/common/FinInAppUtils.kt" timestamp="1592471299522">
         <mark key="[" line="286" column="55" />
         <mark key="]" line="286" column="55" />
         <mark key="^" line="286" column="53" />
         <mark key="." line="286" column="55" />
       </file>
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1592473408484" />
       <file name="/fragment.java" timestamp="1592470662820">
         <mark key="[" line="0" column="0" />
       </file>
