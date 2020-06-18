@@ -61,10 +61,11 @@
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/CardScanActivity.kt" timestamp="1592473850339" />
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/res/layout/fragment_cardangle.xml" timestamp="1592479593858" />
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/res/values/colors.xml" timestamp="1592476886714" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592479564977">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592481111149">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="53" />
+        <mark key="." line="28" column="53" />
+        <mark key="^" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/PermissionManager.kt" timestamp="1592478729558" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592478835491">
@@ -161,11 +162,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
