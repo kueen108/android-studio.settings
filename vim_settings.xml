@@ -47,34 +47,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592603969290">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592607779354">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="41" />
+        <mark key="^" line="177" column="8" />
+        <mark key="." line="177" column="7" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_found.xml" timestamp="1592551259745">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="4" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592603124513">
         <mark key="[" line="298" column="89" />
         <mark key="]" line="298" column="89" />
         <mark key="." line="298" column="89" />
         <mark key="^" line="298" column="90" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592551204044">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/logging/Logger.java" timestamp="1592556510953" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureResult.kt" timestamp="1592557661186">
@@ -83,12 +71,19 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592602943189">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592607398389">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="245" column="48" />
+        <mark key="]" line="245" column="48" />
+        <mark key="." line="245" column="48" />
+        <mark key="^" line="245" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592608081554">
         <mark key="'" line="128" column="67" />
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="35" />
-        <mark key="^" line="60" column="35" />
-        <mark key="." line="60" column="34" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="121" column="16" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592602265159">
         <mark key="[" line="185" column="34" />
@@ -106,6 +101,12 @@
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="78" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/VerticalTextView.kt" timestamp="1592606905918">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="44" column="29" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureManager.kt" timestamp="1592602732009">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -117,11 +118,6 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="84" column="52" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/dimens.xml" timestamp="1592549575317">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Bitmap.java" timestamp="1592600579065" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/ImageUtils.kt" timestamp="1592600784713">
         <mark key="[" line="13" column="0" />
@@ -129,11 +125,11 @@
         <mark key="^" line="14" column="46" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592552448742">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="39" column="33" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="39" column="33" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592608011891">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="45" column="9" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592602579666">
         <mark key="[" line="154" column="0" />
@@ -146,6 +142,7 @@
         <mark key="." line="286" column="55" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Base64.java" timestamp="1592555480653" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1592606033922" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -198,44 +195,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>JPEG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFZpZXdUeXBlKFZpZXdUeXBlLlByZXZpZXcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>JPEG</text>
+        <text>촬영하기</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrLm9uUmVxdWVzdElkQ2FyZENhcHR1cmUodHJhbnNhY3Rpb25JZCwgYmFzZTY0VXJsRW5jb2RlZEltYWdlLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaEJ5Q2FuY2VsKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgUEFSQU1fSU1BR0VfQkFTRTY0ID0gInBhcmFtX2ltYWdlX2Jhc2U2NCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFZpZXdUeXBlKFZpZXdUeXBlLlByZXZpZXcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaWRDYXJkQ2FwdHVyZVJlc3VsdENhbGxiYWNrOiBJZENhcmRDYXB0dXJlUmVzdWx0Q2FsbGJhY2s/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0YWtlQnV0dG9uIC0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBpZENhcmRDYXB0dXJlUmVzdWx0Q2FsbGJhY2s6IElkQ2FyZENhcHR1cmVSZXN1bHRDYWxsYmFjaz8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aXZpdHkuc2V0UmVzdWx0KEFjdGl2aXR5LlJFU1VMVF9PSykK</text>
+        <text encoding="base64">CmNsYXNzIFZlcnRpY2FsVGV4dFZpZXcgewogICAgdmFyIHRvcERvd24gPSBmYWxzZQoKICAgIGZ1biBWZXJ0aWNhbFRleHRWaWV3KAogICAgICAgIGNvbnRleHQ6IENvbnRleHQ/LAogICAgICAgIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/CiAgICApIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycykKICAgICAgICB2YWwgZ3Jhdml0eTogSW50ID0gZ2V0R3Jhdml0eSgpCiAgICAgICAgdG9wRG93biA9IGlmIChHcmF2aXR5LmlzVmVydGljYWwoZ3Jhdml0eSkKICAgICAgICAgICAgJiYgZ3Jhdml0eSBhbmQgR3Jhdml0eS5WRVJUSUNBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgPT0gR3Jhdml0eS5CT1RUT00KICAgICAgICApIHsKICAgICAgICAgICAgc2V0R3Jhdml0eSgKICAgICAgICAgICAgICAgIGdyYXZpdHkgYW5kIEdyYXZpdHkuSE9SSVpPTlRBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgICAgICAgICAgICAgb3IgR3Jhdml0eS5UT1AKICAgICAgICAgICAgKQogICAgICAgICAgICBmYWxzZQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRydWUKICAgICAgICB9CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1biBvbk1lYXN1cmUoCiAgICAgICAgd2lkdGhNZWFzdXJlU3BlYzogSW50LAogICAgICAgIGhlaWdodE1lYXN1cmVTcGVjOiBJbnQKICAgICkgewogICAgICAgIHN1cGVyLm9uTWVhc3VyZSgKICAgICAgICAgICAgaGVpZ2h0TWVhc3VyZVNwZWMsCiAgICAgICAgICAgIHdpZHRoTWVhc3VyZVNwZWMKICAgICAgICApCiAgICAgICAgc2V0TWVhc3VyZWREaW1lbnNpb24oCiAgICAgICAgICAgIGdldE1lYXN1cmVkSGVpZ2h0KCksCiAgICAgICAgICAgIGdldE1lYXN1cmVkV2lkdGgoKQogICAgICAgICkKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuIG9uRHJhdyhjYW52YXM6IENhbnZhcykgewogICAgICAgIHZhbCB0ZXh0UGFpbnQ6IFRleHRQYWludCA9IGdldFBhaW50KCkKICAgICAgICB0ZXh0UGFpbnQuY29sb3IgPSBnZXRDdXJyZW50VGV4dENvbG9yKCkKICAgICAgICB0ZXh0UGFpbnQuZHJhd2FibGVTdGF0ZSA9IGdldERyYXdhYmxlU3RhdGUoKQogICAgICAgIGNhbnZhcy5zYXZlKCkKICAgICAgICBpZiAodG9wRG93bikgewogICAgICAgICAgICBjYW52YXMudHJhbnNsYXRlKGdldFdpZHRoKCksIDApCiAgICAgICAgICAgIGNhbnZhcy5yb3RhdGUoOTApCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY2FudmFzLnRyYW5zbGF0ZSgwLCBnZXRIZWlnaHQoKSkKICAgICAgICAgICAgY2FudmFzLnJvdGF0ZSgtOTApCiAgICAgICAgfQogICAgICAgIGNhbnZhcy50cmFuc2xhdGUoCiAgICAgICAgICAgIGdldENvbXBvdW5kUGFkZGluZ0xlZnQoKSwKICAgICAgICAgICAgZ2V0RXh0ZW5kZWRQYWRkaW5nVG9wKCkKICAgICAgICApCiAgICAgICAgZ2V0TGF5b3V0KCkuZHJhdyhjYW52YXMpCiAgICAgICAgY2FudmFzLnJlc3RvcmUoKQogICAgfQp9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3RQZXJtaXNzaW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9ic2VydmVVaSgpIHsKCiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOuNsOydtO2EsOqwgCDsu6TshJwgSW50ZW5066GcIOyghOuLrCDrtojqsIAK</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZlVWkoKWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOuNsOydtO2EsOqwgCDsu6TshJwgSW50ZW5066GcIOyghOuLrCDrtojqsIAKLy8gICAgICAgICAgICAgICAgYWN0aXZpdHkuc2V0UmVzdWx0KEFjdGl2aXR5LlJFU1VMVF9PSywgSW50ZW50KCkuYXBwbHkgewovLyAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoUEFSQU1fSU1BR0VfQkFTRTY0LCBnZXRJbWFnZUJhc2U2NChleHRyYWN0Um9pSW1hZ2UoaXQpKSkKLy8gICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
