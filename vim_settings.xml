@@ -54,13 +54,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/ui/view/CustomQRCodeReaderView.java" timestamp="1592196868761" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/empty_npki_list_add_btn_border.xml" timestamp="1591691610314">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/webview/CustomWebViewFragment.java" timestamp="1592196827670" />
       <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/qr/register/QRRegisterFragment.java" timestamp="1592197588284" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1591692003939">
         <mark key="[" line="13" column="31" />
@@ -96,13 +94,16 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="54" />
       </file>
+      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/Navigator.java" timestamp="1592197545450" />
+      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/ui/view/CustomQRCodeReaderView.java" timestamp="1592196868761" />
+      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/webview/CustomWebViewFragment.java" timestamp="1592196827670" />
+      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/qr/detect/QRDetectFragment.java" timestamp="1592555126668" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="38" />
         <mark key="." line="78" column="37" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/git/android/app/src/main/java/com/ascan/stiica/renew/Navigator.java" timestamp="1592197545450" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="31" column="42" />
