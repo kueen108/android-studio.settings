@@ -65,32 +65,25 @@
         <mark key="." line="5" column="65" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/res/layout/fragment_cardangle.xml" timestamp="1592488217068">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592551204044">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592478835491">
-        <mark key="'" line="2" column="42" />
-        <mark key="[" line="122" column="26" />
-        <mark key="]" line="122" column="32" />
-        <mark key="." line="122" column="31" />
-        <mark key="^" line="122" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592554261597">
-        <mark key="'" line="196" column="4" />
-        <mark key="[" line="146" column="46" />
-        <mark key="]" line="147" column="8" />
-        <mark key="^" line="147" column="8" />
-        <mark key="." line="147" column="7" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/logging/Logger.java" timestamp="1592556510953" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592556585947">
+        <mark key="'" line="217" column="17" />
+        <mark key="[" line="218" column="20" />
+        <mark key="]" line="218" column="20" />
+        <mark key="^" line="216" column="19" />
+        <mark key="." line="218" column="20" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable-hdpi/transkey_btn_cancel.xml" timestamp="1592528809383" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/PayBalanceManager.kt" timestamp="1592555942785">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="78" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/flash_button_bg.xml" timestamp="1592528909017">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="38" />
@@ -102,12 +95,6 @@
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="62" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/AndroidManifest.xml" timestamp="1592487147520">
-        <mark key="[" line="6" column="81" />
-        <mark key="]" line="6" column="81" />
-        <mark key="^" line="6" column="90" />
-        <mark key="." line="6" column="81" />
       </file>
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" timestamp="1592547900765">
         <mark key="[" line="120" column="0" />
@@ -141,6 +128,7 @@
         <mark key="^" line="286" column="53" />
         <mark key="." line="286" column="55" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Base64.java" timestamp="1592555480653" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -187,48 +175,49 @@
       <jump line="69" column="64" filename="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" />
       <jump line="126" column="19" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
       <jump line="151" column="4" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
+      <jump line="220" column="17" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgUEFSQU1fVFJBTlNBQ1RJT05fSUQgPSAicGFyYW1fdHJhbnNhY3Rpb25faWQiCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3JvcE1ldGFkYXRhID0gbGFuZHNjYXBlQ2FyZENyb3BNZXRhZGF0YQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uYXZlci5hbmRyb2lkLnRlY2hmaW5saWIuY29tbW9uLmxvZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCgpLmFwcGx5IHsK</text>
+        <text encoding="base64">ICAgICAgICBWaXNpb25JbWFnZQogICAgICAgICAgICAuZnJvbUJpdG1hcChiaXRtYXApCiAgICAgICAgICAgIC53aXRoQ3JvcE1ldGFkYXRhKGNyb3BNZXRhZGF0YSkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpc2lvbkltYWdlTWV0YWRhdGEuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLnNldFJvdGF0aW9uKHJvdGF0aW9uKGZyYW1lLnJvdGF0aW9uKSkKICAgICAgICAgICAgICAgICAgICAuc2V0V2lkdGgoZnJhbWUuc2l6ZS53aWR0aCkKICAgICAgICAgICAgICAgICAgICAuc2V0SGVpZ2h0KGZyYW1lLnNpemUuaGVpZ2h0KQogICAgICAgICAgICAgICAgICAgIC5zZXRGb3JtYXQoVmlzaW9uSW1hZ2VNZXRhZGF0YS5JTUFHRV9GT1JNQVRfTlYyMSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2aXR5LnNldFJlc3VsdChBY3Rpdml0eS5SRVNVTFRfT0spCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyYW1lLmRhdGEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZTY0LmVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmFzZTY0OiBCYXNlNjQ/ID0gQmFzZTY0LmdldEVuY29kZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
