@@ -47,11 +47,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592607779354">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="41" />
-        <mark key="^" line="177" column="8" />
-        <mark key="." line="177" column="7" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592609713336">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="147" column="15" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
         <mark key="[" line="46" column="0" />
@@ -78,12 +78,12 @@
         <mark key="." line="245" column="48" />
         <mark key="^" line="245" column="46" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592608081554">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592610035620">
         <mark key="'" line="128" column="67" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="121" column="16" />
-        <mark key="." line="115" column="0" />
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="100" column="12" />
+        <mark key="^" line="100" column="24" />
+        <mark key="." line="100" column="12" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592602265159">
         <mark key="[" line="185" column="34" />
@@ -125,11 +125,11 @@
         <mark key="^" line="14" column="46" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592608011891">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="74" column="62" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="45" column="9" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592609461591">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="36" />
+        <mark key="." line="78" column="35" />
+        <mark key="^" line="78" column="36" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592602579666">
         <mark key="[" line="154" column="0" />
@@ -195,44 +195,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFZpZXdUeXBlKFZpZXdUeXBlLlByZXZpZXcpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>촬영하기</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaEJ5Q2FuY2VsKCkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rha2VQaWN0dXJlQnV0dG9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFZpZXdUeXBlKFZpZXdUeXBlLlByZXZpZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0YWtlQnV0dG9uIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rha2VQaWN0dXJlQnV0dG9uIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFZpZXdUeXBlKFZpZXdUeXBlLlByZXZpZXcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFZlcnRpY2FsVGV4dFZpZXcgewogICAgdmFyIHRvcERvd24gPSBmYWxzZQoKICAgIGZ1biBWZXJ0aWNhbFRleHRWaWV3KAogICAgICAgIGNvbnRleHQ6IENvbnRleHQ/LAogICAgICAgIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/CiAgICApIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycykKICAgICAgICB2YWwgZ3Jhdml0eTogSW50ID0gZ2V0R3Jhdml0eSgpCiAgICAgICAgdG9wRG93biA9IGlmIChHcmF2aXR5LmlzVmVydGljYWwoZ3Jhdml0eSkKICAgICAgICAgICAgJiYgZ3Jhdml0eSBhbmQgR3Jhdml0eS5WRVJUSUNBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgPT0gR3Jhdml0eS5CT1RUT00KICAgICAgICApIHsKICAgICAgICAgICAgc2V0R3Jhdml0eSgKICAgICAgICAgICAgICAgIGdyYXZpdHkgYW5kIEdyYXZpdHkuSE9SSVpPTlRBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgICAgICAgICAgICAgb3IgR3Jhdml0eS5UT1AKICAgICAgICAgICAgKQogICAgICAgICAgICBmYWxzZQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRydWUKICAgICAgICB9CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1biBvbk1lYXN1cmUoCiAgICAgICAgd2lkdGhNZWFzdXJlU3BlYzogSW50LAogICAgICAgIGhlaWdodE1lYXN1cmVTcGVjOiBJbnQKICAgICkgewogICAgICAgIHN1cGVyLm9uTWVhc3VyZSgKICAgICAgICAgICAgaGVpZ2h0TWVhc3VyZVNwZWMsCiAgICAgICAgICAgIHdpZHRoTWVhc3VyZVNwZWMKICAgICAgICApCiAgICAgICAgc2V0TWVhc3VyZWREaW1lbnNpb24oCiAgICAgICAgICAgIGdldE1lYXN1cmVkSGVpZ2h0KCksCiAgICAgICAgICAgIGdldE1lYXN1cmVkV2lkdGgoKQogICAgICAgICkKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuIG9uRHJhdyhjYW52YXM6IENhbnZhcykgewogICAgICAgIHZhbCB0ZXh0UGFpbnQ6IFRleHRQYWludCA9IGdldFBhaW50KCkKICAgICAgICB0ZXh0UGFpbnQuY29sb3IgPSBnZXRDdXJyZW50VGV4dENvbG9yKCkKICAgICAgICB0ZXh0UGFpbnQuZHJhd2FibGVTdGF0ZSA9IGdldERyYXdhYmxlU3RhdGUoKQogICAgICAgIGNhbnZhcy5zYXZlKCkKICAgICAgICBpZiAodG9wRG93bikgewogICAgICAgICAgICBjYW52YXMudHJhbnNsYXRlKGdldFdpZHRoKCksIDApCiAgICAgICAgICAgIGNhbnZhcy5yb3RhdGUoOTApCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY2FudmFzLnRyYW5zbGF0ZSgwLCBnZXRIZWlnaHQoKSkKICAgICAgICAgICAgY2FudmFzLnJvdGF0ZSgtOTApCiAgICAgICAgfQogICAgICAgIGNhbnZhcy50cmFuc2xhdGUoCiAgICAgICAgICAgIGdldENvbXBvdW5kUGFkZGluZ0xlZnQoKSwKICAgICAgICAgICAgZ2V0RXh0ZW5kZWRQYWRkaW5nVG9wKCkKICAgICAgICApCiAgICAgICAgZ2V0TGF5b3V0KCkuZHJhdyhjYW52YXMpCiAgICAgICAgY2FudmFzLnJlc3RvcmUoKQogICAgfQp9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3RQZXJtaXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0YWtlQnV0dG9uIC0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9ic2VydmVVaSgpIHsKCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZlVWkoKWRkCg==</text>
+        <text encoding="base64">CmNsYXNzIFZlcnRpY2FsVGV4dFZpZXcgewogICAgdmFyIHRvcERvd24gPSBmYWxzZQoKICAgIGZ1biBWZXJ0aWNhbFRleHRWaWV3KAogICAgICAgIGNvbnRleHQ6IENvbnRleHQ/LAogICAgICAgIGF0dHJzOiBBdHRyaWJ1dGVTZXQ/CiAgICApIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycykKICAgICAgICB2YWwgZ3Jhdml0eTogSW50ID0gZ2V0R3Jhdml0eSgpCiAgICAgICAgdG9wRG93biA9IGlmIChHcmF2aXR5LmlzVmVydGljYWwoZ3Jhdml0eSkKICAgICAgICAgICAgJiYgZ3Jhdml0eSBhbmQgR3Jhdml0eS5WRVJUSUNBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgPT0gR3Jhdml0eS5CT1RUT00KICAgICAgICApIHsKICAgICAgICAgICAgc2V0R3Jhdml0eSgKICAgICAgICAgICAgICAgIGdyYXZpdHkgYW5kIEdyYXZpdHkuSE9SSVpPTlRBTF9HUkFWSVRZX01BU0sKICAgICAgICAgICAgICAgICAgICAgICAgb3IgR3Jhdml0eS5UT1AKICAgICAgICAgICAgKQogICAgICAgICAgICBmYWxzZQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRydWUKICAgICAgICB9CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1biBvbk1lYXN1cmUoCiAgICAgICAgd2lkdGhNZWFzdXJlU3BlYzogSW50LAogICAgICAgIGhlaWdodE1lYXN1cmVTcGVjOiBJbnQKICAgICkgewogICAgICAgIHN1cGVyLm9uTWVhc3VyZSgKICAgICAgICAgICAgaGVpZ2h0TWVhc3VyZVNwZWMsCiAgICAgICAgICAgIHdpZHRoTWVhc3VyZVNwZWMKICAgICAgICApCiAgICAgICAgc2V0TWVhc3VyZWREaW1lbnNpb24oCiAgICAgICAgICAgIGdldE1lYXN1cmVkSGVpZ2h0KCksCiAgICAgICAgICAgIGdldE1lYXN1cmVkV2lkdGgoKQogICAgICAgICkKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuIG9uRHJhdyhjYW52YXM6IENhbnZhcykgewogICAgICAgIHZhbCB0ZXh0UGFpbnQ6IFRleHRQYWludCA9IGdldFBhaW50KCkKICAgICAgICB0ZXh0UGFpbnQuY29sb3IgPSBnZXRDdXJyZW50VGV4dENvbG9yKCkKICAgICAgICB0ZXh0UGFpbnQuZHJhd2FibGVTdGF0ZSA9IGdldERyYXdhYmxlU3RhdGUoKQogICAgICAgIGNhbnZhcy5zYXZlKCkKICAgICAgICBpZiAodG9wRG93bikgewogICAgICAgICAgICBjYW52YXMudHJhbnNsYXRlKGdldFdpZHRoKCksIDApCiAgICAgICAgICAgIGNhbnZhcy5yb3RhdGUoOTApCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY2FudmFzLnRyYW5zbGF0ZSgwLCBnZXRIZWlnaHQoKSkKICAgICAgICAgICAgY2FudmFzLnJvdGF0ZSgtOTApCiAgICAgICAgfQogICAgICAgIGNhbnZhcy50cmFuc2xhdGUoCiAgICAgICAgICAgIGdldENvbXBvdW5kUGFkZGluZ0xlZnQoKSwKICAgICAgICAgICAgZ2V0RXh0ZW5kZWRQYWRkaW5nVG9wKCkKICAgICAgICApCiAgICAgICAgZ2V0TGF5b3V0KCkuZHJhdyhjYW52YXMpCiAgICAgICAgY2FudmFzLnJlc3RvcmUoKQogICAgfQp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3RQZXJtaXNzaW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
