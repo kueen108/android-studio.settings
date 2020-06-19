@@ -47,11 +47,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592552555692">
-        <mark key="[" line="153" column="25" />
-        <mark key="]" line="153" column="26" />
-        <mark key="." line="153" column="25" />
-        <mark key="^" line="153" column="26" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592603969290">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
         <mark key="[" line="46" column="0" />
