@@ -46,12 +46,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592478381611">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="49" />
-        <mark key="^" line="101" column="60" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/idcard_capture_frame_found.xml" timestamp="1592548826775">
         <mark key="[" line="5" column="60" />
         <mark key="]" line="5" column="66" />
@@ -63,11 +57,11 @@
         <mark key="]" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592549226974">
-        <mark key="[" line="72" column="46" />
-        <mark key="]" line="68" column="12" />
-        <mark key="^" line="68" column="12" />
-        <mark key="." line="68" column="11" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_fragment.xml" timestamp="1592549779767">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="72" column="37" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/PermissionManager.kt" timestamp="1592478729558" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592478835491">
@@ -77,12 +71,12 @@
         <mark key="." line="122" column="31" />
         <mark key="^" line="122" column="32" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592548930915">
-        <mark key="'" line="130" column="77" />
-        <mark key="[" line="173" column="52" />
-        <mark key="]" line="173" column="59" />
-        <mark key="." line="173" column="58" />
-        <mark key="^" line="173" column="59" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592549861653">
+        <mark key="'" line="128" column="77" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="167" column="59" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/NPKIImportPcFragment.kt" timestamp="1592478759424">
         <mark key="[" line="130" column="0" />
@@ -99,6 +93,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.otaliastudios/cameraview/2.2.0/3244db049f4aebb5c7a4d569acc091f23eea2d2e/cameraview-2.2.0-sources.jar!/com/otaliastudios/cameraview/CameraView.java" timestamp="1592488407893" />
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/AndroidManifest.xml" timestamp="1592478626947">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/dimens.xml" timestamp="1592549575317">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="62" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/AndroidManifest.xml" timestamp="1592487147520">
         <mark key="[" line="6" column="81" />
@@ -131,10 +130,6 @@
         <mark key="]" line="286" column="55" />
         <mark key="^" line="286" column="53" />
         <mark key="." line="286" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build/intermediates/packaged_res/debug/layout/idcard_capture_fragment.xml" timestamp="1592549248946">
-        <mark key="[" line="98" column="48" />
-        <mark key="^" line="88" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -185,43 +180,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjNkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImJvdHRvbSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iOGMwMDAwMDAiIC8+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb3V0cHV0SW1hZ2VWaWV3LnNldEltYWdlQml0bWFwKGNhcmRBbmdsZS5iaXRtYXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjNkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImJvdHRvbSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iOGMwMDAwMDAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJpZGNhcmRfY2FwdHVyZV9mcmFtZV9jb3JuZXJfc2l6ZSI+M2RwPC9kaW1lbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb3V0cHV0SW1hZ2VWaWV3LnNldEltYWdlQml0bWFwKGNhcmRBbmdsZS5iaXRtYXApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDruYTtirjrp7Ug7J2066+47KeAIOuNsOydtO2EsOqwgCDsnojripTqsr3smrDrp4wg6rCS7J2EIOuzgOqyve2VnOuLpC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNvbGlkIGFuZHJvaWQ6Y29sb3IgPSAiI0ZGRkZGRkZGIi8+Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIlNldFRleHRJMThuIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjVkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIyNWRwIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9mb2N1c18zIiAvPgogICAgICAgIDxWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNWRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjI1ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InJpZ2h0IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9mb2N1c18xIiAvPgogICAgICAgIDxWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNWRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjI1ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImJvdHRvbSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvZm9jdXNfNCIgLz4KICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjVkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIyNWRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJib3R0b218cmlnaHQiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ZvY3VzXzIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g66eI7Iqk7YGsIOuwsOqyveydhCDsl4XrjbDsnbTtirjtlZzri6QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXQuc2V0QmFja2dyb3VuZENvbG9yKGNvbG9yKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIENvbnRleHRDb21wYXQuZ2V0Q29sb3IoaXQuY29udGV4dCwgUi5jb2xvci5pZGNhcmRfbm90X2ZvdW5kKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIENvbnRleHRDb21wYXQuZ2V0Q29sb3IoaXQuY29udGV4dCwgUi5jb2xvci5pZGNhcmRfZm91bmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAo=</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aWRkCg==</text>
+        <text encoding="base64">PCEtLSAgICA8VGV4dFZpZXctLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE3ZHAiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjMDliNjVhIi0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxldHRlclNwYWNpbmc9Ii0wLjAzIi0tPgo8IS0tICAgICAgICBhbmRyb2lkOnJvdGF0aW9uPSI5MCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9pZGNhcmRfY2FwdHVyZV9ndWlkZV90b3AiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE0ZHAiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIzNmRwIi0tPgo8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Ii0tPgo8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii0tPgo8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiLS0+CjwhLS0gICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50Ii0tPgo8IS0tICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiNmZjAwMDAiLS0+CjwhLS0gICAgICAgIC8+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
