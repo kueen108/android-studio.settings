@@ -47,11 +47,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592611112475">
-        <mark key="[" line="148" column="47" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="147" column="15" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592612389000">
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="148" column="15" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
         <mark key="[" line="46" column="0" />
@@ -71,12 +71,12 @@
         <mark key="." line="245" column="48" />
         <mark key="^" line="245" column="46" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592612245377">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592613179171">
         <mark key="'" line="128" column="67" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="16" />
-        <mark key="^" line="173" column="12" />
-        <mark key="." line="174" column="16" />
+        <mark key="[" line="173" column="87" />
+        <mark key="]" line="173" column="88" />
+        <mark key="^" line="174" column="56" />
+        <mark key="." line="173" column="88" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592602265159">
         <mark key="[" line="185" column="34" />
@@ -200,16 +200,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRWaWV3MTIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI1MGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLspp3qtozrk7HroZ3tjpjsnbTsp4AiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfYnV0dG9uIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFuZHNjYXBlQ2FyZENyb3BNZXRhZGF0YSA9IFZpc2lvbkltYWdlQ3JvcE1ldGFkYXRhLmZyb20oY2FtZXJhVmlldywgbGFuZHNjYXBlQ2FyZE1hc2spCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
