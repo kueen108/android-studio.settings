@@ -23,6 +23,7 @@
         <entry>등록</entry>
         <entry>setOnClick</entry>
         <entry>.jar</entry>
+        <entry>techfin</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -48,7 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592621430281">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592623154905">
         <mark key="'" line="54" column="40" />
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
@@ -85,6 +86,11 @@
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
       </file>
+      <file name="$USER_HOME$/git/CameraView/cameraview/build.gradle" timestamp="1592623408685">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="58" />
+        <mark key="." line="48" column="58" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592615707372">
         <mark key="[" line="324" column="76" />
         <mark key="]" line="324" column="76" />
@@ -97,10 +103,12 @@
         <mark key="." line="44" column="28" />
         <mark key="^" line="44" column="29" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592622358189">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592623383726">
+        <mark key="'" line="64" column="39" />
+        <mark key="[" line="162" column="72" />
+        <mark key="]" line="162" column="72" />
+        <mark key="." line="162" column="72" />
+        <mark key="^" line="161" column="8" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611722255">
         <mark key="[" line="191" column="81" />
@@ -187,21 +195,22 @@
       <jump line="160" column="41" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
       <jump line="55" column="37" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
       <jump line="54" column="40" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
+      <jump line="64" column="39" filename="$USER_HOME$/git/naverapp-android/Search/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ads</text>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>ads</text>
       </register>
       <register name="/" type="4">
-        <text>.jar</text>
+        <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFuZHNjYXBlQ2FyZENyb3BNZXRhZGF0YSA9IFZpc2lvbkltYWdlQ3JvcE1ldGFkYXRhLmZyb20oY2FtZXJhVmlldywgbGFuZHNjYXBlQ2FyZE1hc2spCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmdvb2dsZS5hbmRyb2lkLmdtcycsIG1vZHVsZTogJ3BsYXktc2VydmljZXMtYWRzJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
@@ -237,9 +246,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>.jar</last-search>
+      <last-search>techfin</last-search>
       <last-offset />
-      <last-pattern>.jar</last-pattern>
+      <last-pattern>techfin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
