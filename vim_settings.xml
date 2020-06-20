@@ -63,11 +63,6 @@
       <file name="/Dummy.txt" timestamp="1592611061132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1592611808736">
         <mark key="[" line="163" column="37" />
         <mark key="]" line="163" column="97" />
@@ -80,10 +75,15 @@
         <mark key="." line="78" column="35" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592619841091">
+      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592621814039">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592621893871">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592615707372">
         <mark key="[" line="324" column="76" />
@@ -96,10 +96,6 @@
         <mark key="]" line="44" column="29" />
         <mark key="." line="44" column="28" />
         <mark key="^" line="44" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592602579666">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="160" column="5" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureManager.kt" timestamp="1592602732009">
         <mark key="[" line="3" column="0" />
@@ -136,6 +132,9 @@
         <mark key="]" line="268" column="0" />
         <mark key="^" line="80" column="25" />
         <mark key="." line="268" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592621757973">
+        <mark key="[" line="37" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -193,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>.jar</text>
