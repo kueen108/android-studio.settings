@@ -49,12 +49,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592626220214">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592629137109">
         <mark key="'" line="54" column="40" />
-        <mark key="[" line="101" column="53" />
-        <mark key="]" line="101" column="54" />
-        <mark key="^" line="101" column="40" />
-        <mark key="." line="101" column="54" />
+        <mark key="[" line="130" column="43" />
+        <mark key="]" line="130" column="53" />
+        <mark key="^" line="129" column="53" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592614554079">
         <mark key="[" line="97" column="47" />
@@ -83,10 +83,10 @@
         <mark key="." line="324" column="76" />
         <mark key="^" line="324" column="80" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592623383726">
+      <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592628898755">
         <mark key="'" line="64" column="39" />
-        <mark key="[" line="162" column="72" />
-        <mark key="]" line="162" column="72" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="53" />
         <mark key="." line="162" column="72" />
         <mark key="^" line="161" column="8" />
       </file>
@@ -109,7 +109,7 @@
         <mark key="^" line="80" column="25" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592626167453">
+      <file name="/Dummy.txt" timestamp="1592629035769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592609461591">
@@ -196,16 +196,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhaS5jbG92YS5tb2JpbGU6Y2FyZGRldGVjdG9yOjAuMi44Jwo=</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwOi8vcmVwby5uYXZlcmNvcnAuY29tL21hdmVuMi8nIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>ai-common:0.2.5'</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhaS5jbG92YS5tb2JpbGU6Y2FyZGRldGVjdG9yOjAuMi44Jwo=</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwOi8vcmVwby5uYXZlcmNvcnAuY29tL21hdmVuMi8nIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
