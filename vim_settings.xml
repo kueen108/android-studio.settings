@@ -22,6 +22,7 @@
         <entry>연결</entry>
         <entry>등록</entry>
         <entry>setOnClick</entry>
+        <entry>.jar</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -47,7 +48,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592619178583">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592621430281">
+        <mark key="'" line="54" column="40" />
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
         <mark key="^" line="202" column="43" />
@@ -58,16 +60,68 @@
         <mark key="]" line="97" column="48" />
         <mark key="." line="97" column="48" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592611061132">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/scraping/FinScrapManager.kt" timestamp="1592602724151">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1592611808736">
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="163" column="97" />
+        <mark key="." line="163" column="96" />
+        <mark key="^" line="163" column="97" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592609461591">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="36" />
+        <mark key="." line="78" column="35" />
+        <mark key="^" line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592619841091">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592615707372">
         <mark key="[" line="324" column="76" />
         <mark key="]" line="324" column="76" />
         <mark key="." line="324" column="76" />
         <mark key="^" line="324" column="80" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/VerticalTextView.kt" timestamp="1592606905918">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592602579666">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="160" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureManager.kt" timestamp="1592602732009">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="72" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611722255">
+        <mark key="[" line="191" column="81" />
+        <mark key="]" line="191" column="81" />
+        <mark key="." line="191" column="80" />
+        <mark key="^" line="191" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" timestamp="1592615003657">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/res/layout/main_activity.xml" timestamp="1592611775556">
+        <mark key="[" line="151" column="30" />
+        <mark key="]" line="151" column="30" />
+        <mark key="." line="151" column="30" />
+        <mark key="^" line="157" column="12" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592607398389">
         <mark key="'" line="2" column="42" />
@@ -82,62 +136,6 @@
         <mark key="]" line="268" column="0" />
         <mark key="^" line="80" column="25" />
         <mark key="." line="268" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611722255">
-        <mark key="[" line="191" column="81" />
-        <mark key="]" line="191" column="81" />
-        <mark key="." line="191" column="80" />
-        <mark key="^" line="191" column="81" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/xml/take_picture_animate_scale.xml" timestamp="1592611095469" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1592611808736">
-        <mark key="[" line="163" column="37" />
-        <mark key="]" line="163" column="97" />
-        <mark key="." line="163" column="96" />
-        <mark key="^" line="163" column="97" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592619841091">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/VerticalTextView.kt" timestamp="1592606905918">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="44" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureManager.kt" timestamp="1592602732009">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="72" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Bitmap.java" timestamp="1592615700638" />
-      <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" timestamp="1592615003657">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592611061132">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592609461591">
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="36" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwInputFragment.kt" timestamp="1592602579666">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="160" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1592606033922" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/take_picture_button_bg.xml" timestamp="1592611087042" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/res/layout/main_activity.xml" timestamp="1592611775556">
-        <mark key="[" line="151" column="30" />
-        <mark key="]" line="151" column="30" />
-        <mark key="." line="151" column="30" />
-        <mark key="^" line="157" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -187,6 +185,9 @@
       <jump line="220" column="17" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
       <jump line="128" column="67" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
       <jump line="151" column="12" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" />
+      <jump line="160" column="41" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
+      <jump line="55" column="37" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
+      <jump line="54" column="40" filename="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -198,7 +199,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>setOnClick</text>
+        <text>.jar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFuZHNjYXBlQ2FyZENyb3BNZXRhZGF0YSA9IFZpc2lvbkltYWdlQ3JvcE1ldGFkYXRhLmZyb20oY2FtZXJhVmlldywgbGFuZHNjYXBlQ2FyZE1hc2spCg==</text>
@@ -237,9 +238,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setOnClick</last-search>
+      <last-search>.jar</last-search>
       <last-offset />
-      <last-pattern>setOnClick</last-pattern>
+      <last-pattern>.jar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
