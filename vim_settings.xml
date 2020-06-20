@@ -96,6 +96,11 @@
         <mark key="." line="163" column="96" />
         <mark key="^" line="163" column="97" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592619841091">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/VerticalTextView.kt" timestamp="1592606905918">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="29" />
@@ -106,12 +111,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/stock/StockPwViewModel.kt" timestamp="1592602562298">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="17" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="84" column="52" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Bitmap.java" timestamp="1592615700638" />
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" timestamp="1592615003657">
@@ -192,11 +191,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
