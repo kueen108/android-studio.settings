@@ -64,12 +64,6 @@
         <mark key="." line="298" column="89" />
         <mark key="^" line="298" column="90" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureResult.kt" timestamp="1592557661186">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592607398389">
         <mark key="'" line="2" column="42" />
         <mark key="[" line="245" column="48" />
@@ -77,12 +71,12 @@
         <mark key="." line="245" column="48" />
         <mark key="^" line="245" column="46" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592611504524">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592612245377">
         <mark key="'" line="128" column="67" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="91" column="34" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="16" />
+        <mark key="^" line="173" column="12" />
+        <mark key="." line="174" column="16" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/TechFinMainActivity.kt" timestamp="1592602265159">
         <mark key="[" line="185" column="34" />
@@ -90,13 +84,19 @@
         <mark key="." line="185" column="34" />
         <mark key="^" line="184" column="31" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611389735">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611722255">
         <mark key="[" line="191" column="81" />
         <mark key="]" line="191" column="81" />
         <mark key="." line="191" column="80" />
         <mark key="^" line="191" column="81" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/xml/take_picture_animate_scale.xml" timestamp="1592611095469" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1592611808736">
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="163" column="97" />
+        <mark key="." line="163" column="96" />
+        <mark key="^" line="163" column="97" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/VerticalTextView.kt" timestamp="1592606905918">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="29" />
@@ -114,7 +114,6 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="84" column="52" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Bitmap.java" timestamp="1592600579065" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/ImageUtils.kt" timestamp="1592600784713">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="24" />
@@ -142,6 +141,12 @@
       </file>
       <file name="$USER_HOME$/git/naverapp-android/Search/src/com/nhn/android/search/ccr/mediacontrol/CameraManager.java" timestamp="1592606033922" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/take_picture_button_bg.xml" timestamp="1592611087042" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/res/layout/main_activity.xml" timestamp="1592611775556">
+        <mark key="[" line="151" column="30" />
+        <mark key="]" line="151" column="30" />
+        <mark key="." line="151" column="30" />
+        <mark key="^" line="157" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -195,16 +200,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>setOnClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rha2VQaWN0dXJlQnV0dG9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRWaWV3MTIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI1MGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLspp3qtozrk7HroZ3tjpjsnbTsp4AiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfYnV0dG9uIiAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
