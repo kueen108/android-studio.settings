@@ -49,12 +49,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592788636121">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592789220274">
         <mark key="'" line="54" column="40" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="126" column="53" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="100" column="37" />
+        <mark key="]" line="100" column="37" />
+        <mark key="^" line="100" column="36" />
+        <mark key="." line="100" column="37" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592614554079">
         <mark key="[" line="97" column="47" />
@@ -205,16 +205,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>version</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcFZlcnNpb25Db2RlPTEwMjAwCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ub3RhbGlhc3R1ZGlvczpjYW1lcmF2aWV3OjIuMi4wJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmVyc2lvbiA9ICcyLjIuMCcK</text>
