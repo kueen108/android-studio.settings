@@ -49,12 +49,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592802345068">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592803375692">
         <mark key="'" line="54" column="40" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="73" />
+        <mark key="[" line="101" column="53" />
+        <mark key="]" line="101" column="54" />
         <mark key="^" line="100" column="36" />
-        <mark key="." line="101" column="0" />
+        <mark key="." line="101" column="54" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592614554079">
         <mark key="[" line="97" column="47" />
@@ -81,7 +81,7 @@
         <mark key="]" line="21" column="24" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592801380950">
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592802866239">
         <mark key="[" line="65" column="25" />
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
