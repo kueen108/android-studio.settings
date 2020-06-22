@@ -64,14 +64,7 @@
       <file name="$USER_HOME$/git/CameraView/cameraview/src/main/java/com/otaliastudios/cameraview/engine/Step.java" timestamp="1592812027195">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
-        <mark key="^" line="181" column="28" />
         <mark key="." line="189" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/CameraView/gradle.properties" timestamp="1592811162007">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592804466895">
         <mark key="[" line="21" column="25" />
@@ -110,16 +103,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/maven.properties" timestamp="1592788324879" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1592811152356">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/CameraView/cameraview/src/main/java/com/otaliastudios/cameraview/engine/CameraEngine.java" timestamp="1592811883024">
-        <mark key="[" line="767" column="0" />
-        <mark key="]" line="767" column="0" />
-        <mark key="^" line="762" column="104" />
-        <mark key="." line="767" column="0" />
       </file>
     </filemarks>
     <jumps>
