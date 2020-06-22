@@ -109,8 +109,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592813055774">
+      <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592819655233">
         <mark key="[" line="37" column="42" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="7" />
       </file>
     </filemarks>
     <jumps>
