@@ -49,12 +49,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592804071775">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592813447284">
         <mark key="'" line="54" column="40" />
-        <mark key="[" line="101" column="53" />
-        <mark key="]" line="101" column="54" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
         <mark key="^" line="100" column="36" />
-        <mark key="." line="101" column="54" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592804121959">
         <mark key="[" line="19" column="0" />
@@ -72,10 +72,11 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592805596923">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592812983232">
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592795964519">
         <mark key="[" line="317" column="0" />
@@ -103,9 +104,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/maven.properties" timestamp="1592813434224" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1592811152356">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592813055774">
+        <mark key="[" line="37" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -164,43 +169,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEBOb25OdWxsCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5vdGFsaWFzdHVkaW9zOmNhbWVyYXZpZXc6Mi4yLjAnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>SuccessContinuation</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0pLm9uU3VjY2Vzc1Rhc2soY2FsbGJhY2suZ2V0RXhlY3V0b3IoKSwgbmV3IFN1Y2Nlc3NDb250aW51YXRpb248Vm9pZCwgVm9pZD4oKSB7Ci8vICAgICAgICAgICAgQE5vbk51bGwKLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7Ci8vICAgICAgICAgICAgICAgIExPRy5pKG5hbWUsICJkb1N0b3AiLCAiU3VjY2VlZGVkISBTZXR0aW5nIHN0YXRlIHRvIFNUT1BQRUQiKTsKLy8gICAgICAgICAgICAgICAgc3RhdGUgPSBTVEFURV9TVE9QUEVEOwovLyAgICAgICAgICAgICAgICBpZiAob25TdG9wcGVkICE9IG51bGwpIG9uU3RvcHBlZC5ydW4oKTsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIFRhc2tzLmZvclJlc3VsdChudWxsKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9KTsK</text>
+        <text encoding="base64">dmVyc2lvbnMudGVjaGZpbiA9ICcxLjIuMC1iZXRhLTExLVNOQVBTSE9UJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEBOb25OdWxsCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5vdGFsaWFzdHVkaW9zOmNhbWVyYXZpZXc6Mi4yLjAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5hYXInXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pKG5hbWUsICJkb1N0b3AiLCAiU3VjY2VlZGVkISBTZXR0aW5nIHN0YXRlIHRvIFNUT1BQRUQiKTsKICAgICAgICAgICAgICAgIHN0YXRlID0gU1RBVEVfU1RPUFBFRDsKICAgICAgICAgICAgICAgIGlmIChvblN0b3BwZWQgIT0gbnVsbCkgb25TdG9wcGVkLnJ1bigpOwogICAgICAgICAgICAgICAgcmV0dXJuIFRhc2tzLmZvclJlc3VsdChudWxsKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIEBOb25OdWxsCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pKG5hbWUsICJkb1N0b3AiLCAiU3VjY2VlZGVkISBTZXR0aW5nIHN0YXRlIHRvIFNUT1BQRUQiKTsKICAgICAgICAgICAgICAgIHN0YXRlID0gU1RBVEVfU1RPUFBFRDsKICAgICAgICAgICAgICAgIGlmIChvblN0b3BwZWQgIT0gbnVsbCkgb25TdG9wcGVkLnJ1bigpOwogICAgICAgICAgICAgICAgcmV0dXJuIFRhc2tzLmZvclJlc3VsdChudWxsKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pKG5hbWUsICJkb1N0YXJ0IiwgIlN1Y2NlZWRlZCEgU2V0dGluZyBzdGF0ZSB0byBTVEFSVEVEIik7CiAgICAgICAgICAgICAgICBzZXRTdGF0ZShTVEFURV9TVEFSVEVEKTsKICAgICAgICAgICAgICAgIGlmIChvblN0YXJ0ZWQgIT0gbnVsbCkgb25TdGFydGVkLnJ1bigpOwogICAgICAgICAgICAgICAgcmV0dXJuIFRhc2tzLmZvclJlc3VsdChudWxsKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEBOb25OdWxsCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm9uTnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgVGFzazxWb2lkPiB0aGVuKEBOdWxsYWJsZSBWb2lkIGFWb2lkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pKG5hbWUsICJkb1N0YXJ0IiwgIlN1Y2NlZWRlZCEgU2V0dGluZyBzdGF0ZSB0byBTVEFSVEVEIik7CiAgICAgICAgICAgICAgICBzZXRTdGF0ZShTVEFURV9TVEFSVEVEKTsKICAgICAgICAgICAgICAgIGlmIChvblN0YXJ0ZWQgIT0gbnVsbCkgb25TdGFydGVkLnJ1bigpOwogICAgICAgICAgICAgICAgcmV0dXJuIFRhc2tzLmZvclJlc3VsdChudWxsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
