@@ -82,10 +82,10 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592802866239">
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
+      <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592805596923">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/CameraView/cameraview/build.gradle" timestamp="1592788839316">
         <mark key="[" line="60" column="19" />
@@ -206,8 +206,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -219,31 +219,31 @@
         <text encoding="base64">Ly8gICAgYXBwVmVyc2lvbk5hbWU9JzEuMi4wLWJldGEtOCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6YXV0b0EK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCnZlcnNpb25zLnRlY2hmaW4gPSAnMS4yLjAtYmV0YS0xMS1TTkFQU0hPVCcKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQml0bWFwLmNyZWF0ZVNjYWxlZEJpdG1hcCh0aGlzLCBkc3RIZWlnaHQsIGRzdFdpZHRoLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6YXV0b0EK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQml0bWFwLmNyZWF0ZVNjYWxlZEJpdG1hcCh0aGlzLCBkc3RXaWR0aCwgZHN0SGVpZ2h0LCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHN0SGVpZ2h0ID0gIChoZWlnaHQgKiBkc3RXaWR0aCkgLyB3aWR0aAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQml0bWFwLmNyZWF0ZVNjYWxlZEJpdG1hcCh0aGlzLCBkc3RIZWlnaHQsIGRzdFdpZHRoLCBmYWxzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHN0SGVpZ2h0ID0gIChoZWlnaHQgKiBkc3RXaWR0aCkgLyB3aWR0aCAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQml0bWFwLmNyZWF0ZVNjYWxlZEJpdG1hcCh0aGlzLCBkc3RXaWR0aCwgZHN0SGVpZ2h0LCBmYWxzZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZHN0SGVpZ2h0ID0gIChoZWlnaHQgKiBkc3RXaWR0aCkgLyB3aWR0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZHN0SGVpZ2h0ID0gIChoZWlnaHQgKiBkc3RXaWR0aCkgLyB3aWR0aCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JnV2lkdGggPSBpZiAod2lkdGggPiBoZWlnaHQpIHdpZHRoIGVsc2UgaGVpZ2h0CiAgICAgICAgdmFsIG9yZ0hlaWdodCA9IGlmICh3aWR0aCA+IGhlaWdodCkgaGVpZ2h0IGVsc2Ugd2lkdGgKICAgICAgICBpZiAob3JnV2lkdGg8PSBkc3RXaWR0aCkKICAgICAgICAgICAgcmV0dXJuIHRoaXMKLy8gICAgdmFsIGRzdFdpZHRoID0gIChvcmdXaWR0aCAqIGRzdEhlaWdodCkgLyBvcmdIZWlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
