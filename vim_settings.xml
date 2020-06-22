@@ -49,17 +49,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592629137109">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592787446601">
         <mark key="'" line="54" column="40" />
-        <mark key="[" line="130" column="43" />
-        <mark key="]" line="130" column="53" />
-        <mark key="^" line="129" column="53" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="126" column="53" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_preview.xml" timestamp="1592614554079">
         <mark key="[" line="97" column="47" />
         <mark key="]" line="97" column="48" />
         <mark key="." line="97" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592629035769">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/CameraView/cameraview/src/main/java/com/otaliastudios/cameraview/engine/Step.java" timestamp="1592632826839">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="79" />
+        <mark key="^" line="192" column="50" />
+        <mark key="." line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/CameraView/gradle.properties" timestamp="1592787587410">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/java/com/naver/android/naverappdemo/MainActivity.kt" timestamp="1592611808736">
         <mark key="[" line="163" column="37" />
@@ -77,11 +92,22 @@
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
       </file>
+      <file name="$USER_HOME$/git/CameraView/cameraview/build.gradle" timestamp="1592787820518">
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/KotlinExt.kt" timestamp="1592615707372">
         <mark key="[" line="324" column="76" />
         <mark key="]" line="324" column="76" />
         <mark key="." line="324" column="76" />
         <mark key="^" line="324" column="80" />
+      </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1592787303077">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592628898755">
         <mark key="'" line="64" column="39" />
@@ -90,44 +116,14 @@
         <mark key="." line="162" column="72" />
         <mark key="^" line="161" column="8" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1592787311446">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/git/CardDetector-Android/app/src/main/java/com/clova/ai/cardshapedetect/sample/CardAngleFragment.kt" timestamp="1592615003657">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592607398389">
-        <mark key="'" line="2" column="42" />
-        <mark key="[" line="245" column="48" />
-        <mark key="]" line="245" column="48" />
-        <mark key="." line="245" column="48" />
-        <mark key="^" line="245" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592617892289">
-        <mark key="'" line="151" column="12" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="^" line="80" column="25" />
-        <mark key="." line="268" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592629035769">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/idcard_capture_result.xml" timestamp="1592609461591">
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="36" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/CameraView/cameraview/build.gradle" timestamp="1592623408685">
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="48" column="58" />
-        <mark key="." line="48" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/web/FinInAppInterfaceImpl.kt" timestamp="1592611722255">
-        <mark key="[" line="191" column="81" />
-        <mark key="]" line="191" column="81" />
-        <mark key="." line="191" column="80" />
-        <mark key="^" line="191" column="81" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/res/layout/main_activity.xml" timestamp="1592611775556">
         <mark key="[" line="151" column="30" />
@@ -135,10 +131,22 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="157" column="12" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592631930700">
+        <mark key="'" line="151" column="12" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="^" line="80" column="25" />
+        <mark key="." line="268" column="0" />
+      </file>
       <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592621757973">
         <mark key="[" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/git/CameraView/cameraview/src/main/java/com/otaliastudios/cameraview/engine/CameraEngine.java" timestamp="1592623523824" />
+      <file name="$USER_HOME$/git/CameraView/cameraview/src/main/java/com/otaliastudios/cameraview/engine/CameraEngine.java" timestamp="1592632736047">
+        <mark key="[" line="761" column="30" />
+        <mark key="]" line="761" column="30" />
+        <mark key="." line="761" column="30" />
+        <mark key="^" line="754" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -195,44 +203,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwOi8vcmVwby5uYXZlcmNvcnAuY29tL21hdmVuMi8nIH0K</text>
+      <register name="&quot;" type="4">
+        <text>techfinlib</text>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>techfinlib</text>
       </register>
       <register name="/" type="4">
         <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwOi8vcmVwby5uYXZlcmNvcnAuY29tL21hdmVuMi8nIH0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4tcHVibGlzaC1hdXRoJwo=</text>
       </register>
       <register name="2" type="2">
-        <text>com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9NX0dST1VQPWNvbS5uYXZlci5hbmRyb2lkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvcmU6Y29yZS1rdHg6MS4wLjInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFRhc2s8Vm9pZD4gdGhlbihATnVsbGFibGUgVm9pZCBhVm9pZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ub3RhbGlhc3R1ZGlvczpjYW1lcmF2aWV3OjIuMi4wJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFRhc2s8Vm9pZD4gdGhlbihATnVsbGFibGUgVm9pZCBhVm9pZCkgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gbmFtZTogJ2NhcmRkZXRlY3Rvci0wLjIuOCcsIGV4dDogJ2FhcicKLy8gICAgaW1wbGVtZW50YXRpb24gbmFtZTogJ2FpLWNvbW1vbi0wLjIuNScsIGV4dDogJ2FhcicKLy8gICAgaW1wbGVtZW50YXRpb24gbmFtZTogJ2ltYWdlLWNvbnZlcnRlci0wLjAuMScsIGV4dDogJ2FhcicK</text>
+      <register name="6" type="4">
+        <text encoding="base64">b25TdWNjZXNzVGFzayhtSGFuZGxlci5nZXRFeGVjdXRvcigpLCBuZXcgU3VjY2Vzc0NvbnRpbnVhdGlvbjxWb2lkLCBWb2lkPigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm9uTnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyBUYXNrPFZvaWQ+IHRoZW4oQE51bGxhYmxlIFZvaWQgYVZvaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN0YXJ0UHJldmlldygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0VGFzay50cnlTZXRSZXN1bHQobnVsbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5kc2NhcGVDYXJkQ3JvcE1ldGFkYXRhID0gVmlzaW9uSW1hZ2VDcm9wTWV0YWRhdGEuZnJvbShjYW1lcmFWaWV3LCBsYW5kc2NhcGVDYXJkTWFzaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm9uTnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyBUYXNrPFZvaWQ+IHRoZW4oQE51bGxhYmxlIFZvaWQgYVZvaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0VGFzay50cnlTZXRSZXN1bHQobnVsbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdGFydEJpbmQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnZpZXdUcmVlT2JzZXJ2ZXIuYWRkT25HbG9iYWxMYXlvdXRMaXN0ZW5lcih7CiAgICAgICAgICAgIGxhbmRzY2FwZUNhcmRDcm9wTWV0YWRhdGEgPSBWaXNpb25JbWFnZUNyb3BNZXRhZGF0YS5mcm9tKGNhbWVyYVZpZXcsIGxhbmRzY2FwZUNhcmRNYXNrKQogICAgICAgICAgICB2aWV3LnZpZXdUcmVlT2JzZXJ2ZXIucmVtb3ZlT25HbG9iYWxMYXlvdXRMaXN0ZW5lcih0aGlzKQoKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
