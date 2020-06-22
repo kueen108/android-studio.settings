@@ -76,10 +76,11 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592788748034">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/git/techfin_sdk_android/build.gradle" timestamp="1592804466895">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/git/naverapp-android/dependencies.gradle" timestamp="1592802866239">
         <mark key="[" line="65" column="25" />
@@ -205,17 +206,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6YXV0b0EK</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>base64UrlEncodedImage</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>techfin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ubmF2ZXIuYW5kcm9pZDpjYW1lcmF2aWV3OjIuMi4wLW5hdmVyLXIxLVNOQVBTSE9UJwo=</text>
+        <text encoding="base64">Ly8gICAgYXBwVmVyc2lvbk5hbWU9JzEuMi4wLWJldGEtOCcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6YXV0b0EK</text>
