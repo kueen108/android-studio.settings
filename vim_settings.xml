@@ -109,6 +109,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/maven.properties" timestamp="1592788324879" />
       <file name="$USER_HOME$/git/naverapp-android/Search/build.gradle" timestamp="1592628898755">
         <mark key="'" line="64" column="39" />
         <mark key="[" line="9" column="0" />
@@ -124,12 +125,6 @@
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/NaverAppDemo/src/main/res/layout/main_activity.xml" timestamp="1592611775556">
-        <mark key="[" line="151" column="30" />
-        <mark key="]" line="151" column="30" />
-        <mark key="." line="151" column="30" />
-        <mark key="^" line="157" column="12" />
       </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/capture/IdCardCaptureFragment.kt" timestamp="1592631930700">
         <mark key="'" line="151" column="12" />
