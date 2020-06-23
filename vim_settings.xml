@@ -49,7 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592813447284">
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/build.gradle" timestamp="1592880331336">
         <mark key="'" line="54" column="40" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -84,6 +84,15 @@
         <mark key="." line="317" column="0" />
         <mark key="^" line="319" column="66" />
       </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1592787303077">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1592811152356">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1592791768937">
         <mark key="'" line="2" column="42" />
         <mark key="[" line="245" column="48" />
@@ -97,17 +106,6 @@
         <mark key="]" line="147" column="63" />
         <mark key="^" line="147" column="91" />
         <mark key="." line="147" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/CameraView/cameraview/build.gradle" timestamp="1592811032298" />
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1592787303077">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/maven.properties" timestamp="1592813434224" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/gradle.properties" timestamp="1592811152356">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/git/naverapp-android/build.gradle" timestamp="1592819655233">
         <mark key="[" line="37" column="42" />
