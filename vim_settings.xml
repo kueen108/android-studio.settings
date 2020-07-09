@@ -49,44 +49,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/stock_pw_input_fragment.xml" timestamp="1591692003939">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="33" />
-      </file>
       <file name="vim_settings.xml" timestamp="1592906356959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/mobile-sdk-android/examples/kotlin/SimpleDemo/app/src/main/java/appnexus/example/kotlinsample/BannerActivity.kt" timestamp="1594257441586" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTConstants.java" timestamp="1594255773815" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/MRAIDImplementation.java" timestamp="1594040897071" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/npki_input_text_border.xml" timestamp="1591691634670">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1594255994590" />
       <file name="$USER_HOME$/git/mobile-sdk-android/examples/kotlin/SimpleDemo/settings.gradle" timestamp="1594257412191" />
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/values/strings.xml" timestamp="1591692125181">
-        <mark key="'" line="2" column="42" />
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="53" />
-        <mark key="^" line="32" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/drawable/empty_npki_list_add_btn_border.xml" timestamp="1591691610314">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1594255994590" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="38" />
         <mark key="." line="78" column="37" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdView.java" timestamp="1594257653847" />
       <file name="$USER_HOME$/git/mobile-sdk-android/mediation/mediatedviews/Facebook/src/com/appnexus/opensdk/mediatednativead/FacebookNativeAd.java" timestamp="1594255450051" />
       <file name="$USER_HOME$/git/mobile-sdk-android/instreamvideo/build.gradle" timestamp="1594254755942" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
