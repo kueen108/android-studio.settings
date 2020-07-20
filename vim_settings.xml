@@ -52,25 +52,24 @@
       <file name="vim_settings.xml" timestamp="1592906356959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/kotlin/SimpleDemo/app/src/main/java/appnexus/example/kotlinsample/BannerActivity.kt" timestamp="1594257441586" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTConstants.java" timestamp="1594257865041" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/MRAIDImplementation.java" timestamp="1594040897071" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/kotlin/SimpleDemo/settings.gradle" timestamp="1594257412191" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1594255994590" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/CSRNativeBannerController.java" timestamp="1595246495085" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1595247008306" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/BannerAdView.java" timestamp="1595246810918" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdViewRequestManager.java" timestamp="1595207269276" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="38" />
         <mark key="." line="78" column="37" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/mediation/mediatedviews/Facebook/src/com/appnexus/opensdk/mediatednativead/FacebookNativeAd.java" timestamp="1594255450051" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/instreamvideo/build.gradle" timestamp="1594254755942" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdView.java" timestamp="1595207255808" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="31" column="42" />
         <mark key="." line="31" column="41" />
         <mark key="^" line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/MRAIDAdActivity.java" timestamp="1595246684801" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
