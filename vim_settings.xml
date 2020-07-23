@@ -58,6 +58,12 @@
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdFetcher.java" timestamp="1595247580367" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/CSRNativeBannerController.java" timestamp="1595246495085" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/mediatedviews/AdMobBanner.java" timestamp="1595248369881" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1595472127720">
+        <mark key="[" line="157" column="44" />
+        <mark key="]" line="157" column="44" />
+        <mark key="." line="157" column="44" />
+        <mark key="^" line="157" column="37" />
+      </file>
       <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1595247440257" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/BannerAdView.java" timestamp="1595246810918" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdViewRequestManager.java" timestamp="1595247925931" />
@@ -120,16 +126,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_horizontal</text>
+        <text>postData</text>
       </register>
       <register name="-" type="4">
-        <text>_horizontal</text>
+        <text>postData</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSJAY29sb3IvYmx1ZV9zdHlsZV9jb2xvciIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoVEFHLCAiW1JFUVVFU1RdXG4iICsgcG9zdERhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
