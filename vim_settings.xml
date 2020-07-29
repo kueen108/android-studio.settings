@@ -55,33 +55,36 @@
       <file name="/Dummy.txt" timestamp="1595249092664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdFetcher.java" timestamp="1595247580367" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/CSRNativeBannerController.java" timestamp="1595246495085" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/mediatedviews/AdMobBanner.java" timestamp="1595248369881" />
+      <file name="/_dummy_" timestamp="1596063775205">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1595472127720">
         <mark key="[" line="157" column="44" />
         <mark key="]" line="157" column="44" />
         <mark key="." line="157" column="44" />
         <mark key="^" line="157" column="37" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1595247440257" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/BannerAdView.java" timestamp="1595246810918" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdViewRequestManager.java" timestamp="1595247925931" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1596064012610">
+        <mark key="[" line="82" column="21" />
+        <mark key="]" line="82" column="12" />
+        <mark key="^" line="82" column="12" />
+        <mark key="." line="82" column="11" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1596063802442">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
         <mark key="[" line="78" column="37" />
         <mark key="]" line="78" column="38" />
         <mark key="." line="78" column="37" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/AdView.java" timestamp="1595207255808" />
       <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
         <mark key="[" line="31" column="42" />
         <mark key="]" line="31" column="42" />
         <mark key="." line="31" column="41" />
         <mark key="^" line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/MRAIDAdActivity.java" timestamp="1595246684801" />
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/mediatedviews/GoogleBridge.java" timestamp="1595248852727" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -125,11 +128,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>postData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnRsbigiaGVsbG8gd29ybGQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>postData</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
@@ -138,31 +141,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoVEFHLCAiW1JFUVVFU1RdXG4iICsgcG9zdERhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
+        <text encoding="base64">cHJpbnRsbigiaGVsbG8gd29ybGQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2I1NTIiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDp3aWR0aD0iMWRwIiBhbmRyb2lkOmNvbG9yPSIjZDNkNmRhIi8+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI2RhZGRlMyIvPgo=</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2I1NTIiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDp3aWR0aD0iMWRwIiBhbmRyb2lkOmNvbG9yPSIjZDNkNmRhIi8+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI2RhZGRlMyIvPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB3aGVuIChyZWdpc3RyYXRpb25Db3JwKSB7Ci8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5CQU5LIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyCi8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJBTksoIiMwM2M3NWEiLCAiIzAzYzc1YSIsICIjOTk5OTk5IiwgUi5zdHJpbmcuYmFua19sb2dpbl9pZHB3X3RhYl9sYWJlbCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB3aGVuIChyZWdpc3RyYXRpb25Db3JwKSB7Ci8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5CQU5LIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyCi8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQKLy8gICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJBTksoIiMwM2M3NWEiLCAiIzAzYzc1YSIsICIjOTk5OTk5IiwgUi5zdHJpbmcuYmFua19sb2dpbl9pZHB3X3RhYl9sYWJlbCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4gKHJlZ2lzdHJhdGlvbkNvcnApIHsKLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLkJBTksgLT4gewovLyAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmdldENvbG9yKGNvbnRleHQhISwgUi5jb2xvci5ncmVlbl9zdHlsZV9jb2xvcikubGV0IHsKLy8gICAgICAgICAgICAgICAgICAgIG5wa2lJbXBvcnRDb21wbGV0ZUJ1dHRvbi5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgICAgICBjZXJ0Tm1EYXNoMS5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgICAgICBjZXJ0Tm1EYXNoMi5zZXRCYWNrZ3JvdW5kQ29sb3IoaXQpCi8vICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICAgICAgbnBraUltcG9ydEdlbk51bWJlckxpbmVhckxheW91dC5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5kcmF3YWJsZS5ucGtpX2ltcG9ydF9udW1iZXJfYm9yZGVyKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBSZWdpc3RyYXRpb25Db3JwLkNBUkQsIFJlZ2lzdHJhdGlvbkNvcnAuU1RPQ0sgLT4gewovLyAgICAgICAgICAgICAgICBDb250ZXh0Q29tcGF0LmdldENvbG9yKGNvbnRleHQhISwgUi5jb2xvci5ibHVlX3N0eWxlX2NvbG9yKS5sZXQgewovLyAgICAgICAgICAgICAgICAgICAgbnBraUltcG9ydENvbXBsZXRlQnV0dG9uLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgICAgIGNlcnRObURhc2gxLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgICAgIGNlcnRObURhc2gyLnNldEJhY2tncm91bmRDb2xvcihpdCkKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBucGtpSW1wb3J0R2VuTnVtYmVyTGluZWFyTGF5b3V0LnNldEJhY2tncm91bmRSZXNvdXJjZShSLmRyYXdhYmxlLm5wa2lfaW1wb3J0X251bWJlcl9ib3JkZXJfY2FyZCkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
