@@ -49,15 +49,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1592906356959">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1595249092664">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1596099006864" />
       <file name="/_dummy_" timestamp="1596063775205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/main/Sap_act_main.java" timestamp="1596099105026" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1595472127720">
         <mark key="[" line="157" column="44" />
         <mark key="]" line="157" column="44" />
@@ -73,18 +72,14 @@
       <file name="/Kotlin Console" timestamp="1596063802442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/java/com/naver/android/techfinlib/register/bank/BankLoginFragment.kt" timestamp="1591692335009">
-        <mark key="[" line="78" column="37" />
-        <mark key="]" line="78" column="38" />
-        <mark key="." line="78" column="37" />
-        <mark key="^" line="78" column="38" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/cpp/NativeHello.c" timestamp="1596098571876" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/launcher/Sap_act_main_launcher.java" timestamp="1596098918240" />
+      <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1596099259763">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/git/techfin_sdk_android/techfinlib/src/main/res/layout/bank_login_fragment.xml" timestamp="1591692725495">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="42" />
-      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/utils/Sap_Func.java" timestamp="1596099092611" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
