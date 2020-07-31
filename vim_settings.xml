@@ -52,16 +52,26 @@
       <file name="/Dummy.txt" timestamp="1595249092664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1596099006864" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTConstants.java" timestamp="1596204569460">
+        <mark key="[" line="31" column="76" />
+        <mark key="]" line="31" column="78" />
+        <mark key="^" line="31" column="78" />
+        <mark key="." line="31" column="77" />
+      </file>
       <file name="/_dummy_" timestamp="1596063775205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/main/Sap_act_main.java" timestamp="1596099272789" />
       <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1595472127720">
         <mark key="[" line="157" column="44" />
         <mark key="]" line="157" column="44" />
         <mark key="." line="157" column="44" />
         <mark key="^" line="157" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/AndroidManifest.xml" timestamp="1596204758908">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1596064012610">
         <mark key="[" line="82" column="21" />
@@ -72,14 +82,25 @@
       <file name="/Kotlin Console" timestamp="1596063802442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/cpp/NativeHello.c" timestamp="1596099514460" />
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/launcher/Sap_act_main_launcher.java" timestamp="1596099275624" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/res/xml/network.xml" timestamp="1596204751060" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1596204706377">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="28" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/AndroidManifest.xml" timestamp="1596204580949" />
+      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/res/xml/network.xml" timestamp="1596204749671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1596099259763">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/utils/Sap_Func.java" timestamp="1596099547279" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -123,44 +144,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnRsbigiaGVsbG8gd29ybGQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoVEFHLCAiW1JFUVVFU1RdXG4iICsgcG9zdERhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpuZXR3b3JrU2VjdXJpdHlDb25maWc9IkB4bWwvbmV0d29yayIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRsbigiaGVsbG8gd29ybGQiKQo=</text>
+        <text encoding="base64">aHV2bGVfbmV0d29ya19zZWN1cml0eV9jb25maWcueG1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
+        <text encoding="base64">cHJpbnRsbigiaGVsbG8gd29ybGQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2I1NTIiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2M3NWEiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDp3aWR0aD0iMWRwIiBhbmRyb2lkOmNvbG9yPSIjZDNkNmRhIi8+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI2RhZGRlMyIvPgo=</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6Y29sb3I9IiMwM2I1NTIiIGFuZHJvaWQ6d2lkdGg9IjFkcCIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDp3aWR0aD0iMWRwIiBhbmRyb2lkOmNvbG9yPSIjZDNkNmRhIi8+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI2RhZGRlMyIvPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB3aGVuIChyZWdpc3RyYXRpb25Db3JwKSB7Ci8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5CQU5LIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyCi8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">PCEtLSAgICA8c3Ryb2tlIGFuZHJvaWQ6d2lkdGg9IjFkcCIgYW5kcm9pZDpjb2xvcj0iIzAzYjg1MyIvPi0tPgo8IS0tICAgIDxzb2xpZCBhbmRyb2lkOmNvbG9yPSIjMDNjNzVhIi8+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJBTksoIiMwM2M3NWEiLCAiIzAzYzc1YSIsICIjOTk5OTk5IiwgUi5zdHJpbmcuYmFua19sb2dpbl9pZHB3X3RhYl9sYWJlbCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB3aGVuIChyZWdpc3RyYXRpb25Db3JwKSB7Ci8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5CQU5LIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyCi8vICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ29ycC5DQVJELCBSZWdpc3RyYXRpb25Db3JwLlNUT0NLIC0+IFIuZHJhd2FibGUuZW1wdHlfbnBraV9saXN0X2FkZF9idG5fYm9yZGVyX2NhcmQKLy8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJBTksoIiMwM2M3NWEiLCAiIzAzYzc1YSIsICIjOTk5OTk5IiwgUi5zdHJpbmcuYmFua19sb2dpbl9pZHB3X3RhYl9sYWJlbCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
