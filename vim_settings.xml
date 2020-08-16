@@ -99,6 +99,9 @@
       <file name="/Kotlin Console" timestamp="1596063802442">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1597565703465">
+        <mark key="[" line="10" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
