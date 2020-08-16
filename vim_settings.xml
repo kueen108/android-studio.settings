@@ -49,75 +49,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1595249092664">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1597570116880">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTConstants.java" timestamp="1596205530943">
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="31" column="78" />
-        <mark key="^" line="31" column="78" />
-        <mark key="." line="31" column="77" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1597570153282" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANMultiAdRequest.java" timestamp="1597569880808" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1597569974068" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/CSRNativeBannerController.java" timestamp="1597570144177" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANVideoPlayerSettings.java" timestamp="1597569889973" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdActivity.java" timestamp="1597570134213" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1597570140926" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1597569935151">
+        <mark key="[" line="165" column="60" />
+        <mark key="]" line="165" column="60" />
+        <mark key="." line="165" column="60" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1597568089670">
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="17" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdViewRequestManager.java" timestamp="1597570137996" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANJAMImplementation.java" timestamp="1597570131741">
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="55" column="39" />
+        <mark key="^" line="55" column="40" />
       </file>
-      <file name="/_dummy_" timestamp="1596063775205">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/proguard-project.txt" timestamp="1597568342110">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/src/com/appnexus/opensdk/ut/UTAdRequest.java" timestamp="1596205551134">
-        <mark key="[" line="157" column="44" />
-        <mark key="]" line="157" column="44" />
-        <mark key="." line="157" column="44" />
-        <mark key="^" line="157" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/sdk/AndroidManifest.xml" timestamp="1597564934723">
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1596064012610">
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="12" />
-        <mark key="^" line="82" column="12" />
-        <mark key="." line="82" column="11" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1596063802442">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1597565703465">
-        <mark key="[" line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597567223209">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1596204706377">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/mobile-sdk-android/examples/java/SimpleBanner/app/src/main/res/xml/network.xml" timestamp="1596204749671">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1596099259763">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/ViewUtil.java" timestamp="1597569965339" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SharedNetworkManager.java" timestamp="1597569899745" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/JsonUtil.java" timestamp="1597569960057" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/VideoEnabledWebChromeClient.java" timestamp="1597570150148" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/W3CEvent.java" timestamp="1597569969715" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedBannerAdViewController.java" timestamp="1597570147044" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/adresponse/BaseAdResponse.java" timestamp="1597569945860" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Clog.java" timestamp="1597569951925" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/ImageService.java" timestamp="1597569955444" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
