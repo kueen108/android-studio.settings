@@ -55,7 +55,6 @@
         <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1597570153282" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANMultiAdRequest.java" timestamp="1597569880808" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1597569974068" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/CSRNativeBannerController.java" timestamp="1597570144177" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANVideoPlayerSettings.java" timestamp="1597569889973" />
@@ -67,6 +66,12 @@
         <mark key="." line="165" column="60" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdViewRequestManager.java" timestamp="1597570137996" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1597837310669">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANJAMImplementation.java" timestamp="1597570131741">
         <mark key="[" line="55" column="30" />
         <mark key="]" line="55" column="40" />
