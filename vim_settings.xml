@@ -71,11 +71,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1597839087165">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1597840106720">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
         <mark key="^" line="52" column="4" />
-        <mark key="." line="53" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1597839017265" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANJAMImplementation.java" timestamp="1597570131741">
@@ -154,11 +154,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZz0iQHhtbC9uZXR3b3JrIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXBpIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">YXBpIA==</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
