@@ -49,7 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1597570116880">
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1597837655633">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="27" />
         <mark key="." line="16" column="27" />
@@ -57,14 +57,8 @@
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1597570153282" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1597569974068" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/CSRNativeBannerController.java" timestamp="1597570144177" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANVideoPlayerSettings.java" timestamp="1597569889973" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdActivity.java" timestamp="1597570134213" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1597570140926" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1597569935151">
-        <mark key="[" line="165" column="60" />
-        <mark key="]" line="165" column="60" />
-        <mark key="." line="165" column="60" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdViewRequestManager.java" timestamp="1597570137996" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1597837310669">
         <mark key="[" line="65" column="26" />
@@ -79,10 +73,18 @@
         <mark key="^" line="55" column="40" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/ViewUtil.java" timestamp="1597569965339" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SharedNetworkManager.java" timestamp="1597569899745" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/JsonUtil.java" timestamp="1597569960057" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/VideoEnabledWebChromeClient.java" timestamp="1597570150148" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/W3CEvent.java" timestamp="1597569969715" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597838065497">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="56" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597838030264">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedBannerAdViewController.java" timestamp="1597570147044" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/adresponse/BaseAdResponse.java" timestamp="1597569945860" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Clog.java" timestamp="1597569951925" />
@@ -131,16 +133,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>opensdk</text>
+        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
       </register>
       <register name="-" type="4">
-        <text>opensdk</text>
+        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4tcHVibGlzaCcK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjguMC4wJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
