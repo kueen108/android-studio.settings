@@ -77,7 +77,7 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1597839017265" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1597912144873" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANJAMImplementation.java" timestamp="1597570131741">
         <mark key="[" line="55" column="30" />
         <mark key="]" line="55" column="40" />
@@ -99,11 +99,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedBannerAdViewController.java" timestamp="1597570147044" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597839713768">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="51" />
-        <mark key="^" line="16" column="68" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1597838833590">
         <mark key="[" line="28" column="0" />
