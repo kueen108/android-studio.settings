@@ -77,9 +77,9 @@
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/HTTPGet.java" timestamp="1598917896422" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598917044484">
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598946008820">
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="73" />
+        <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="55" column="28" />
       </file>
@@ -92,6 +92,12 @@
         <mark key="]" line="29" column="8" />
         <mark key="^" line="29" column="8" />
         <mark key="." line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1598945853711">
+        <mark key="[" line="582" column="38" />
+        <mark key="]" line="582" column="37" />
+        <mark key="." line="582" column="36" />
+        <mark key="^" line="582" column="37" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1597903849538">
         <mark key="[" line="52" column="4" />
@@ -153,44 +159,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fREVWSUNFX0JST1dTRVIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fU0RLX0JST1dTRVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWcucHV0KFRBR19JRCwgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHZXQgYSAzMDB4NTAgYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fREVWSUNFX0JST1dTRVIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXQgYSAzMDB4NTAgYWQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgICAgICA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczoK</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpyZXBsYWNlPSJhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZyIK</text>
+        <text encoding="base64">ICAgICAgICB0b29sczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uYnlhcHBzb2Z0Lmh1dmxlYWRsaWIuQU5DbGlja1Rocm91Z2hBY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpyZXBsYWNlPSJhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYWRzOjE3LjIuMScK</text>
+        <text encoding="base64">ICAgICAgICBjb20uYnlhcHBzb2Z0Lmh1dmxlYWRsaWIuQU5DbGlja1Rocm91Z2hBY3Rpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpuZXR3b3JrU2VjdXJpdHlDb25maWc9IkB4bWwvbmV0d29yayIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYWRzOjE3LjIuMScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
