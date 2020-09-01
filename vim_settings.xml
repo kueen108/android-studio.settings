@@ -52,10 +52,17 @@
       <file name="/Dummy.txt" timestamp="1597838030264">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1598916996533" />
       <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1597838946550">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1598917236387">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1597839711002">
         <mark key="[" line="23" column="0" />
@@ -69,21 +76,16 @@
         <mark key="." line="65" column="28" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598916941963">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="27" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/HTTPGet.java" timestamp="1598917896422" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598917044484">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="73" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="55" column="28" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/app/src/main/AndroidManifest.xml" timestamp="1597839345759">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANJAMImplementation.java" timestamp="1597570131741">
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="55" column="40" />
-        <mark key="." line="55" column="39" />
-        <mark key="^" line="55" column="40" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
         <mark key="[" line="29" column="7" />
@@ -97,6 +99,7 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdView.java" timestamp="1598918105875" />
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597839825393">
         <mark key="[" line="43" column="27" />
         <mark key="]" line="43" column="28" />
@@ -151,16 +154,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXYuc2V0QWRTaXplKDMwMCwgMjUwKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fU0RLX0JST1dTRVIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBHZXQgYSAzMDB4NTAgYWQuCg==</text>
