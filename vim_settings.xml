@@ -49,7 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1599044141789" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1599044657141" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1598916996533" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1598917236387">
         <mark key="[" line="21" column="23" />
@@ -97,7 +97,7 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1599025361538">
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1599044917344">
         <mark key="[" line="51" column="53" />
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="4" />
@@ -111,7 +111,7 @@
         <mark key="^" line="104" column="42" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1599044509187" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1599044559597" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/assets/apn_vastvideo.html" timestamp="1599044261431" />
     </filemarks>
     <jumps>
