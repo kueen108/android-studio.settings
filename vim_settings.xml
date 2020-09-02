@@ -49,7 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1598947796418" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1599025452771" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1598916996533" />
       <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1597838946550">
         <mark key="[" line="73" column="0" />
@@ -75,6 +75,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="55" column="28" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1599025507741" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1598947742434">
         <mark key="[" line="582" column="38" />
         <mark key="]" line="582" column="37" />
@@ -86,10 +87,8 @@
         <mark key="]" line="43" column="28" />
         <mark key="." line="43" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597838030264">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SDKSettings.java" timestamp="1598947805156" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1599025494154" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1597839577588">
         <mark key="[" line="65" column="27" />
         <mark key="]" line="65" column="28" />
@@ -106,7 +105,7 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1598948241820">
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1599025361538">
         <mark key="[" line="51" column="53" />
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="4" />
@@ -124,6 +123,7 @@
         <mark key="^" line="104" column="42" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1599025464022" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
