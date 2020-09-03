@@ -49,35 +49,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1599122799972">
-        <mark key="[" line="31" column="77" />
-        <mark key="]" line="31" column="48" />
-        <mark key="." line="31" column="47" />
-        <mark key="^" line="31" column="48" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1599132443617">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1598917236387">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="20" column="9" />
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoWebView.java" timestamp="1599132708071" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1599131329934">
+        <mark key="[" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598946008820">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="55" column="28" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/src/main/java/com/appnexus/example/simplevideo/MainActivity.java" timestamp="1599132943268">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoAd.java" timestamp="1599132701992">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoAdPlaybackListener.java" timestamp="1599132589707" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1599125650910">
         <mark key="[" line="582" column="38" />
         <mark key="]" line="582" column="37" />
         <mark key="." line="582" column="36" />
         <mark key="^" line="582" column="37" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="8" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="29" column="7" />
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/InstreamVideoView.java" timestamp="1599132617390" />
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoChromeClient.java" timestamp="1599132692468" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SDKSettings.java" timestamp="1599131197951" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1599122799972">
+        <mark key="[" line="31" column="77" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoAdLoadListener.java" timestamp="1599132489427">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1599131881780">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1599044917344">
         <mark key="[" line="51" column="53" />
@@ -85,17 +100,8 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597839825393">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/AdvertisingIDUtil.java" timestamp="1598947950177">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="42" />
-        <mark key="^" line="104" column="42" />
-        <mark key="." line="104" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/appnexus/opensdk/instreamvideo/VideoAdDispatcher.java" timestamp="1599132597314" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/AndroidManifest.xml" timestamp="1599131338840" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -140,10 +146,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>http://192.168.0.79:9000/jsontest&quot;;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>http://192.168.0.79:9000/jsontest&quot;;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
@@ -152,31 +158,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlnbm9yZWQucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ieWFwcHNvZnQuSHV2bGVBZGRpYi5SZXN1bHRDb2RlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fREVWSUNFX0JST1dTRVIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHZXQgYSAzMDB4NTAgYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3NfaW5zdGFuY2Uuc2RrVmVyc2lvbiA9IEJ1aWxkQ29uZmlnLlZFUlNJT05fTkFNRTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fREVWSUNFX0JST1dTRVIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXQgYSAzMDB4NTAgYWQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczoK</text>
+        <text encoding="base64">ICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpyZXBsYWNlPSJhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZyIK</text>
+        <text encoding="base64">ICAgICAgICA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uYnlhcHBzb2Z0Lmh1dmxlYWRsaWIuQU5DbGlja1Rocm91Z2hBY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
