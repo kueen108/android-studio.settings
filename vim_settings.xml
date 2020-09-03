@@ -78,6 +78,12 @@
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SDKSettings.java" timestamp="1598947805156" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1599025494154" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1599122799972">
+        <mark key="[" line="31" column="77" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="48" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/webkit/WebView.java" timestamp="1599043907661" />
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
         <mark key="[" line="29" column="7" />
@@ -145,11 +151,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
+      <register name="&quot;" type="4">
+        <text>http://192.168.0.79:9000/jsontest&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>http://192.168.0.79:9000/jsontest&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
