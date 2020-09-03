@@ -57,12 +57,6 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/AndroidManifest.xml" timestamp="1597839711002">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="52" />
-        <mark key="^" line="15" column="68" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/HTTPGet.java" timestamp="1598917896422" />
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598946008820">
         <mark key="[" line="51" column="0" />
@@ -84,12 +78,6 @@
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SDKSettings.java" timestamp="1598947805156" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1599025494154" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1597839577588">
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/webkit/WebView.java" timestamp="1599043907661" />
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
         <mark key="[" line="29" column="7" />
@@ -105,6 +93,7 @@
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdView.java" timestamp="1598918105875" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/res/raw/sdkjs.js" timestamp="1599044401114" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/res/values/errors.xml" timestamp="1599122671663" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/AdvertisingIDUtil.java" timestamp="1598947950177">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="42" />
