@@ -49,42 +49,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Settings.java" timestamp="1599044657141" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1598916996533" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1598917236387">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="20" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/HTTPGet.java" timestamp="1598917896422" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598946008820">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="55" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1599025507741" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1598947742434">
-        <mark key="[" line="582" column="38" />
-        <mark key="]" line="582" column="37" />
-        <mark key="." line="582" column="36" />
-        <mark key="^" line="582" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597839825393">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/SDKSettings.java" timestamp="1598947805156" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/WebviewUtil.java" timestamp="1599025494154" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1599122799972">
         <mark key="[" line="31" column="77" />
         <mark key="]" line="31" column="48" />
         <mark key="." line="31" column="47" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/webkit/WebView.java" timestamp="1599043907661" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1598917236387">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1598946008820">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="55" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1599125650910">
+        <mark key="[" line="582" column="38" />
+        <mark key="]" line="582" column="37" />
+        <mark key="." line="582" column="36" />
+        <mark key="^" line="582" column="37" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/AndroidManifest.xml" timestamp="1597912236843">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="8" />
@@ -97,17 +85,17 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdView.java" timestamp="1598918105875" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/res/raw/sdkjs.js" timestamp="1599044401114" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/res/values/errors.xml" timestamp="1599122671663" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1597839825393">
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/AdvertisingIDUtil.java" timestamp="1598947950177">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="42" />
         <mark key="^" line="104" column="42" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1599044559597" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/assets/apn_vastvideo.html" timestamp="1599044261431" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
