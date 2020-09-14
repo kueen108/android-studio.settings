@@ -49,54 +49,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAd.java" timestamp="1599134513602">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599134218127" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/src/main/java/com/appnexus/example/simplevideo/MainActivity.java" timestamp="1599134999185">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="32" />
-        <mark key="." line="41" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/byappsoft/huvleadlib/instreamvideo/Quartile.java" timestamp="1599134139002" />
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/byappsoft/huvleadlib/instreamvideo/ResultCallback.java" timestamp="1599134133619" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdLoadListener.java" timestamp="1599134522864">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/byappsoft/huvleadlib/instreamvideo/VideoAd.java" timestamp="1599134128424" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/res/values/strings.xml" timestamp="1599134391904">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdPlaybackListener.java" timestamp="1599134526236">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/ResultCallback.java" timestamp="1599134509070">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/java/com/byappsoft/huvleadlib/instreamvideo/VideoAdDispatcher.java" timestamp="1599134122974" />
-      <file name="$USER_HOME$/git/HuvleAdLib/instreamvideo/src/main/res/values/strings.xml" timestamp="1599134366673" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdDispatcher.java" timestamp="1599134518992">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/settings.gradle" timestamp="1599134936895">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/Quartile.java" timestamp="1599134505223">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
@@ -107,7 +60,23 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/src/main/java/com/appnexus/example/simplevideo/MainActivity.java" timestamp="1599134999185">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1599188653743">
+        <mark key="[" line="114" column="88" />
+        <mark key="]" line="114" column="19" />
+        <mark key="." line="114" column="88" />
+        <mark key="^" line="114" column="19" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599135056431">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdDispatcher.java" timestamp="1599134518992">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
@@ -117,10 +86,30 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/settings.gradle" timestamp="1599134936895">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdLoadListener.java" timestamp="1599134522864">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoChromeClient.java" timestamp="1599134529904">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1599629058324">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1599627840228">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/build.gradle" timestamp="1599134565677">
         <mark key="[" line="33" column="18" />
@@ -170,44 +159,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2luZ09wdGlvbnMgewogICAgICAgIGRvTm90U3RyaXAgJyoqLnNvJwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>WRAP_CONTENT</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6aW5zdHJlYW12aWRlbycpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcyBsYXlvdXRQYXJhbXMgPSBuZXcgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zKFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQsCi8vICAgICAgICAgICAgICAgIFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2luZ09wdGlvbnMgewogICAgICAgIGRvTm90U3RyaXAgJyoqLnNvJwogICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvamVjdCgnOmluc3RyZWFtdmlkZW8nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUoc2V0dGluZ3NEaXIsICcuLi8uLi8uLi9pbnN0cmVhbXZpZGVvJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmluc3RyZWFtdmlkZW8nCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPkluc3RyZWFtVmlkZW88L3N0cmluZz4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ieWFwcHNvZnQuSHV2bGVBZGRpYi5SZXN1bHRDb2RlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJvamVjdCgnOmluc3RyZWFtdmlkZW8nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUoc2V0dGluZ3NEaXIsICcuLi8uLi8uLi9pbnN0cmVhbXZpZGVvJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW5jbHVkZSAnOmluc3RyZWFtdmlkZW8nCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPkluc3RyZWFtVmlkZW88L3N0cmluZz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5ieWFwcHNvZnQuSHV2bGVBZGRpYi5SZXN1bHRDb2RlOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3NfaW5zdGFuY2Uuc2RrVmVyc2lvbiA9IEJ1aWxkQ29uZmlnLlZFUlNJT05fTkFNRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3NfaW5zdGFuY2Uuc2RrVmVyc2lvbiA9IEJ1aWxkQ29uZmlnLlZFUlNJT05fTkFNRTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXYuc2V0Q2xpY2tUaHJvdWdoQWN0aW9uKEFOQ2xpY2tUaHJvdWdoQWN0aW9uLk9QRU5fREVWSUNFX0JST1dTRVIpOwo=</text>
+        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
