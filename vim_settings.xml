@@ -76,11 +76,11 @@
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/layout/activity_my.xml" timestamp="1600066560141">
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="51" column="16" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/layout/activity_my.xml" timestamp="1600066698661">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/git-exam/TestApplication/app/build.gradle" timestamp="1600064373427">
         <mark key="[" line="31" column="1" />
@@ -152,10 +152,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>정</text>
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>정</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
