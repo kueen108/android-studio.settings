@@ -49,31 +49,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoAdPlaybackListener.java" timestamp="1599134526236">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/git-exam/TestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1600064742491">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/src/main/java/com/appnexus/example/simplevideo/MainActivity.java" timestamp="1599134999185">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="32" />
         <mark key="." line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1599188653743">
-        <mark key="[" line="114" column="88" />
-        <mark key="]" line="114" column="19" />
-        <mark key="." line="114" column="88" />
-        <mark key="^" line="114" column="19" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1600065891225">
+        <mark key="[" line="84" column="58" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/settings.gradle" timestamp="1599134936895">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git-exam/TestApplication/app/src/main/java/com/kokomasoft/testapplication/MainActivity.java" timestamp="1600064795218">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/values/strings.xml" timestamp="1600065454544" />
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1599629058324">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/layout/activity_my.xml" timestamp="1600066560141">
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/git-exam/TestApplication/app/build.gradle" timestamp="1600064373427">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600058411718">
         <mark key="[" line="1" column="17" />
@@ -86,28 +99,14 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoWebView.java" timestamp="1599134533189">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1600064377912" />
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/gradle.properties" timestamp="1600058797735">
         <mark key="[" line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/VideoChromeClient.java" timestamp="1599134529904">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1599627840228">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleVideo/app/build.gradle" timestamp="1599134565677">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -152,44 +151,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2luZ09wdGlvbnMgewogICAgICAgIGRvTm90U3RyaXAgJyoqLnNvJwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>정</text>
       </register>
       <register name="-" type="4">
-        <text>WRAP_CONTENT</text>
+        <text>정</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcyBsYXlvdXRQYXJhbXMgPSBuZXcgUmVsYXRpdmVMYXlvdXQuTGF5b3V0UGFyYW1zKFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQsCi8vICAgICAgICAgICAgICAgIFJlbGF0aXZlTGF5b3V0LkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQpOwo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGFiZWxfc3RhdGljX3NhbXBsZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0i7KCV7KCBIEJhbm5lckFkVmlldyDsg5jtlIwiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9iYW5uZXJfdmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2luZ09wdGlvbnMgewogICAgICAgIGRvTm90U3RyaXAgJyoqLnNvJwogICAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJvamVjdCgnOmluc3RyZWFtdmlkZW8nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUoc2V0dGluZ3NEaXIsICcuLi8uLi8uLi9pbnN0cmVhbXZpZGVvJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCEtLTxSZWxhdGl2ZUxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+CjwhLS0gICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIi0tPgo8IS0tICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWFpbl9jb250ZW50Ii0tPgo8IS0tICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CjwhLS0gICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CjwhLS0gICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIi0tPgo8IS0tICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iLS0+CjwhLS0gICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIi0tPgo8IS0tICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiItLT4KPCEtLSAgICB0b29sczpjb250ZXh0PSIuTXlBY3Rpdml0eSI+LS0+Cgo8IS0tICAgIDxUZXh0Vmlldy0tPgo8IS0tICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvaGVsbG9fd29ybGQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPi0tPgoKCjwhLS0gICAgPEJ1dHRvbi0tPgo8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25vdGlfb25fYnRuIi0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjAwZHAiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTVkcCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDp0ZXh0PSJIdXZsZSBOb3RpYmFyIE9uIi0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJJblBhcmVudD0idHJ1ZSItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIzNWRwIi0tPgo8IS0tICAgICAgICAvPi0tPgoKPCEtLSAgICA8QnV0dG9uLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbm90aV9vZmZfYnRuIi0tPgo8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjAwZHAiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTVkcCItLT4KPCEtLSAgICAgICAgYW5kcm9pZDp0ZXh0PSJIdXZsZSBOb3RpYmFyIE9mZiItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvbm90aV9vbl9idG4iLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCItLT4KPCEtLSAgICAgICAgLz4tLT4KCjwhLS0gICAgPFRleHRWaWV3LS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAaWQvbm90aV9vbl9idG4iLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgo8IS0tICAgICAgICBhbmRyb2lkOnRleHQ9Ik5ldyBIdXZsZSBMaWJyYXJ5KDQuMC44KSItLT4KPCEtLSAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiLS0+CjwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlckluUGFyZW50PSJ0cnVlIi0tPgo8IS0tICAgICAgICAvPi0tPgoKCjwhLS08L1JlbGF0aXZlTGF5b3V0Pi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmluc3RyZWFtdmlkZW8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPkluc3RyZWFtVmlkZW88L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWJvdmU9IkBpZC9ub3RpX29uX2J0biIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ieWFwcHNvZnQuSHV2bGVBZGRpYi5SZXN1bHRDb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC9ub3RpX29uX2J0biIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3NfaW5zdGFuY2Uuc2RrVmVyc2lvbiA9IEJ1aWxkQ29uZmlnLlZFUlNJT05fTkFNRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaSBwcm9qZWN0KCc6c2RrJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
