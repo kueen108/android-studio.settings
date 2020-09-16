@@ -54,33 +54,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1600072117861">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="50" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/git-exam/TestApplication/app/src/main/java/com/kokomasoft/testapplication/MainActivity.java" timestamp="1600064795218">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/values/strings.xml" timestamp="1600065454544" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/gradle.properties" timestamp="1600058797735">
+        <mark key="[" line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1599629058324">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/res/layout/activity_my.xml" timestamp="1600072130011">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-exam/TestApplication/app/build.gradle" timestamp="1600064373427">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600058411718">
         <mark key="[" line="1" column="17" />
@@ -88,19 +73,21 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599135056431">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1600064377912" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/gradle.properties" timestamp="1600058797735">
-        <mark key="[" line="17" column="26" />
+      <file name="$USER_HOME$/git-exam/TestApplication/app/build.gradle" timestamp="1600064373427">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/app/build.gradle" timestamp="1599627840228">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599135056431">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
     </filemarks>
     <jumps>
