@@ -54,6 +54,31 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/HuvleSDK/app/src/main/res/layout/activity_main.xml" timestamp="1600602841429">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="28" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1600602933018">
+        <mark key="[" line="71" column="89" />
+        <mark key="]" line="73" column="36" />
+        <mark key="^" line="73" column="36" />
+        <mark key="." line="73" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1600602239780" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600058411718">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_MainActivity.java" timestamp="1600601482408" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599135056431">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/git-exam/TestApplication/app/src/main/java/com/kokomasoft/testapplication/MainActivity.java" timestamp="1600064795218">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="97" column="0" />
@@ -62,16 +87,30 @@
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/gradle.properties" timestamp="1600058797735">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1599629058324">
-        <mark key="[" line="16" column="42" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/service/HuvleNotiBarService.java" timestamp="1600601319223" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1600603251512">
+        <mark key="[" line="69" column="26" />
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600058411718">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="12" column="30" />
+      <file name="/LLDB" timestamp="1600603143027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/main/Sap_act_middle_controller.java" timestamp="1600601157222" />
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/utils/Sap_WebView.java" timestamp="1600601395193" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/utils/Clog.java" timestamp="1600602098310">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_BrowserActivity.java" timestamp="1600603133204">
+        <mark key="[" line="256" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/AndroidManifest.xml" timestamp="1600602622645">
+        <mark key="[" line="67" column="63" />
+        <mark key="]" line="67" column="63" />
+        <mark key="." line="67" column="63" />
       </file>
       <file name="$USER_HOME$/git-exam/TestApplication/app/build.gradle" timestamp="1600064373427">
         <mark key="[" line="31" column="1" />
@@ -84,11 +123,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/instreamvideo/InstreamVideoView.java" timestamp="1599135056431">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/utils/Sap_Func.java" timestamp="1600602780994" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -132,17 +167,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM3ZmZmMDAwMCIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>WRAP_CONTENT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0QmFubmVyVmlldyhzdGF0aWNCYXYpOwo=</text>
+        <text encoding="base64">ICA8QnV0dG9uCiAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbm90aV9vZmZfYnRuIgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMjAwZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTVkcCIKICAgICAgYW5kcm9pZDp0ZXh0PSJIdXZsZSBOb3RpYmFyIE9mZiIKICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvbm90aV9vbl9idG4iCiAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIKICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM3ZmZmMDAwMCIK</text>
