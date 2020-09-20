@@ -104,14 +104,14 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1600606253627">
-        <mark key="[" line="34" column="51" />
-        <mark key="]" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-        <mark key="^" line="34" column="48" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1600607493959">
+        <mark key="[" line="32" column="68" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="68" />
+        <mark key="^" line="31" column="78" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_MainActivity.java" timestamp="1600601482408" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdResponse.java" timestamp="1600606514955">
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdResponse.java" timestamp="1600606558813">
         <mark key="[" line="322" column="17" />
         <mark key="]" line="213" column="20" />
         <mark key="^" line="213" column="20" />
@@ -128,7 +128,7 @@
         <mark key="]" line="67" column="63" />
         <mark key="." line="67" column="63" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1600606468337">
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1600607473204">
         <mark key="[" line="314" column="23" />
         <mark key="]" line="314" column="64" />
         <mark key="." line="314" column="63" />
@@ -179,16 +179,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>MRAID</text>
+        <text>jsontest</text>
       </register>
       <register name="-" type="4">
-        <text>MRAID</text>
+        <text>jsontest</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYVFJBU19LRVlfTVJBSUQgPSAiTVJBSUQiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFJFUVVFU1RfQkFTRV9VUkxfVVQgPSAiaHR0cDovL2FkLmh1dmxlLmNvbS9qc29udGVzdCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBTkNsaWNrVGhyb3VnaEFjdGlvbi5PUEVOX0hVVkxFX0JST1dTRVI7Cg==</text>
