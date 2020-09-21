@@ -61,7 +61,7 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="73" column="35" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1600604158742">
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1600655792688">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
         <mark key="^" line="21" column="24" />
@@ -97,11 +97,11 @@
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_BrowserActivity.java" timestamp="1600652725556">
         <mark key="[" line="256" column="32" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1600607493959">
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="68" />
-        <mark key="^" line="31" column="78" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1600655323616">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="40" column="48" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600654719313">
         <mark key="[" line="12" column="29" />
@@ -117,7 +117,7 @@
         <mark key="^" line="51" column="54" />
         <mark key="." line="54" column="63" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdResponse.java" timestamp="1600653564480">
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdResponse.java" timestamp="1600655776644">
         <mark key="[" line="363" column="45" />
         <mark key="]" line="362" column="88" />
         <mark key="^" line="362" column="88" />
@@ -183,8 +183,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>//////&quot;com.example.simplebanner&quot;;//&quot;com.byappsoft.sap.browser&quot;;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>//////&quot;com.example.simplebanner&quot;;//&quot;com.byappsoft.sap.browser&quot;;</text>
@@ -196,31 +196,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWRSZXNwb25zZUluZm8uc2V0T3BlblR5cGUob3BlblR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCB0cnVlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBTkNsaWNrVGhyb3VnaEFjdGlvbi5PUEVOX0hVVkxFX0JST1dTRVI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3IgaHV2bGUgYnJvd3Nlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvcGVuIGJyb3dzZXIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECi8vICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFJFUVVFU1RfQkFTRV9VUkxfVVQgPSAiaHR0cHM6Ly9tZWRpYXRpb24uYWRueHMuY29tL3V0L3YzIjsKLy8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgUkVRVUVTVF9CQVNFX1VSTF9VVCA9ICJodHRwOi8vYWQuaHV2bGUuY29tL2pzb250ZXN0IjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgUkVRVUVTVF9CQVNFX1VSTF9VVCA9ICJodHRwOi8vYWQuaHV2bGUuY29tL2FwcCI7Cj4+Pj4+Pj4gNzJmMTk3MjkzNDNhZjA0MmZkNDNjOTcyNzM5OWUyNDA3MDdkODA1NAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCB0cnVlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBTkNsaWNrVGhyb3VnaEFjdGlvbi5PUEVOX0hVVkxFX0JST1dTRVI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgaHV2bGUgYnJvd3Nlcgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBvcGVuIGJyb3dzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkUmVzcG9uc2VJbmZvLnNldE9wZW5UeXBlKG9wZW5UeXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
