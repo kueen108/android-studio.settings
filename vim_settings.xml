@@ -55,6 +55,7 @@
         <mark key="^" line="104" column="51" />
         <mark key="." line="104" column="50" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/BannerAdView.java" timestamp="1602233119067" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1600656157834">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
@@ -74,17 +75,13 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1602233114034" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/GoogleBridge.java" timestamp="1602232299611" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1600654272143">
         <mark key="[" line="131" column="12" />
         <mark key="]" line="153" column="27" />
         <mark key="^" line="153" column="27" />
         <mark key="." line="153" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1600603251512">
-        <mark key="[" line="69" column="26" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
       </file>
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_BrowserActivity.java" timestamp="1600652725556">
         <mark key="[" line="256" column="32" />
@@ -121,11 +118,6 @@
         <mark key="]" line="36" column="48" />
         <mark key="." line="36" column="47" />
         <mark key="^" line="36" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/AndroidManifest.xml" timestamp="1600604534350">
-        <mark key="[" line="67" column="63" />
-        <mark key="]" line="67" column="63" />
-        <mark key="." line="67" column="63" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1600655045224">
         <mark key="[" line="566" column="60" />
