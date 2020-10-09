@@ -66,7 +66,7 @@
       <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1602233114034" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/GoogleBridge.java" timestamp="1602232299611" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTRequestParameters.java" timestamp="1602235981416" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedBannerAdViewController.java" timestamp="1602236339703" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedBannerAdViewController.java" timestamp="1602236662976" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdViewRequestManager.java" timestamp="1602236375564" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTConstants.java" timestamp="1600655323616">
         <mark key="[" line="32" column="0" />
@@ -97,6 +97,7 @@
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/adresponse/BaseAdResponse.java" timestamp="1602236432893" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/TargetingParameters.java" timestamp="1602235971715" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/MediatedAdViewController.java" timestamp="1602236323344" />
+      <file name="$USER_HOME$/git/HuvleAdLib/mediation/mediating/Google/src/com/appnexus/opensdk/AdMobMediationBanner.java" timestamp="1602236855572" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/AdWebView.java" timestamp="1600655045224">
         <mark key="[" line="566" column="60" />
         <mark key="]" line="566" column="60" />
