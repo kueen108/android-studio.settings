@@ -55,12 +55,6 @@
         <mark key="^" line="104" column="51" />
         <mark key="." line="104" column="50" />
       </file>
-      <file name="$USER_HOME$/git/HuvleSDK/app/src/main/java/com/huvle/browser/samplesdk/MainActivity.java" timestamp="1600602933018">
-        <mark key="[" line="71" column="89" />
-        <mark key="]" line="73" column="36" />
-        <mark key="^" line="73" column="36" />
-        <mark key="." line="73" column="35" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ANClickThroughAction.java" timestamp="1600656157834">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
@@ -80,6 +74,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/GoogleBridge.java" timestamp="1602232299611" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/ut/UTAdRequest.java" timestamp="1600654272143">
         <mark key="[" line="131" column="12" />
         <mark key="]" line="153" column="27" />
@@ -91,9 +86,6 @@
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1600603143027">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/src/main/java/com/byappsoft/sap/browser/Sap_BrowserActivity.java" timestamp="1600652725556">
         <mark key="[" line="256" column="32" />
       </file>
@@ -103,6 +95,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="40" column="48" />
       </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/AdMobInterstitial.java" timestamp="1602232172866" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1600654719313">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="30" />
