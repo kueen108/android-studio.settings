@@ -49,27 +49,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/HuvleAdLib/mediation/mediatedviews/InMobi/proguard-project.txt" timestamp="1602901541713" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/MoPubInterstitialAdView.java" timestamp="1602901881848" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/MoPubListener.java" timestamp="1602901903068" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/AdMobBanner.java" timestamp="1602901786667" />
-      <file name="$USER_HOME$/git/HuvleAdLib/mediation/mediatedviews/InMobi/build.gradle" timestamp="1602901960418" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAd.java" timestamp="1602901919668" />
-      <file name="$USER_HOME$/git/HuvleAdLib/mediation/mediatedviews/MoPub/build.gradle" timestamp="1602902081522" />
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1602902075332">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="30" />
+      <file name="/Dummy.txt" timestamp="1602902247975">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatedviews/MoPubBannerAdView.java" timestamp="1602901801007" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/build.gradle" timestamp="1602903479178">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/src/main/java/com/example/simplebanner/MyActivity.java" timestamp="1602903554854">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/proguard-project.txt" timestamp="1602901507550">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="34" column="60" />
         <mark key="^" line="34" column="60" />
         <mark key="." line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/mediation/mediatedviews/GooglePlay/proguard-project.txt" timestamp="1602901518513" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAdResponse.java" timestamp="1602903319387" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1602903692576">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAd.java" timestamp="1602903286086" />
+      <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAdListener.java" timestamp="1602903296459" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/git/nsecure-tools-android/nsecure-tools/src/main/java/com/naver/nsecuretools/NSecureSharedPreference.java" />
@@ -113,41 +120,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcmRkb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWRSZXNwb25zZUluZm8uc2V0T3BlblR5cGUob3BlblR5cGUpOwo=</text>
+        <text encoding="base64">Ly8gICAgbWF2ZW4geyB1cmwgImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9tb2F0LXNkay1idWlsZHMiIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcmRkb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi8vICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFJFUVVFU1RfQkFTRV9VUkxfVVQgPSAiaHR0cHM6Ly9tZWRpYXRpb24uYWRueHMuY29tL3V0L3YzIjsKLy8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgUkVRVUVTVF9CQVNFX1VSTF9VVCA9ICJodHRwOi8vYWQuaHV2bGUuY29tL2pzb250ZXN0IjsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIG1vZHVsZTogJ21vYXQtbW9iaWxlLWFwcC1raXQnIC8vIFRvIGV4Y2x1ZGUgTW9hdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgUkVRVUVTVF9CQVNFX1VSTF9VVCA9ICJodHRwOi8vYWQuaHV2bGUuY29tL2FwcCI7Cj4+Pj4+Pj4gNzJmMTk3MjkzNDNhZjA0MmZkNDNjOTcyNzM5OWUyNDA3MDdkODA1NAo=</text>
+        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLnBpY2Fzc286cGljYXNzbzoyLjUuMicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCB0cnVlCg==</text>
+        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLnBpY2Fzc286cGljYXNzbzoyLjUuMicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBTkNsaWNrVGhyb3VnaEFjdGlvbi5PUEVOX0hVVkxFX0JST1dTRVI7Cg==</text>
+        <text encoding="base64">ICAgIGFwaSAiY29tLmlubW9iaS5tb25ldGl6YXRpb246aW5tb2JpLWFkczo4LjIuMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3IgaHV2bGUgYnJvd3Nlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvcGVuIGJyb3dzZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi8vICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFJFUVVFU1RfQkFTRV9VUkxfVVQgPSAiaHR0cHM6Ly9tZWRpYXRpb24uYWRueHMuY29tL3V0L3YzIjsKLy8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgUkVRVUVTVF9CQVNFX1VSTF9VVCA9ICJodHRwOi8vYWQuaHV2bGUuY29tL2pzb250ZXN0IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
