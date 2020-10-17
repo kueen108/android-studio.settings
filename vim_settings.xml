@@ -63,17 +63,15 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/HuvleAdLib/sdk/proguard-project.txt" timestamp="1602901507550">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="59" />
-      </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAdResponse.java" timestamp="1602903319387" />
-      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1602903692576">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/git/HuvleAdLib/examples/java/SimpleBanner/app/build.gradle" timestamp="1602904505330">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="9" />
+        <mark key="." line="48" column="9" />
+        <mark key="^" line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/HuvleSDK/Stealthaddplatformbrowser_lib_sw/build.gradle" timestamp="1602904070685">
+        <mark key="[" line="69" column="28" />
       </file>
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAd.java" timestamp="1602903286086" />
       <file name="$USER_HOME$/git/HuvleAdLib/sdk/src/com/byappsoft/huvleadlib/mediatednativead/MoPubNativeAdListener.java" timestamp="1602903296459" />
@@ -120,17 +118,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcmRkb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>Central</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Central</text>
       </register>
       <register name="/" type="4">
         <text>등록</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgbWF2ZW4geyB1cmwgImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9tb2F0LXNkay1idWlsZHMiIH0K</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcmRkb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjMnCg==</text>
