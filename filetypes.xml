@@ -2,14 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".CMakeLists.txt.swp" type="PLAIN_TEXT" />
       <mapping pattern="chapters" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="items" type="PLAIN_TEXT" />
       <mapping pattern="databases" type="PLAIN_TEXT" />
       <mapping ext="sq" type="PLAIN_TEXT" />
+      <removed_mapping ext="sq" approved="true" type="SqlDelight" />
+      <removed_mapping ext="sq" approved="true" type="SqlDelight" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
