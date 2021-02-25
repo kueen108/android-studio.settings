@@ -1,8 +1,0 @@
-<templateSet group="Android">
-  <template name="tag" value="private static final String TAG = &quot;$className$&quot;;" description="private static final String TAG = {Class Name}" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="className" expression="className()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-</templateSet>

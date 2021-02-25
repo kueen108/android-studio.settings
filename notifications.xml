@@ -1,10 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="ADB WiFi Connect" shouldReadAloud="true" />
-    <notification groupId="Android WiFi ADB" shouldReadAloud="true" />
-    <notification groupId="Android XML code style notification" displayType="NONE" shouldReadAloud="true" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Dart Analysis" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
   </component>
 </application>
