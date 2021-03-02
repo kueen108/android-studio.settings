@@ -26,6 +26,10 @@
           <option name="url" value="http://oss.navercorp.com" />
           <option name="userName" value="eunjin.gwon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/techFin/payapp-aos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
