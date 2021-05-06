@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/bottom_tab_item.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/rounded_rectangle_09aa5c.xml" value="0.1" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
+        <entry key="techfinlib/src/main/res/layout/id_number_view.xml" value="0.19882246376811594" />
       </map>
     </option>
   </component>
