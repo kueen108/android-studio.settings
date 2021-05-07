@@ -14,7 +14,7 @@
         <entry key="common/src/main/res/drawable/ic_right_arrow.xml" value="0.3148148148148148" />
         <entry key="common/src/main/res/drawable/rounded_rectangle_09aa5c.xml" value="0.1" />
         <entry key="common/src/main/res/layout/app_info_fragment.xml" value="0.19731509625126648" />
-        <entry key="common/src/main/res/layout/app_info_item_view.xml" value="0.157548125633232" />
+        <entry key="common/src/main/res/layout/app_info_item_view.xml" value="3.5" />
         <entry key="common/src/main/res/layout/base_gnb_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/default_webview_layout.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
