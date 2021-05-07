@@ -15,6 +15,7 @@
         <entry key="common/src/main/res/layout/base_gnb_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/default_webview_layout.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
+        <entry key="feature/dashboard/src/main/res/layout/temp_dashboard_holder_fragment.xml" value="0.1" />
         <entry key="feature/pay/src/main/res/layout/linepay_fragment.xml" value="0.1636271529888551" />
         <entry key="techfinlib/src/main/res/layout/id_number_view.xml" value="0.19882246376811594" />
       </map>
