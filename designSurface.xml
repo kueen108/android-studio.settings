@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/drawable/selector_asset.xml" value="0.1" />
         <entry key="app/src/main/res/layout/bottom_tab.xml" value="0.46879150066401065" />
         <entry key="app/src/main/res/layout/bottom_tab_item.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable-xhdpi/app_info_item_label_text_color_selector.xml" value="0.33384615384615385" />
         <entry key="common/src/main/res/drawable/rounded_rectangle_09aa5c.xml" value="0.1" />
         <entry key="common/src/main/res/layout/app_info_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/app_info_item_view.xml" value="0.157548125633232" />
@@ -17,6 +18,7 @@
         <entry key="common/src/main/res/layout/default_webview_layout.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
         <entry key="feature/dashboard/src/main/res/layout/temp_dashboard_holder_fragment.xml" value="0.1" />
+        <entry key="feature/pay/src/main/res/drawable/common_codes_expired_text_color_selector.xml" value="0.33384615384615385" />
         <entry key="feature/pay/src/main/res/layout/linepay_fragment.xml" value="0.1636271529888551" />
         <entry key="techfinlib/src/main/res/layout/id_number_view.xml" value="0.19882246376811594" />
       </map>
