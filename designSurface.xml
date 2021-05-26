@@ -36,6 +36,7 @@
         <entry key="common/src/main/res/drawable/ic_btn_close.xml" value="0.11018518518518519" />
         <entry key="common/src/main/res/drawable/ic_btn_forward.xml" value="0.3425925925925926" />
         <entry key="common/src/main/res/drawable/ic_right_arrow.xml" value="0.3388888888888889" />
+        <entry key="common/src/main/res/drawable/oval_ff5252.xml" value="0.1787037037037037" />
         <entry key="common/src/main/res/drawable/ripple_button.xml" value="0.18703703703703703" />
         <entry key="common/src/main/res/drawable/ripple_button_09aa5c.xml" value="0.18703703703703703" />
         <entry key="common/src/main/res/drawable/rounded_rectangle_09aa5c.xml" value="0.1" />
@@ -57,7 +58,8 @@
         <entry key="common/src/main/res/layout/webview_navigation_bar.xml" value="0.1519756838905775" />
         <entry key="feature/dashboard/src/main/res/layout/temp_dashboard_holder_fragment.xml" value="0.1" />
         <entry key="feature/intro/src/main/res/drawable/ic_text_01.xml" value="0.18703703703703703" />
-        <entry key="feature/intro/src/main/res/layout/intro_fragment.xml" value="0.15577507598784193" />
+        <entry key="feature/intro/src/main/res/drawable/oval_222222.xml" value="0.1787037037037037" />
+        <entry key="feature/intro/src/main/res/layout/intro_fragment.xml" value="0.3711151011402911" />
         <entry key="feature/intro/src/main/res/layout/intro_page_guide_view.xml" value="0.1529888551165147" />
         <entry key="feature/intro/src/main/res/layout/intro_page_item.xml" value="0.15577507598784193" />
         <entry key="feature/membership/src/main/res/layout/membership_progress_fragment.xml" value="0.1766304347826087" />
