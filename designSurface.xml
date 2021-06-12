@@ -35,6 +35,11 @@
         <entry key="app/src/main/res/layout/wallet_fragment.xml" value="0.14842958459979735" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3138888888888889" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18703703703703703" />
+        <entry key="common/src/main/res/drawable-mdpi/contacts_progress.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable-mdpi/friends_list_check_selector.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable-mdpi/friends_share_help_border.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable-mdpi/friends_share_reagree_border.xml" value="0.17777777777777778" />
+        <entry key="common/src/main/res/drawable-mdpi/friends_share_search_border.xml" value="0.17777777777777778" />
         <entry key="common/src/main/res/drawable-xhdpi/app_info_item_label_text_color_selector.xml" value="0.33384615384615385" />
         <entry key="common/src/main/res/drawable/ic_btn_close.xml" value="0.11018518518518519" />
         <entry key="common/src/main/res/drawable/ic_btn_forward.xml" value="0.3425925925925926" />
@@ -52,6 +57,16 @@
         <entry key="common/src/main/res/layout/base_gnb_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/bottom_sheet_title_area.xml" value="0.1766304347826087" />
         <entry key="common/src/main/res/layout/default_webview_layout.xml" value="0.19731509625126648" />
+        <entry key="common/src/main/res/layout/fragment_friend_profile.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/fragment_friends_select.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/fragment_write_message.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_category_header_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_error_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_hidden_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_list_item_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_selected_item_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
         <entry key="common/src/main/res/layout/open_source_license_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
         <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.15577507598784193" />
