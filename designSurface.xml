@@ -70,7 +70,7 @@
         <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
         <entry key="common/src/main/res/layout/open_source_license_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
-        <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.15577507598784193" />
+        <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.16109422492401215" />
         <entry key="common/src/main/res/layout/payment_contract_send_layout.xml" value="0.14361702127659576" />
         <entry key="common/src/main/res/layout/terms_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/webview_activity.xml" value="0.17755825734549138" />
@@ -84,6 +84,7 @@
         <entry key="feature/intro/src/main/res/layout/intro_fragment.xml" value="0.3711151011402911" />
         <entry key="feature/intro/src/main/res/layout/intro_page_guide_view.xml" value="0.1529888551165147" />
         <entry key="feature/intro/src/main/res/layout/intro_page_item.xml" value="0.15577507598784193" />
+        <entry key="feature/membership/src/main/res/layout/membership_error_fragment.xml" value="0.16109422492401215" />
         <entry key="feature/membership/src/main/res/layout/membership_progress_fragment.xml" value="0.1766304347826087" />
         <entry key="feature/pay/src/main/res/drawable/common_codes_expired_text_color_selector.xml" value="0.33384615384615385" />
         <entry key="feature/pay/src/main/res/drawable/ic_btn_layerclose_light_new.xml" value="0.2" />
