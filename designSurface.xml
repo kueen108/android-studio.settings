@@ -77,6 +77,7 @@
         <entry key="common/src/main/res/layout/webview_bottom_sheet_fragment.xml" value="0.2781303478444401" />
         <entry key="common/src/main/res/layout/webview_navigation_bar.xml" value="0.1519756838905775" />
         <entry key="common/src/main/res/menu/friend_profile_more_menu.xml" value="0.2851851851851852" />
+        <entry key="feature/coupon/src/main/res/layout/coupon_error_fragment.xml" value="0.16109422492401215" />
         <entry key="feature/dashboard/src/main/res/layout/temp_dashboard_holder_fragment.xml" value="0.1" />
         <entry key="feature/intro/src/main/res/drawable/ic_img_text_02.xml" value="0.17962962962962964" />
         <entry key="feature/intro/src/main/res/drawable/ic_text_01.xml" value="0.18703703703703703" />
