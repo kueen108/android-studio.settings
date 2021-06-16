@@ -96,6 +96,7 @@
         <entry key="feature/pay/src/main/res/drawable/common_codes_expired_text_color_selector.xml" value="0.33384615384615385" />
         <entry key="feature/pay/src/main/res/drawable/ic_btn_layerclose_light_new.xml" value="0.2" />
         <entry key="feature/pay/src/main/res/drawable/ic_btn_refresh.xml" value="0.334375" />
+        <entry key="feature/pay/src/main/res/drawable/zeropay_agreement_bg.xml" value="0.18888888888888888" />
         <entry key="feature/pay/src/main/res/layout/bank_account_item.xml" value="0.1" />
         <entry key="feature/pay/src/main/res/layout/bank_account_list_bottom_sheet_fragment.xml" value="0.1" />
         <entry key="feature/pay/src/main/res/layout/common_payment_finish_view.xml" value="0.1766304347826087" />
