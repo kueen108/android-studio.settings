@@ -19,6 +19,8 @@
         <entry key="NidLoginLibrary/src/main/res/layout/nid_alert_dialog.xml" value="0.1" />
         <entry key="Search/res/drawable/img_navermain_network_error_button_bg.xml" value="0.4546296296296296" />
         <entry key="Search/res/mipmap-anydpi-v26/icon.xml" value="0.29583333333333334" />
+        <entry key="app/src/debug/res/layout/dev_api_route_activity.xml" value="0.15172239108409322" />
+        <entry key="app/src/debug/res/layout/dev_api_route_fragment.xml" value="0.15172239108409322" />
         <entry key="app/src/main/res/drawable/ic_alert_solid_copy.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/drawable/ic_benefit.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_bottom_shadow.xml" value="0.1" />
