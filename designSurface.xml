@@ -77,6 +77,7 @@
         <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_selected_item_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
+        <entry key="common/src/main/res/layout/keypad_bottom_sheet_fragment.xml" value="0.1644021739130435" />
         <entry key="common/src/main/res/layout/open_source_license_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
         <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.16109422492401215" />
