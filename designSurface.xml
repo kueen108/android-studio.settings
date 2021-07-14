@@ -53,6 +53,7 @@
         <entry key="common/src/main/res/drawable/ic_right_arrow.xml" value="0.3388888888888889" />
         <entry key="common/src/main/res/drawable/img_end_02.xml" value="0.20277777777777778" />
         <entry key="common/src/main/res/drawable/img_navermain_network_error_button_bg.xml" value="0.20277777777777778" />
+        <entry key="common/src/main/res/drawable/mpm_bullet.xml" value="0.22870370370370371" />
         <entry key="common/src/main/res/drawable/oval_ff5252.xml" value="0.1787037037037037" />
         <entry key="common/src/main/res/drawable/ripple_button.xml" value="0.18703703703703703" />
         <entry key="common/src/main/res/drawable/ripple_button_09aa5c.xml" value="0.18703703703703703" />
@@ -83,6 +84,7 @@
         <entry key="common/src/main/res/layout/open_source_license_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
         <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.16109422492401215" />
+        <entry key="common/src/main/res/layout/pay_toast_view.xml" value="0.16388044579533942" />
         <entry key="common/src/main/res/layout/payment_contract_send_layout.xml" value="0.14361702127659576" />
         <entry key="common/src/main/res/layout/terms_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/webview_activity.xml" value="0.17755825734549138" />
