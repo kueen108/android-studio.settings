@@ -38,19 +38,22 @@
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.335" />
         <entry key="app/src/main/res/layout/wallet_fragment.xml" value="0.14842958459979735" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3138888888888889" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18703703703703703" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19074074074074074" />
         <entry key="common/src/main/res/drawable-mdpi/contacts_progress.xml" value="0.1" />
         <entry key="common/src/main/res/drawable-mdpi/friends_list_check_selector.xml" value="0.1" />
         <entry key="common/src/main/res/drawable-mdpi/friends_share_help_border.xml" value="0.1" />
         <entry key="common/src/main/res/drawable-mdpi/friends_share_reagree_border.xml" value="0.17777777777777778" />
         <entry key="common/src/main/res/drawable-mdpi/friends_share_search_border.xml" value="0.17777777777777778" />
         <entry key="common/src/main/res/drawable-xhdpi/app_info_item_label_text_color_selector.xml" value="0.33384615384615385" />
+        <entry key="common/src/main/res/drawable/bg_payapp_bottom_sheet.xml" value="0.1787037037037037" />
         <entry key="common/src/main/res/drawable/btn_webview_error_refresh_bg.xml" value="0.18888888888888888" />
         <entry key="common/src/main/res/drawable/ic_btn_close.xml" value="0.11018518518518519" />
         <entry key="common/src/main/res/drawable/ic_btn_forward.xml" value="0.3425925925925926" />
+        <entry key="common/src/main/res/drawable/ic_img_app_icon.xml" value="0.27685185185185185" />
         <entry key="common/src/main/res/drawable/ic_right_arrow.xml" value="0.3388888888888889" />
         <entry key="common/src/main/res/drawable/img_end_02.xml" value="0.20277777777777778" />
         <entry key="common/src/main/res/drawable/img_navermain_network_error_button_bg.xml" value="0.20277777777777778" />
+        <entry key="common/src/main/res/drawable/mpm_bullet.xml" value="0.22870370370370371" />
         <entry key="common/src/main/res/drawable/oval_ff5252.xml" value="0.1787037037037037" />
         <entry key="common/src/main/res/drawable/ripple_button.xml" value="0.18703703703703703" />
         <entry key="common/src/main/res/drawable/ripple_button_09aa5c.xml" value="0.18703703703703703" />
@@ -62,6 +65,7 @@
         <entry key="common/src/main/res/drawable/webview_nav_bottom_shadow.xml" value="0.3194444444444444" />
         <entry key="common/src/main/res/layout/app_info_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/app_info_item_view.xml" value="3.5" />
+        <entry key="common/src/main/res/layout/barcode_fragment.xml" value="0.1636271529888551" />
         <entry key="common/src/main/res/layout/base_gnb_fragment.xml" value="0.19731509625126648" />
         <entry key="common/src/main/res/layout/bottom_sheet_title_area.xml" value="0.1766304347826087" />
         <entry key="common/src/main/res/layout/common_bottom_green_button.xml" value="0.15526849037487336" />
@@ -76,9 +80,11 @@
         <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_selected_item_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
+        <entry key="common/src/main/res/layout/keypad_bottom_sheet_fragment.xml" value="0.1644021739130435" />
         <entry key="common/src/main/res/layout/open_source_license_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/pay_alert_dialog.xml" value="0.1" />
         <entry key="common/src/main/res/layout/pay_error_layout.xml" value="0.16109422492401215" />
+        <entry key="common/src/main/res/layout/pay_toast_view.xml" value="0.16388044579533942" />
         <entry key="common/src/main/res/layout/payment_contract_send_layout.xml" value="0.14361702127659576" />
         <entry key="common/src/main/res/layout/terms_fragment.xml" value="0.1773049645390071" />
         <entry key="common/src/main/res/layout/webview_activity.xml" value="0.17755825734549138" />
@@ -89,7 +95,11 @@
         <entry key="common/src/main/res/menu/friend_profile_more_menu.xml" value="0.2851851851851852" />
         <entry key="feature/coupon/src/main/res/layout/coupon_error_fragment.xml" value="0.16109422492401215" />
         <entry key="feature/dashboard/src/main/res/layout/temp_dashboard_holder_fragment.xml" value="0.1" />
-        <entry key="feature/intro/src/main/res/drawable/ic_img_text_02.xml" value="0.17962962962962964" />
+        <entry key="feature/intro/src/main/res/drawable/ic_img_text_01.xml" value="0.2935185185185185" />
+        <entry key="feature/intro/src/main/res/drawable/ic_img_text_02.xml" value="0.2935185185185185" />
+        <entry key="feature/intro/src/main/res/drawable/ic_img_text_03.xml" value="0.275" />
+        <entry key="feature/intro/src/main/res/drawable/ic_img_text_04.xml" value="0.2935185185185185" />
+        <entry key="feature/intro/src/main/res/drawable/ic_img_text_05.xml" value="0.2935185185185185" />
         <entry key="feature/intro/src/main/res/drawable/ic_text_01.xml" value="0.18703703703703703" />
         <entry key="feature/intro/src/main/res/drawable/oval_222222.xml" value="0.1787037037037037" />
         <entry key="feature/intro/src/main/res/layout/intro_fragment.xml" value="0.3711151011402911" />
@@ -138,6 +148,7 @@
         <entry key="techfinlib/src/main/res/layout/npki_import_from_pc.xml" value="0.3470960738020845" />
         <entry key="techfinlib/src/main/res/layout/npki_import_from_phone.xml" value="0.4236921034872403" />
         <entry key="techfinlib/src/main/res/layout/npki_list_footer.xml" value="0.4359318752811803" />
+        <entry key="techfinlib/src/main/res/layout/policy_terms_bottom_sheet_fragment.xml" value="0.15476190476190477" />
         <entry key="techfinlib/src/main/res/layout/techfin_alert_dialog.xml" value="0.16945288753799392" />
       </map>
     </option>
