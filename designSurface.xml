@@ -6,6 +6,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/b8241f8030805b00bd871e3d81abed07/jetified-techfin-1.7.0-newlic03-SNAPSHOT/res/drawable/ripple_09aa5c.xml" value="0.18703703703703703" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/bcc11c0513841526dde1bc39fe0ab378/jetified-techfin-1.7.0-newlic03-SNAPSHOT/res/layout/title_area.xml" value="0.16793313069908813" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/cdd094f2a35900243b6e92bd26dc6eff/jetified-naver-login-naverapp-7.3.8/res/layout/nloginresource_fragmentdialog_fingerprint_auth.xml" value="0.2368659420289855" />
         <entry key="Feature/Friends/src/main/res/drawable/friends_list_check_selector.xml" value="0.28425925925925927" />
         <entry key="Feature/Friends/src/main/res/drawable/profile_favorite_check_selector.xml" value="0.4546296296296296" />
         <entry key="Feature/Friends/src/main/res/drawable/search_icon_selector.xml" value="0.4546296296296296" />
@@ -18,6 +19,7 @@
         <entry key="Feature/Friends/src/main/res/menu/friend_profile_more_menu.xml" value="0.24722222222222223" />
         <entry key="NaverAppDemo/src/main/res/layout/main_activity.xml" value="0.1707193515704154" />
         <entry key="NidLoginLibrary/src/main/res/layout/nid_alert_dialog.xml" value="0.1" />
+        <entry key="NidLoginLibrary/src/main/res/layout/nloginresource_fragmentdialog_fingerprint_auth.xml" value="0.2368659420289855" />
         <entry key="Search/res/drawable/img_navermain_network_error_button_bg.xml" value="0.4546296296296296" />
         <entry key="Search/res/mipmap-anydpi-v26/icon.xml" value="0.29583333333333334" />
         <entry key="app/src/debug/res/layout/dev_api_route_activity.xml" value="0.15172239108409322" />
