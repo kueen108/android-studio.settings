@@ -83,7 +83,7 @@
         <entry key="common/src/main/res/layout/friends_error_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_hidden_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_list_item_layout.xml" value="0.1" />
-        <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.16388044579533942" />
         <entry key="common/src/main/res/layout/friends_selected_item_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
         <entry key="common/src/main/res/layout/keypad_bottom_sheet_fragment.xml" value="0.1644021739130435" />
