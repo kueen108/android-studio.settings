@@ -6,6 +6,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/b8241f8030805b00bd871e3d81abed07/jetified-techfin-1.7.0-newlic03-SNAPSHOT/res/drawable/ripple_09aa5c.xml" value="0.18703703703703703" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/bcc11c0513841526dde1bc39fe0ab378/jetified-techfin-1.7.0-newlic03-SNAPSHOT/res/layout/title_area.xml" value="0.16793313069908813" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/cdd094f2a35900243b6e92bd26dc6eff/jetified-naver-login-naverapp-7.3.8/res/layout/nloginresource_fragmentdialog_fingerprint_auth.xml" value="0.2368659420289855" />
         <entry key="Feature/Friends/src/main/res/drawable/friends_list_check_selector.xml" value="0.28425925925925927" />
         <entry key="Feature/Friends/src/main/res/drawable/profile_favorite_check_selector.xml" value="0.4546296296296296" />
         <entry key="Feature/Friends/src/main/res/drawable/search_icon_selector.xml" value="0.4546296296296296" />
@@ -16,7 +17,10 @@
         <entry key="Feature/Friends/src/main/res/layout/friends_list_item_layout.xml" value="0.2261904761904762" />
         <entry key="Feature/Friends/src/main/res/layout/friends_selected_item_layout.xml" value="0.27717391304347827" />
         <entry key="Feature/Friends/src/main/res/menu/friend_profile_more_menu.xml" value="0.24722222222222223" />
+        <entry key="NaverAppDemo/src/main/res/layout/inapp_activity.xml" value="0.16540020263424518" />
+        <entry key="NaverAppDemo/src/main/res/layout/main_activity.xml" value="0.1707193515704154" />
         <entry key="NidLoginLibrary/src/main/res/layout/nid_alert_dialog.xml" value="0.1" />
+        <entry key="NidLoginLibrary/src/main/res/layout/nloginresource_fragmentdialog_fingerprint_auth.xml" value="0.2368659420289855" />
         <entry key="Search/res/drawable/img_navermain_network_error_button_bg.xml" value="0.4546296296296296" />
         <entry key="Search/res/mipmap-anydpi-v26/icon.xml" value="0.29583333333333334" />
         <entry key="app/src/debug/res/layout/dev_api_route_activity.xml" value="0.15172239108409322" />
@@ -24,7 +28,9 @@
         <entry key="app/src/main/res/drawable/ic_alert_solid_copy.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/drawable/ic_benefit.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_bottom_shadow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_btn_mpm.xml" value="0.31927083333333334" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3138888888888889" />
+        <entry key="app/src/main/res/drawable/ic_logo_pay_aos.xml" value="0.3296875" />
         <entry key="app/src/main/res/drawable/ic_more.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_navigation_bg.xml" value="0.3175925925925926" />
         <entry key="app/src/main/res/drawable/ic_payapp_adaptive_icon.xml" value="0.18333333333333332" />
@@ -34,7 +40,7 @@
         <entry key="app/src/main/res/layout/bottom_tab.xml" value="0.46879150066401065" />
         <entry key="app/src/main/res/layout/bottom_tab_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/intro_fragment.xml" value="0.1766304347826087" />
-        <entry key="app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.16641337386018237" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.335" />
         <entry key="app/src/main/res/layout/wallet_fragment.xml" value="0.14842958459979735" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3138888888888889" />
@@ -77,7 +83,7 @@
         <entry key="common/src/main/res/layout/friends_error_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_hidden_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_list_item_layout.xml" value="0.1" />
-        <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.1" />
+        <entry key="common/src/main/res/layout/friends_select_help_layout.xml" value="0.16388044579533942" />
         <entry key="common/src/main/res/layout/friends_selected_item_layout.xml" value="0.1" />
         <entry key="common/src/main/res/layout/friends_share_activity.xml" value="0.1884498480243161" />
         <entry key="common/src/main/res/layout/keypad_bottom_sheet_fragment.xml" value="0.1644021739130435" />
@@ -135,11 +141,14 @@
         <entry key="feature/remit/src/main/res/menu/friend_profile_more_menu.xml" value="0.2675925925925926" />
         <entry key="techfinlib/src/dev/res/layout/techfin_alert_dialog.xml" value="0.15476190476190477" />
         <entry key="techfinlib/src/main/res/drawable-land/rounded_rectangle_ffffff.xml" value="0.10625" />
+        <entry key="techfinlib/src/main/res/drawable/npki_export_cert_nm_bg.xml" value="0.1" />
         <entry key="techfinlib/src/main/res/drawable/npki_import_cert_nm_bg.xml" value="0.1" />
         <entry key="techfinlib/src/main/res/drawable/ripple_dee2e8.xml" value="0.15833333333333333" />
         <entry key="techfinlib/src/main/res/drawable/rounded_rectangle_ffffff.xml" value="0.19444444444444445" />
-        <entry key="techfinlib/src/main/res/layout/cert_pc_import_alert_dialog.xml" value="0.16388044579533942" />
+        <entry key="techfinlib/src/main/res/layout/cert_pc_import_alert_dialog.xml" value="0.3157894736842105" />
+        <entry key="techfinlib/src/main/res/layout/dialog_title_area.xml" value="0.1" />
         <entry key="techfinlib/src/main/res/layout/empty_npki_layout.xml" value="0.3817309324250676" />
+        <entry key="techfinlib/src/main/res/layout/fin_login_fragment.xml" value="0.1" />
         <entry key="techfinlib/src/main/res/layout/id_number_view.xml" value="0.19882246376811594" />
         <entry key="techfinlib/src/main/res/layout/npki_export_fragment.xml" value="0.1" />
         <entry key="techfinlib/src/main/res/layout/npki_export_to_pc.xml" value="0.25" />
