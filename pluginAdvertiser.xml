@@ -146,19 +146,19 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.cpt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dart">
           <value>
             <plugin>
               <option name="myPluginId" value="Dart" />
               <option name="myPluginName" value="Dart" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.db">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
             </plugin>
           </value>
         </entry>
@@ -989,11 +989,19 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.spec">
+        <entry key="*.sq">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sqm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
             </plugin>
           </value>
         </entry>
@@ -1429,6 +1437,11 @@
                       <FeaturePluginData displayName="Flutter Test" pluginName="Flutter" pluginId="io.flutter" />
                     </value>
                   </entry>
+                  <entry key="GradleKonanAppRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Kotlin/Native Application" pluginName="Kotlin Multiplatform Mobile" pluginId="com.jetbrains.kmm" />
+                    </value>
+                  </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
@@ -1457,6 +1470,11 @@
                   <entry key="JetRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="KmmRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="iOS Application" pluginName="Kotlin Multiplatform Mobile" pluginId="com.jetbrains.kmm" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
