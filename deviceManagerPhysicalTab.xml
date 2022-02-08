@@ -8,9 +8,10 @@
             <value value="R39M200TV4A" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-02-08T12:16:25.438886Z" />
+        <name value="samsung SM-G973N" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
