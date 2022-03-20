@@ -4,6 +4,18 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R39M200TV4A" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-20T08:39:02.275697Z" />
+        <name value="samsung SM-G973N" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-R39M200TV4A-HaV6JH._adb-tls-connect._tcp." />
           </Key>
@@ -12,18 +24,6 @@
         <name value="samsung SM-G973N" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R39M200TV4A" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-19T09:20:18.120781Z" />
-        <name value="samsung SM-G973N" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
