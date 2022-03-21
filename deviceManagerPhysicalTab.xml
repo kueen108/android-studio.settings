@@ -8,9 +8,10 @@
             <value value="R39M200TV4A" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-03-21T06:55:00.002723Z" />
+        <name value="samsung SM-G973N" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -34,6 +35,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9A201FFAZ00134" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
