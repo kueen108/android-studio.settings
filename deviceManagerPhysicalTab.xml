@@ -8,7 +8,6 @@
             <value value="R39M200TV4A" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-10T23:54:16.619765Z" />
         <name value="samsung SM-G973N" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -20,7 +19,6 @@
             <value value="adb-R39M200TV4A-HaV6JH._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-10T23:47:47.899686Z" />
         <name value="samsung SM-G973N" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -46,6 +44,17 @@
         <name value="Google Pixel 4" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="aae156db" />
+          </Key>
+        </key>
+        <name value="samsung SM-G900S" />
+        <target value="Android 6.0" />
+        <api value="23" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
