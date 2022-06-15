@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="aae156db" />
-          </Key>
-        </key>
-        <name value="samsung SM-G900S" />
-        <target value="Android 6.0" />
-        <api value="23" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="R39M200TV4A" />
           </Key>
         </key>
         <name value="samsung SM-G973N" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="aae156db" />
+          </Key>
+        </key>
+        <name value="samsung SM-G900S" />
+        <target value="Android 6.0" />
+        <api value="23" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
