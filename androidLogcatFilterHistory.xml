@@ -5,6 +5,8 @@
       <list>
         <option value="package:mine HUID" />
         <option value="package:mine " />
+        <option value="package:mine beta" />
+        <option value="WebView" />
       </list>
     </option>
   </component>
