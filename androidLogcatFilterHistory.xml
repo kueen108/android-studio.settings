@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine HUID" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine HUID" />
         <option value="package:mine HuidReceiver" />
+        <option value="package:mine MyHuidReceiver" />
+        <option value="package:mine " />
         <option value="package:mine Sap_act_main_launcher" />
         <option value="package:mine beta" />
         <option value="WebView" />
