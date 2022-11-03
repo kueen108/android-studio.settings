@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine prepareUnlock" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine prepareUnlock" />
         <option value="package:mine" />
         <option value="package:mine uri." />
         <option value="package:mine " />
