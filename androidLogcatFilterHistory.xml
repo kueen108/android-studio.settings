@@ -4,13 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:com.huvle.browser.samplesdk " />
+        <option value="package:mine checkIntegrity" />
+        <option value="package:mine biometrics" />
+        <option value="package:mine prepareUnlock" />
         <option value="package:mine" />
-        <option value="package:mine level:error " />
-        <option value="package:mine HUID" />
-        <option value="package:mine HuidReceiver" />
-        <option value="package:mine MyHuidReceiver" />
-        <option value="package:mine Sap_act_main_launcher" />
+        <option value="package:mine uri." />
         <option value="package:mine beta" />
         <option value="WebView" />
       </list>
