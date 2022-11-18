@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PaymentsSchemeActivity" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine PaymentsSchemeActivity" />
         <option value="package:mine WebViewUrlHooker" />
         <option value="package:mine shouldOverrideUrlLoading" />
-        <option value="package:mine " />
         <option value="package:mine checkIntegrity" />
         <option value="package:mine biometrics" />
         <option value="package:mine prepareUnlock" />
