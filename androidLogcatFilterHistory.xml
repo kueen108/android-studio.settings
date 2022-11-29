@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="requestPayAuth" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="requestPayAuth" />
         <option value="package:mine " />
+        <option value="requestPayAuth" />
         <option value="package:mine Failed to requestPayAuth" />
         <option value="package:mine PaymentsSchemeActivity" />
         <option value="package:mine WebViewUrlHooker" />
