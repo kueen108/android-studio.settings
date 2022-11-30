@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine shouldOverrideUrlLoading" />
         <option value="package:com.huvle.browser.samplesdk " />
         <option value="package:mine checkIntegrity" />
         <option value="package:mine biometrics" />
