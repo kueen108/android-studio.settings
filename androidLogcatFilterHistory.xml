@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.huvle.browser.samplesdk " />
         <option value="package:mine " />
+        <option value="package:com.huvle.browser.samplesdk " />
         <option value="package:mine checkIntegrity" />
         <option value="package:mine biometrics" />
         <option value="package:mine prepareUnlock" />
