@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MstPaymentListener" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MstPaymentListener" />
         <option value="package:mine " />
+        <option value="package:mine MstPaymentListener" />
         <option value="requestPayAuth" />
         <option value="package:mine Failed to requestPayAuth" />
         <option value="package:mine PaymentsSchemeActivity" />
