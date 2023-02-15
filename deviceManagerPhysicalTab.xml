@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Google Pixel 4" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,9 +19,8 @@
             <value value="R39M200TV4A" />
           </Key>
         </key>
-        <name value="samsung SM-G973N" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +31,7 @@
         </key>
         <name value="samsung SM-G900S" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +42,7 @@
         </key>
         <name value="samsung SM-G973N" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +53,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

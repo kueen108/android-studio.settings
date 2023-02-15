@@ -1,0 +1,22 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine MstPaymentListener" />
+        <option value="requestPayAuth" />
+        <option value="package:mine Failed to requestPayAuth" />
+        <option value="package:mine PaymentsSchemeActivity" />
+        <option value="package:mine WebViewUrlHooker" />
+        <option value="package:mine shouldOverrideUrlLoading" />
+        <option value="package:mine checkIntegrity" />
+        <option value="package:mine biometrics" />
+        <option value="package:mine prepareUnlock" />
+        <option value="package:mine" />
+        <option value="package:mine uri." />
+        <option value="package:mine beta" />
+        <option value="WebView" />
+      </list>
+    </option>
+  </component>
+</application>
