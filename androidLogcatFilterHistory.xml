@@ -3,6 +3,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value=":package:mine" />
+        <option value=":package:mine " />
+        <option value="Failed to" />
+        <option value="Vibration progress" />
         <option value="package:mine MstPaymentListener" />
         <option value="requestPayAuth" />
         <option value="package:mine Failed to requestPayAuth" />
