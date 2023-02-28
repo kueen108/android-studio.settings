@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine [MST]" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value=":package:mine" />
         <option value=":package:mine " />
@@ -18,7 +19,6 @@
         <option value="package:mine checkIntegrity" />
         <option value="package:mine biometrics" />
         <option value="package:mine prepareUnlock" />
-        <option value="package:mine" />
         <option value="package:mine uri." />
         <option value="package:mine beta" />
         <option value="WebView" />
