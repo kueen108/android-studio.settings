@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine [MST" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine [MST" />
         <option value="package:mine " />
         <option value="package:mine [MST-Vib]" />
         <option value="package:mine 401" />
@@ -21,7 +23,6 @@
         <option value="package:mine WebViewUrlHooker" />
         <option value="package:mine shouldOverrideUrlLoading" />
         <option value="package:mine checkIntegrity" />
-        <option value="package:mine biometrics" />
       </list>
     </option>
   </component>
