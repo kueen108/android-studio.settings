@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MST" />
+    <option name="mostRecentlyUsed" value="package:mine fen" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fen" />
         <option value="package:mine MST" />
         <option value="package:mine " />
         <option value="package:mine [MST" />
@@ -22,7 +23,6 @@
         <option value="package:mine Failed to requestPayAuth" />
         <option value="package:mine PaymentsSchemeActivity" />
         <option value="package:mine WebViewUrlHooker" />
-        <option value="package:mine shouldOverrideUrlLoading" />
       </list>
     </option>
   </component>
