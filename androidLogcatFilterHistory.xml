@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="[MST]" />
     <option name="nonFavorites">
       <list>
+        <option value="[MST]" />
+        <option value="Failed to get spay support info" />
+        <option value="[MST] Failed to get spay support info" />
         <option value="package:mine " />
         <option value="package:mine Remit" />
         <option value="package:mine Order" />
@@ -16,12 +20,9 @@
         <option value="requestLogout" />
         <option value="401" />
         <option value="package:mine [MST]" />
-        <option value="[MST]" />
         <option value=":package:mine" />
         <option value=":package:mine " />
         <option value="Failed to" />
-        <option value="Vibration progress" />
-        <option value="package:mine MstPaymentListener" />
       </list>
     </option>
   </component>
