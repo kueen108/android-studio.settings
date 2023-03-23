@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="isWifiEnabled" />
     <option name="nonFavorites">
       <list>
+        <option value="isWifiEnabled" />
         <option value="package:mine " />
         <option value="[MST]" />
         <option value="Failed to get spay support info" />
@@ -21,7 +23,6 @@
         <option value="package:mine [MST]" />
         <option value=":package:mine" />
         <option value=":package:mine " />
-        <option value="Failed to" />
       </list>
     </option>
   </component>
