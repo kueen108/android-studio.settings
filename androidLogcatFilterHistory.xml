@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Failed to choose file in " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine Failed to choose file in " />
         <option value="package:mine Failed to" />
-        <option value="package:mine " />
         <option value="isWifiEnabled" />
         <option value="[MST]" />
         <option value="Failed to get spay support info" />
