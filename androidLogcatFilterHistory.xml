@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine [Push]" />
         <option value="package:mine " />
         <option value="package:mine Unknown" />
@@ -17,7 +18,6 @@
         <option value="package:mine Order" />
         <option value="package:mine MyAsset" />
         <option value="package:mine hideNavigationBar" />
-        <option value="package:mine" />
         <option value="package:mine [MST" />
         <option value="package:mine fen" />
         <option value="package:mine MST" />
