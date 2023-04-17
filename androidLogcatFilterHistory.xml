@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
+    <option name="mostRecentlyUsed" value="package:mine Current Time" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Current Time" />
+        <option value="package:mine Current" />
         <option value="package:mine [Push]" />
         <option value="package:mine " />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="package:mine [MST" />
         <option value="package:mine fen" />
         <option value="package:mine MST" />
-        <option value="package:mine [MST-Vib]" />
-        <option value="package:mine 401" />
       </list>
     </option>
   </component>
