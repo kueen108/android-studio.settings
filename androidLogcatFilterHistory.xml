@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine [Push]" />
+        <option value="package:mine pagingData.filter" />
         <option value="package:mine" />
         <option value="package:mine current time" />
         <option value="package:mine addLoadAteListener" />
@@ -22,7 +23,6 @@
         <option value="[MST] Failed to get spay support info" />
         <option value="package:mine Remit" />
         <option value="package:mine Order" />
-        <option value="package:mine MyAsset" />
       </list>
     </option>
   </component>
