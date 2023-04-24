@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine notifyItemRemovedByMessageId" />
         <option value="package:mine isPayAppRegisteredDevice" />
         <option value="package:mine [Push]" />
         <option value="package:mine current time" />
@@ -21,7 +22,6 @@
         <option value="package:mine Order" />
         <option value="package:mine MyAsset" />
         <option value="package:mine hideNavigationBar" />
-        <option value="package:mine [MST" />
       </list>
     </option>
   </component>
