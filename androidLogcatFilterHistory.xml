@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
+    <option name="mostRecentlyUsed" value="package:mine [Push] " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine [Push] " />
         <option value="package:mine [Push]" />
         <option value="package:mine pagingData.filter" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="Failed to get spay support info" />
         <option value="[MST] Failed to get spay support info" />
         <option value="package:mine Remit" />
-        <option value="package:mine Order" />
       </list>
     </option>
   </component>
