@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine [Push]" />
         <option value="package:mine" />
         <option value="package:mine [Push] " />
@@ -10,7 +10,6 @@
         <option value="package:mine [Push] pagingData.filter" />
         <option value="package:mine current time" />
         <option value="package:mine addLoadAteListener" />
-        <option value="package:mine " />
         <option value="package:mine notifyItemRemovedByMessageId" />
         <option value="package:mine isPayAppRegisteredDevice" />
         <option value="package:mine Current Time" />
