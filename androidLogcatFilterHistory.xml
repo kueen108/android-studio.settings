@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  mstStatus:" />
+    <option name="mostRecentlyUsed" value="package:mine  mstStatus" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  mstStatus" />
+        <option value="package:mine  SignalStopped" />
+        <option value="package:mine  SignalStop" />
+        <option value="package:mine  mstStatus or But" />
         <option value="package:mine  mstStatus:" />
         <option value="package:mine " />
         <option value="package:mine But" />
@@ -19,10 +23,6 @@
         <option value="package:mine Current Time" />
         <option value="package:mine Current" />
         <option value="package:mine Unknown" />
-        <option value="package:mine FCM" />
-        <option value="package:mine Failed to choose file in " />
-        <option value="package:mine Failed to" />
-        <option value="isWifiEnabled" />
       </list>
     </option>
   </component>
