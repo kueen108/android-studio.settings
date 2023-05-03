@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  mstStatus:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  mstStatus:" />
         <option value="package:mine " />
+        <option value="package:mine But" />
         <option value="package:mine notifyDeviceAuthError" />
         <option value="package:mine" />
         <option value="package:mine [Push]" />
@@ -20,8 +23,6 @@
         <option value="package:mine Failed to choose file in " />
         <option value="package:mine Failed to" />
         <option value="isWifiEnabled" />
-        <option value="[MST]" />
-        <option value="Failed to get spay support info" />
       </list>
     </option>
   </component>
