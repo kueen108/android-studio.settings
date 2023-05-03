@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine notifyDeviceAuthError" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine notifyDeviceAuthError" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine [Push]" />
         <option value="package:mine [Push] " />
         <option value="package:mine pagingData.filter" />
