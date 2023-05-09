@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="[MPM]" />
+        <option value="onForceExitApp" />
         <option value="package:mine onForceExitApp" />
         <option value="package:mine " />
         <option value="PayAuthState" />
@@ -22,7 +23,6 @@
         <option value="package:mine But" />
         <option value="package:mine notifyDeviceAuthError" />
         <option value="package:mine [Push]" />
-        <option value="package:mine [Push] " />
       </list>
     </option>
   </component>
