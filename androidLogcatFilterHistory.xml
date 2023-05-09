@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PayAuthState" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="PayAuthState" />
         <option value="AppLockChecker" />
-        <option value="package:mine " />
         <option value="package:mine hasPassedExpirationTime" />
         <option value="package:mine AppLockChecker" />
         <option value="package:mine AppLockChecker - payAuthState" />
