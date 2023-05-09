@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onForceExitApp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onForceExitApp" />
         <option value="package:mine " />
         <option value="PayAuthState" />
         <option value="AppLockChecker" />
@@ -21,7 +23,6 @@
         <option value="package:mine [Push]" />
         <option value="package:mine [Push] " />
         <option value="package:mine pagingData.filter" />
-        <option value="package:mine [Push] pagingData.filter" />
       </list>
     </option>
   </component>
