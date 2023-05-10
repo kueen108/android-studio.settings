@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [MPM]" />
+    <option name="mostRecentlyUsed" value="package:mine isPayAppRegisteredDevice" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine isPayAppRegisteredDevice" />
         <option value="package:mine [MPM]" />
         <option value="package:mine " />
         <option value="[MPM]" />
@@ -22,7 +23,6 @@
         <option value="package:mine  mstStatus or But" />
         <option value="package:mine  mstStatus:" />
         <option value="package:mine But" />
-        <option value="package:mine notifyDeviceAuthError" />
       </list>
     </option>
   </component>
