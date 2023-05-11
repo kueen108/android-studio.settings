@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Base" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine [Base" />
         <option value="package:mine" />
         <option value="package:mine [MPM]" />
         <option value="package:mine checkPayMemberStatus" />
         <option value="package:mine requestLogin" />
         <option value="package:mine isPayAppRegisteredDevice" />
-        <option value="package:mine " />
         <option value="[MPM]" />
         <option value="onForceExitApp" />
         <option value="package:mine onForceExitApp" />
