@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine https://new-alpha-m.pay.naver.com" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
+        <option value="package:mine  MyAsset" />
+        <option value="package:mine " />
         <option value="package:mine https://new-alpha-m.pay.naver.com" />
         <option value="package:mine mydata/home" />
         <option value="package:mine mydata" />
-        <option value="package:mine " />
         <option value="package:mine [Base" />
         <option value="package:mine" />
         <option value="package:mine [MPM]" />
@@ -21,8 +23,6 @@
         <option value="package:mine hasPassedExpirationTime" />
         <option value="package:mine AppLockChecker" />
         <option value="package:mine AppLockChecker - payAuthState" />
-        <option value="package:mine  [MST]" />
-        <option value="package:mine  But" />
       </list>
     </option>
   </component>
