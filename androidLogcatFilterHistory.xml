@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [MST]" />
+    <option name="mostRecentlyUsed" value="MST" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine [MST]" />
+        <option value="MST" />
+        <option value="com.nhn." />
         <option value="package:mine " />
+        <option value="package:mine [MST]" />
         <option value="package:mine onActivityStopped" />
         <option value="package:mine [MST] " />
         <option value="package:mine  [MST]" />
@@ -21,8 +23,6 @@
         <option value="package:mine isPayAppRegisteredDevice" />
         <option value="[MPM]" />
         <option value="onForceExitApp" />
-        <option value="package:mine onForceExitApp" />
-        <option value="PayAuthState" />
       </list>
     </option>
   </component>
