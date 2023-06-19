@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
+    <option name="mostRecentlyUsed" value="package:mine requestAppInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine requestAppInfo" />
+        <option value="package:mine" />
         <option value="package:mine [Push]" />
         <option value="package:mine " />
         <option value="package:mine FCM" />
@@ -19,10 +21,8 @@
         <option value="package:mine mydata/home" />
         <option value="package:mine mydata" />
         <option value="package:mine [Base" />
-        <option value="package:mine" />
         <option value="package:mine [MPM]" />
         <option value="package:mine checkPayMemberStatus" />
-        <option value="package:mine requestLogin" />
       </list>
     </option>
   </component>
