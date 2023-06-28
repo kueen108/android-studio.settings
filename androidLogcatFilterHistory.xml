@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine [Push]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine [Push]" />
         <option value="package:mine [Push] authSession" />
-        <option value="package:mine " />
         <option value="package:com.naverfin.payapp" />
         <option value="package:mine requestAppInfo" />
         <option value="package:mine" />
