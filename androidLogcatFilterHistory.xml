@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine MSS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MSS" />
         <option value="package:mine " />
         <option value="package:mine [Push]" />
         <option value="package:mine [Push] authSession" />
@@ -21,7 +23,6 @@
         <option value="package:mine https://new-alpha-m.pay.naver.com" />
         <option value="package:mine mydata/home" />
         <option value="package:mine mydata" />
-        <option value="package:mine [Base" />
       </list>
     </option>
   </component>
