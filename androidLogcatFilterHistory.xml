@@ -1,11 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine MSS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MSS" />
+        <option value="package:mine " />
+        <option value="package:mine [Push]" />
+        <option value="package:mine [Push] authSession" />
+        <option value="package:com.naverfin.payapp" />
+        <option value="package:mine requestAppInfo" />
+        <option value="package:mine" />
+        <option value="package:mine FCM" />
+        <option value="[Push]" />
         <option value="MST" />
         <option value="com.nhn." />
-        <option value="package:mine " />
         <option value="package:mine [MST]" />
         <option value="package:mine onActivityStopped" />
         <option value="package:mine [MST] " />
@@ -15,14 +23,6 @@
         <option value="package:mine https://new-alpha-m.pay.naver.com" />
         <option value="package:mine mydata/home" />
         <option value="package:mine mydata" />
-        <option value="package:mine [Base" />
-        <option value="package:mine" />
-        <option value="package:mine [MPM]" />
-        <option value="package:mine checkPayMemberStatus" />
-        <option value="package:mine requestLogin" />
-        <option value="package:mine isPayAppRegisteredDevice" />
-        <option value="[MPM]" />
-        <option value="onForceExitApp" />
       </list>
     </option>
   </component>
