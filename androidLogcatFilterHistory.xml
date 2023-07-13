@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine refreshNotiCount" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine refreshNotiCount" />
         <option value="package:mine " />
+        <option value="package:mine refreshNotiCount" />
         <option value="package:mine uiReloadEventBus" />
         <option value="package:mine onResume" />
         <option value="package:mine BaseWebViewFragment" />
