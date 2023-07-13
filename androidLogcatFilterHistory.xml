@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onResume" />
+    <option name="mostRecentlyUsed" value="package:mine refreshNotiCount" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine refreshNotiCount" />
+        <option value="package:mine " />
+        <option value="package:mine uiReloadEventBus" />
         <option value="package:mine onResume" />
         <option value="package:mine BaseWebViewFragment" />
-        <option value="package:mine " />
         <option value="package:mine Push" />
         <option value="package:mine MSS" />
         <option value="package:mine [Push]" />
@@ -21,8 +23,6 @@
         <option value="package:mine onActivityStopped" />
         <option value="package:mine [MST] " />
         <option value="package:mine  [MST]" />
-        <option value="package:mine  " />
-        <option value="package:mine  MyAsset" />
       </list>
     </option>
   </component>
