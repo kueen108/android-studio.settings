@@ -1,28 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FCM" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine FCM" />
         <option value="package:mine " />
-        <option value="package:mine Failed to choose file in " />
-        <option value="package:mine Failed to" />
-        <option value="isWifiEnabled" />
-        <option value="[MST]" />
-        <option value="Failed to get spay support info" />
-        <option value="[MST] Failed to get spay support info" />
-        <option value="package:mine Remit" />
-        <option value="package:mine Order" />
-        <option value="package:mine MyAsset" />
-        <option value="package:mine hideNavigationBar" />
+        <option value="package:mine refreshNotiCount" />
+        <option value="package:mine uiReloadEventBus" />
+        <option value="package:mine onResume" />
+        <option value="package:mine BaseWebViewFragment" />
+        <option value="package:mine Push" />
+        <option value="package:mine MSS" />
+        <option value="package:mine [Push]" />
+        <option value="package:mine [Push] authSession" />
+        <option value="package:com.naverfin.payapp" />
+        <option value="package:mine requestAppInfo" />
         <option value="package:mine" />
-        <option value="package:mine [MST" />
-        <option value="package:mine fen" />
-        <option value="package:mine MST" />
-        <option value="package:mine [MST-Vib]" />
-        <option value="package:mine 401" />
-        <option value="requestLogout" />
-        <option value="401" />
+        <option value="package:mine FCM" />
+        <option value="[Push]" />
+        <option value="MST" />
+        <option value="com.nhn." />
+        <option value="package:mine [MST]" />
+        <option value="package:mine onActivityStopped" />
+        <option value="package:mine [MST] " />
+        <option value="package:mine  [MST]" />
       </list>
     </option>
   </component>
