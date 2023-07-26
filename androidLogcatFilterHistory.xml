@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine WebViewPermissionMediator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WebViewPermissionMediator" />
         <option value="package:mine " />
         <option value="package:mine refreshNotiCount" />
         <option value="package:mine uiReloadEventBus" />
@@ -21,7 +23,6 @@
         <option value="package:mine [MST]" />
         <option value="package:mine onActivityStopped" />
         <option value="package:mine [MST] " />
-        <option value="package:mine  [MST]" />
       </list>
     </option>
   </component>
